@@ -21,9 +21,12 @@
 		<h1>Hacker Archive</h1>
 		<ul>
 			{% for page in site.pages %}
-			<li>
-				<a href="/hacker-archive{{ page.url }}">{{ page.url }}</a>
-			</li>
+				{% if page.url contains '/assets/' %}
+				{% else %}
+					<li>
+						<a href="/hacker-archive{{ page.url }}">{{ page.url }}</a>
+					</li>
+				{% endif %}
 			{% endfor %}
 		</ul>
 	</div>
