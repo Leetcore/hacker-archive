@@ -1,0 +1,4 @@
+---
+layout: frontpage
+title: Blog
+---
