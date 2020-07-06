@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="alternate" type="application/rss+xml" title="Update Feed" href="/blog/feed.rss" />
+	<title>{{ page.title }}</title>
+	{% feed_meta %}
+	<link rel="stylesheet" href="/style.css">
+	<!--
+
+
+	Aus großer Macht folgt große Verantwortung! 
+
+
+	-->
+</head>
+
+<body>
+	<header>
+		<a href="/hacker-archive">Archive</a>
+	</header>
+	<article id="main">
+		{{ content }}
+	</article>
+</body>
+
+</html>
