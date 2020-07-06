@@ -1,6 +1,5 @@
 theme: jekyll-theme-hacker
 plugins:
-  - jekyll-feed
   - jekyll-titles-from-headings
 permalink: :title:output_ext
 titles_from_headings:
