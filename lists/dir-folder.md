@@ -1,5 +1,7 @@
 ** Source **: https://github.com/Bo0oM/fuzz.txt/blob/master/fuzz.txt
 
+** RAW **: https://raw.githubusercontent.com/Leetcore/hacker-archive/master/lists/dir-folder.md
+
 ```
 !.gitignore
 !.htaccess
