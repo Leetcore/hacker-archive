@@ -24,7 +24,7 @@
 				{% if page.url contains '/assets/' %}
 				{% else %}
 					<li>
-						<a href="/hacker-archive{{ page.url }}">{{ page.url }}</a>
+						<a href="/{{ page.url }}">{{ page.url }}</a>
 					</li>
 				{% endif %}
 			{% endfor %}
