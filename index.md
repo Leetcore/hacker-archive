@@ -1,7 +1,4 @@
 ---
 layout: frontpage
-title: Hacker Archive
+title: 1337observer
 ---
-
-
-* https://exploit.education
