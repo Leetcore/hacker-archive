@@ -19,7 +19,7 @@
 <body>
 	<div id="main">
 		<h1>1337observer</h1>
-		<h2>news_</h2>
+		<h3>news</h2>
 		<ul>
 			{% for post in site.posts limit:3 %}
 			<li>
@@ -28,7 +28,7 @@
 			{% endfor %}
 		</ul>
 		
-		<h2>archive_</h2>
+		<h3>archive</h2>
 		<ul>
 			{% for page in site.pages %}
 				{% if page.url contains '/assets/' %}
