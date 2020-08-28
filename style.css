@@ -10,7 +10,6 @@ body {
     color: #524a3d;
     font-family: 'blockzone', Monospace, Arial, sans-serif;
     font-size: 105%;
-    line-height: 120%;
 }
 h1, h2 {
     margin: 0px 0px;
@@ -103,7 +102,6 @@ iframe {
     font-size: 90%;
 }
 pre, code {
-    line-height: 120%;
     white-space: pre-wrap;
     font-size: 95%;
 }
