@@ -10,6 +10,7 @@ body {
     color: #524a3d;
     font-family: 'blockzone', Monospace, Arial, sans-serif;
     font-size: 105%;
+    line-height: 110%;
 }
 h1, h2 {
     margin: 0px 0px;
