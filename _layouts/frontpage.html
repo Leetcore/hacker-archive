@@ -20,7 +20,8 @@
 <body>
 	<div id="main">
 		<h1>1337observer</h1>
-		<h3>news</h2>
+		<p>This is very work in progress. Nothing to see here...</p>
+		<h3>new</h2>
 		<ul>
 			{% for post in site.posts limit:3 %}
 			<li>
@@ -29,16 +30,9 @@
 			{% endfor %}
 		</ul>
 		
-		<h3>archive</h2>
+		<h3>lists</h2>
 		<ul>
-			{% for page in site.pages %}
-				{% if page.url contains '/assets/' %}
-				{% else %}
-					<li>
-						<a href="{{ page.url }}">{{ page.url }}</a>
-					</li>
-				{% endif %}
-			{% endfor %}
+			<li><a href="https://raw.githubusercontent.com/Leetcore/hacker-archive/master/lists/dir-folder.txt">dir-folder.txt - Folder discovery</a></li>
 		</ul>
 	</div>
 </body>

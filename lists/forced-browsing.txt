@@ -1,4 +1,3 @@
-```
 common
 CVS
 root
@@ -5966,4 +5965,3 @@ inspect
 phpbb_setup
 store_setup
 system_setup
-```
