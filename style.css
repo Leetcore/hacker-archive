@@ -15,7 +15,7 @@ body {
 h1, h2 {
     margin-bottom: 10px;
     color: #50d71f;
-    text-shadow: 2px 2px 2px #333;
+    text-shadow: 2px 2px 2px #428838;
 }
 h2::after {
     content: "_";
