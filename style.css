@@ -21,7 +21,6 @@ h2::after {
     content: "_";
 }
 a, a:link, a:visited {
-    padding: 0px 5px;
     color: #49902f;
 }
 a:hover {
@@ -29,7 +28,6 @@ a:hover {
     color: #111;
     cursor: pointer;
     text-decoration: none;
-    padding: 0px 5px;
 }
 abbr {
     border-bottom: 1px dashed #00FF5F;
