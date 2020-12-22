@@ -10,28 +10,24 @@ body {
     color: #524a3d;
     font-family: 'blockzone', Monospace, Arial, sans-serif;
     font-size: 105%;
-    line-height: 110%;
+    line-height: 120%;
 }
 h1, h2 {
-    margin: 0px 0px;
-    line-height: 100%;
-    text-transform: uppercase;
     margin-bottom: 10px;
-    background-color: #5c6053;
-    padding: 5px;
-    color: #cebb9e;
-    box-shadow: 5px -5px #b1a798;
+    color: #50d71f;
+    text-shadow: 2px 2px 2px #428838;
 }
 h2::after {
     content: "_";
 }
 a, a:link, a:visited {
-    color: #906b2f;
+    color: #49902f;
 }
 a:hover {
-    background-color: #b1a798;
+    background-color: #98b1a5;
     color: #111;
     cursor: pointer;
+    text-decoration: none;
 }
 abbr {
     border-bottom: 1px dashed #00FF5F;
@@ -64,7 +60,6 @@ td {
 }
 iframe {
     width: 100%;
-    min-height: 500px;
 }
 .center {
     text-align: center;
@@ -103,6 +98,7 @@ iframe {
     font-size: 90%;
 }
 pre, code {
+    line-height: 120%;
     white-space: pre-wrap;
     font-size: 95%;
 }
