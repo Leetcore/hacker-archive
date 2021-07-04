@@ -1,0 +1,139 @@
+{"name":"prod.rds.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"archive","sources":["CertSpotter","SonarSearch","Riddler","DNS","ArchiveIt"]}
+{"name":"sanitaetsdienst.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"logistikzentrum.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"expestb4.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.4","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"inetiu2.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"10.2.250.23","cidr":"10.0.0.0/8","asn":0,"desc":"Reserved Network Address Blocks"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"www.kmba.militaerseelsorge.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"militaerhistorisches-museum.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.militaerseelsorge.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"expestb1.ic.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.13","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"dns","sources":["CertSpotter","Reverse DNS"]}
+{"name":"www.planungsamt.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"sowi.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"reserveoffizier.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.iud.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"www.innerefuehrung.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"inetiu-test.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"10.2.252.23","cidr":"10.0.0.0/8","asn":0,"desc":"Reserved Network Address Blocks"},{"ip":"10.2.252.5","cidr":"10.0.0.0/8","asn":0,"desc":"Reserved Network Address Blocks"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"tawds.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.46","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"webrtc.ic.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.14","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"},{"ip":"185.156.85.13","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"webex4bw.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.10","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"www.sanitaetsdienst.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"zinfoabw.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"aktuell.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"reservisten.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"zentrum-transformation.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"sdbw.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"iawcm.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.47","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"planungsamt.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"expestb6.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.6","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"usg-online.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.61","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"inetiu4.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"10.2.250.23","cidr":"10.0.0.0/8","asn":0,"desc":"Reserved Network Address Blocks"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"aik.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"radio-andernach.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.untrgcentre.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"www.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.40","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"inetiu5.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"10.2.250.23","cidr":"10.0.0.0/8","asn":0,"desc":"Reserved Network Address Blocks"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"luftfahrtamt.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"awcm.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.48","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"video.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"scrape","sources":["Riddler"]}
+{"name":"webex4bw.ic.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.20","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"sozialdienst.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"sportschule.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.einsatz.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"militaerseelsorge.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"ipz.bwb.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.161","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["Crtsh"]}
+{"name":"auslandsschulen.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"expestb2.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.2","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"www.radio-andernach.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"mhm.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"inetiu3.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"10.2.250.23","cidr":"10.0.0.0/8","asn":0,"desc":"Reserved Network Address Blocks"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"inetiu.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"10.2.250.23","cidr":"10.0.0.0/8","asn":0,"desc":"Reserved Network Address Blocks"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"expestb1.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.1","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"dns","sources":["CertSpotter","Reverse DNS"]}
+{"name":"cir.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"iud.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"inetiu-test2.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"10.2.252.23","cidr":"10.0.0.0/8","asn":0,"desc":"Reserved Network Address Blocks"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"ssl.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.39","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"opinfo.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"logistikschule.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"msgpriv.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.50","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"inetiu1.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"10.2.250.23","cidr":"10.0.0.0/8","asn":0,"desc":"Reserved Network Address Blocks"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"kommando-operative-fuehrung.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"portalalias.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"dns","sources":["CertSpotter","DNS","SonarSearch"]}
+{"name":"einsatz.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"iawds.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.47","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"bahnfahren.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.69","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"laurin.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.49","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"webstatistik.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.38","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"www.eka.militaerseelsorge.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"bfd.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"tawcm.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.46","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"onboarding.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.61","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"innerefuehrung.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.sowi.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"archive","sources":["ArchiveIt"]}
+{"name":"tmsgpriv.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.51","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"militaermusik.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"wachbataillon.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"inetiu-test3.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"10.2.252.23","cidr":"10.0.0.0/8","asn":0,"desc":"Reserved Network Address Blocks"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"www.luftfahrtamt.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"rehahom.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.61","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"portal.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"kvp.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.reservisten.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"feldjaeger-stabsdienstschule.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"awds.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.48","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"externermeetingserver.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.5","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"},{"ip":"185.156.85.3","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"},{"ip":"185.156.85.1","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"},{"ip":"185.156.85.2","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"},{"ip":"185.156.85.4","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"},{"ip":"185.156.85.6","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"anw.bfd.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.57","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"streitkraefteamt.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.zentrum-transformation.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"wbk4.skb.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"streitkraefteunterstuetzungskommando.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"expestb2.ic.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.14","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"kmba.militaerseelsorge.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.feldjaeger-stabsdienstschule.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.militaermusik.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"inetiu-test1.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"10.2.252.23","cidr":"10.0.0.0/8","asn":0,"desc":"Reserved Network Address Blocks"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"fuehrungsunterstuetzungsschule.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.personal.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"expestb5.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.5","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"dns","sources":["Reverse DNS","CertSpotter"]}
+{"name":"bildungszentrum.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.aik.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.streitkraefteunterstuetzungskommando.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.reserveoffizier.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"mad.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"www.kvp.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"eka.militaerseelsorge.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.mhm.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.bfd.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.aktuell.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.logistikschule.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"wbk3.skb.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.bildungszentrum.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"wbk1.skb.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.familienbetreuung.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["ThreatCrowd"]}
+{"name":"expestb3.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"185.156.85.3","cidr":"185.156.85.0/24","asn":51733,"desc":"BWI-GMBH"}],"tag":"cert","sources":["Reverse DNS","CertSpotter"]}
+{"name":"www.wachbataillon.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.iudbw.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["ThreatCrowd"]}
+{"name":"bundeswehrverwaltungsschule.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["ThreatCrowd"]}
+{"name":"www.sportschule.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"sport.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["ThreatCrowd"]}
+{"name":"www.auslandsschulen.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.sport.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["ThreatCrowd"]}
+{"name":"www.militaerhistorisches-museum.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"iudbw.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["ThreatCrowd"]}
+{"name":"www.logistikzentrum.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.sozialdienst.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.streitkraefteamt.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.mad.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.bundeswehrfachschulen.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["ThreatCrowd"]}
+{"name":"www.zinfoabw.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"baks.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.180","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["AlienVault"]}
+{"name":"www.opinfo.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.cir.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.fuehrungsunterstuetzungsschule.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"ee09.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"api","sources":["CommonCrawl"]}
+{"name":"www.ee09.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"www.bm-cup.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"news.bfd.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.180","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"www.baks.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.180","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"www.bundeswehrverwaltungsschule.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"www.bundeswehrverwaltungsschulen.bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.36","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"bundeswehr.de","domain":"bundeswehr.de","addresses":[{"ip":"91.221.59.40","cidr":"91.221.58.0/23","asn":51733,"desc":"BWI-GMBH"}],"tag":"dns","sources":["DNS","CertSpotter","SonarSearch","Reverse DNS","Riddler","ArchiveIt","Crtsh","ThreatCrowd","AlienVault","CommonCrawl","Wayback"]}

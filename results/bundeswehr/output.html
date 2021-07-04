@@ -1,0 +1,78 @@
+
+  <!DOCTYPE html>
+  <html lang="de">
+  <head>
+    <title>Internet-Safari</title>
+    <style>
+    body {
+      background-color: #333;
+      color: white;
+    }
+    a:visited {
+      color: #CCC;
+    }
+    a, a:hover {
+      color: white;
+    }
+    iframe {
+      width: 100%;
+      min-height: 600px;
+    }
+    button {
+      padding: 20px;
+    }
+    #menue {
+      margin-bottom: 10px;
+    }
+    </style>
+    <script>
+    timer = undefined
+    websites = ["http://zentrum-transformation.bundeswehr.de:80/", "https://expestb4.bundeswehr.de:8443/", "https://webrtc.ic.bundeswehr.de:8443/", "https://expestb1.ic.bundeswehr.de:8443/", "https://expestb4.bundeswehr.de:443/", "https://expestb6.bundeswehr.de:8443/", "https://expestb1.ic.bundeswehr.de:443/", "https://usg-online.bundeswehr.de:443/", "https://expestb2.bundeswehr.de:8443/", "https://expestb6.bundeswehr.de:443/", "https://expestb2.bundeswehr.de:443/", "https://usg-online.bundeswehr.de/", "https://expestb1.bundeswehr.de:8443/", "https://webrtc.ic.bundeswehr.de:443/", "https://expestb1.bundeswehr.de:443/", "https://www.bundeswehr.de/de/", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/en/organization/army/organization/army-training-command/german-armed-forces-united-nations-training-centre", "https://www.bundeswehr.de/de/organisation/sanitaetsdienst", "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/katholische-militaerseelsorge", "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen", "https://tawds.bundeswehr.de:443/", "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/planungsamt-der-bundeswehr-", "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/zentrum-innere-fuehrung", "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/planungsamt-der-bundeswehr-", "https://www.bundeswehr.de/de/organisation/sanitaetsdienst", "https://www.bundeswehr.de/de/ueber-die-bundeswehr/die-reserve-der-bundeswehr", "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge", "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/das-luftfahrtamt-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-informationsarbeit-bundeswehr", "https://www.bundeswehr.de/de/betreuung-fuersorge/radio-andernach-und-bwtv-die-betreuungsmedien-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/sportschule-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/de/ueber-die-bundeswehr/die-reserve-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis", "https://www.bundeswehr.de/de/betreuung-fuersorge/radio-andernach-und-bwtv-die-betreuungsmedien-der-bundeswehr", "https://www.bundeswehr.de/de/einsaetze-bundeswehr", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/de/", "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge", "https://www.bundeswehr.de/de/", "https://www.bundeswehr.de/de/", "https://www.bundeswehr.de/de/organisation/personal/organisation-/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr", "https://webex4bw.ic.bundeswehr.de:443/webappng/sites/webex4bw/dashboard/home?siteurl=webex4bw&rnd=0.6313771880885958", "https://ssl.bundeswehr.de:443/", "http://www.zentrum-transformation.bundeswehr.de:80/", "http://webstatistik.bundeswehr.de/403.php", "https://bahnfahren.bundeswehr.de:443/", "https://externermeetingserver.bundeswehr.de:8443/", "https://expestb5.bundeswehr.de:8443/", "http://webstatistik.bundeswehr.de/403.php", "https://expestb2.ic.bundeswehr.de:8443/", "https://externermeetingserver.bundeswehr.de:443/", "https://expestb2.ic.bundeswehr.de:443/", "https://bahnfahren.bundeswehr.de/", "https://expestb5.bundeswehr.de:443/", "https://awds.bundeswehr.de:443/", "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen", "https://iawds.bundeswehr.de:443/", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt", "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://anw.bfd.bundeswehr.de/internetWeb/app/", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/logistikkommando-der-bundeswehr/logistikschule-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/personal/organisation-/bildungszentrum-der-bundeswehr-", "https://www.bundeswehr.de/de/betreuung-fuersorge/der-berufsfoerderungsdienst-der-bundeswehr-bfd", "https://www.bundeswehr.de/de/einsaetze-bundeswehr", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/multinationales-kommando-operative-fuehrung", "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/das-luftfahrtamt-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/auftrag-iud/das-kontinuierliche-verbesserungsprogramm-kvp", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/zentrum-innere-fuehrung", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-feldjaeger-der-bundeswehr/schule-fuer-feldjaeger-und-stabsdienst-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-militaermusik-der-bundeswehr", "https://www.bundeswehr.de/de/ueber-die-bundeswehr/die-reserve-der-bundeswehr", "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/katholische-militaerseelsorge", "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/mad-bundesamt-fuer-den-militaerischen-abschirmdienst", "https://anw.bfd.bundeswehr.de/internetWeb/app/", "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/evangelische-militaerseelsorge", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-militaermusik-der-bundeswehr", "https://www.bundeswehr.de/de/", "https://www.bundeswehr.de/de/organisation/personal", "https://www.bundeswehr.de/de/ueber-die-bundeswehr/die-reserve-der-bundeswehr", "https://www.bundeswehr.de/de/", "http://bundeswehrverwaltungsschule.bundeswehr.de:80/", "http://iudbw.bundeswehr.de:80/", "http://www.iudbw.bundeswehr.de:80/", "http://ee09.bundeswehr.de:80/", "http://www.bundeswehrverwaltungsschule.bundeswehr.de:80/", "http://www.ee09.bundeswehr.de:80/", "http://www.bundeswehrverwaltungsschulen.bundeswehr.de:80/", "https://expestb3.bundeswehr.de:8443/", "https://expestb3.bundeswehr.de:443/", "https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/auftrag-iud/das-kontinuierliche-verbesserungsprogramm-kvp", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/logistikkommando-der-bundeswehr/logistikschule-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/de/organisation/personal/organisation-/bildungszentrum-der-bundeswehr-", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/de/organisation/personal/organisation-/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-territoriale-aufgaben-der-bundeswehr/wachbataillon-beim-bundesministerium-der-verteidigung", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/sportschule-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum", "https://www.bundeswehr.de/de/betreuung-fuersorge/der-berufsfoerderungsdienst-der-bundeswehr-bfd", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/logistikkommando-der-bundeswehr/logistikzentrum-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-informationstechnik-der-bundeswehr/schule-informationstechnik-der-bundeswehr", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis", "https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum", "https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/mad-bundesamt-fuer-den-militaerischen-abschirmdienst", "https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-informationsarbeit-bundeswehr", "https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/evangelische-militaerseelsorge", "https://www.bundeswehr.de/de/organisation/luftwaffe", "https://www.bundeswehr.de/de/", "https://www.bundeswehr.de/de/", "https://www.bundeswehr.de/de/"]
+    current = parseInt(localStorage.getItem("current")) || 0
+    if (websites.length - 1 < parseInt(current)) {
+      current = 0
+    }
+    
+    function next() {
+      clearTimeout(timer)
+      document.querySelector("#frame").setAttribute("src", "about:blank")
+      current++
+      localStorage.setItem("current", current)
+      document.querySelector("#url").setAttribute("href", websites[current])
+      document.querySelector("#url").innerText = websites[current]
+      document.querySelector("#frame").setAttribute("src", websites[current])
+      document.querySelector("#stat").innerText = current + " of " + (websites.length - 1) + " Websites"
+      timer = setTimeout(next, 5 * 1000)
+    }
+    function stop() {
+      clearTimeout(timer)
+    }
+    function back() {
+      clearTimeout(timer)
+      document.querySelector("#frame").setAttribute("src", "about:blank")
+      current--
+      localStorage.setItem("current", current)
+      document.querySelector("#url").setAttribute("href", websites[current])
+      document.querySelector("#url").innerText = websites[current]
+      document.querySelector("#frame").setAttribute("src", websites[current])
+      document.querySelector("#stat").innerText = current + " of " + (websites.length - 1) + " Websites"
+      timer = setTimeout(next, 5 * 1000)
+    }
+    </script>
+  </head>
+  <body>
+  <div id="menue">
+    <button onclick="back()">Back</button> <button onclick="stop()">Stop autoload</button> 
+    <button onclick="next()">Next</button> URL: <a id="url" href="" target="_blank"></a>, <span id="stat"></span>, 
+    <a href="#" onclick="current=0;next();back()">Back to start.</a>
+  </div>
+  <div id="main">
+    <iframe id="frame" referrerpolicy="no-referrer" sandbox="allow-scripts, allow-forms"></iframe>
+  </div>
+  <script>
+    next()
+    back()
+  </script>
+  </body>
+  </html>
+  

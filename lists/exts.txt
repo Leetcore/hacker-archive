@@ -1,0 +1,6 @@
+zip
+txt
+log
+logs
+bak
+backup

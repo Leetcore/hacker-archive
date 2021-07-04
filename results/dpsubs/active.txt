@@ -1,0 +1,118 @@
+https://ebibits.deutschepost.de:443/, None
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+http://postindividuell.deutschepost.de:80/, nginx
+https://ebib-ssp.deutschepost.de:443/, Apache, SelfServicePortal
+https://auftragsmanagement.deutschepost.de/pma/PMA/;jsessionid=1066FE4AACED2D1A199634F5F4C9ABAF.LB-Server-ext2?dialogidentifier=j&org.apache.catalina.filters.CSRF_NONCE=5F504C04FF04A3847D0DFDBAE30CF8A9, None, AM.portal
+https://unterstuetzung-im-betrieb.de/index.php?id=13, , Login: DPDHL Starkverkehr, TYPO3 CMS
+http://sipaccess.deutschepost.de:80/, Microsoft-IIS/8.5
+https://dfb.deutschepost.de/de/fussball/, None, DFB und DHL
+https://dfb.deutschepost.de/de/fussball/, None, DFB und DHL
+https://alles-ueber-mailings.deutschepost.de/de.html, IPNP, Direct Mailings im Dialogmarketing | Deutsche Post Alles über Mailings
+https://alles-ueber-mailings.deutschepost.de/de.html, IPNP, Direct Mailings im Dialogmarketing | Deutsche Post Alles über Mailings
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://videoident.deutschepost.de:443/, Apache
+https://videoident.deutschepost.de/, Apache
+https://print-mailing-api.deutschepost.de:443/apidocs/, nginx, Print-Mailing API, Asciidoctor 2.0.15
+https://print-mailing-api.deutschepost.de/apidocs/, nginx, Print-Mailing API, Asciidoctor 2.0.15
+https://videoident-maint.deutschepost.de/, Apache
+https://videoident-maint.deutschepost.de:443/, Apache
+http://service-bar.deutschepost.de:80/, AkamaiGHost, Invalid URL
+https://service-bar.deutschepost.de:443/, AkamaiGHost, Invalid URL
+https://dtrack.deutschepost.de/safezone/, nginx/1.19.8, Kinexon
+https://dtrack.deutschepost.de:443/safezone/, nginx/1.19.8, Kinexon
+http://internetmarke-portokasse.deutschepost.de:80/, nginx
+https://internetmarke-portokasse.deutschepost.de:443/, nginx
+https://dm.deutschepost.de/, Apache, PRINT-MAILING PLANEN
+https://dm.deutschepost.de:443/, Apache, PRINT-MAILING PLANEN
+http://dialog.deutschepost.de:80/, nginx
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://lyncdiscover.deutschepost.de:443/, None
+https://auftragsmanagement-cert.deutschepost.de:443/, None
+https://postmailer.deutschepost.de/Account/Login?ReturnUrl=%2FPostOffice, None, POSTMAILER
+https://postmailer.deutschepost.de/Account/Login?ReturnUrl=%2FPostOffice, None, POSTMAILER
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://myportal.deutschepost.de/partnerforum/s/, None
+http://keyserver.deutschepost.de:80/, Microsoft-IIS/8.5, Deutsche Post DHL | Keyserver
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://hrd-pundp.com/index.php?id=deeplink_router&deeplink=4706, Apache, HRD P&P Online Deeplink Router, RAPIDHR
+https://hrd-pundp.com/index.php?id=deeplink_router&deeplink=4706, Apache, HRD P&P Online Deeplink Router, RAPIDHR
+https://www.dhl-geschaeftskundenportal.de/webcenter/portal/gkpExternal, DHL
+https://transfer-einbeck.deutschepost.de/human.aspx?ForceNonMobile=1, , Deutsche Post Lettershop Einbeck
+http://premiumadress.deutschepost.de:80/, nginx
+https://premiumadress.deutschepost.de:443/, nginx
+https://shop.deutschepost.de, Apache, Shop der Deutschen Post | Porto online kaufen
+https://shop.deutschepost.de, Apache, Shop der Deutschen Post | Porto online kaufen
+https://chat.deutschepost.de/, Apache
+https://chat.deutschepost.de:443/, Apache
+https://portokasse.deutschepost.de/portokasse/, Apache, Portokasse – Ihr Guthabenkonto zum Aufladen | Deutsche Post
+https://portokasse.deutschepost.de/portokasse/, Apache, Portokasse – Ihr Guthabenkonto zum Aufladen | Deutsche Post
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+http://systempartner.deutschepost.de:80/, nginx
+https://systempartner.deutschepost.de:443/, nginx
+https://hrd-pundp.com/index.php?id=deeplink_router&deeplink=4706, Apache, HRD P&P Online Deeplink Router, RAPIDHR
+https://hrd-pundp.com/index.php?id=deeplink_router&deeplink=4706, Apache, HRD P&P Online Deeplink Router, RAPIDHR
+https://www.deutschepost.de/de/service1/themenseiten/e-post-kundenservice.html, IPNP, Hilfe zur E-POST | Deutsche Post Kundenservice
+https://www.deutschepost.de/de/p/postident.html, IPNP, Sichere, persönliche Identifikation mit POSTIDENT | Deutsche Post
+https://www.deutschepost.de/de/p/postident.html, IPNP, Sichere, persönliche Identifikation mit POSTIDENT | Deutsche Post
+http://international.deutschepost.de:80/, nginx
+https://international.deutschepost.de:443/, nginx
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+http://info.deutschepost.de:80/, nginx
+https://info.deutschepost.de:443/, nginx
+https://shop.deutschepost.de, Apache, Shop der Deutschen Post | Porto online kaufen
+https://shop.deutschepost.de, Apache, Shop der Deutschen Post | Porto online kaufen
+https://www.deutschepost.de/de/p/postident.html, IPNP, Sichere, persönliche Identifikation mit POSTIDENT | Deutsche Post
+https://www.deutschepost.de/de/p/postident.html, IPNP, Sichere, persönliche Identifikation mit POSTIDENT | Deutsche Post
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://postaktuell-manager.deutschepost.de:443/PostaktuellFrontend/, PAM Server, Deutsche Post | POSTAKTUELL | Sendungsverteilung online vorbereiten
+https://postaktuell-manager.deutschepost.de/PostaktuellFrontend/, PAM Server, Deutsche Post | POSTAKTUELL | Sendungsverteilung online vorbereiten
+http://www2.deutschepost.de:80/, AkamaiGHost, Invalid URL
+https://www.deutschepost.de/de/s/standorte.html, IPNP, Standorte von Deutsche Post DHL | Postfinder | Deutsche Post
+https://www.deutschepost.de/de/s/standorte.html, IPNP, Standorte von Deutsche Post DHL | Postfinder | Deutsche Post
+https://de.deutschepost.de/einfacherversenden/s/, None, Spannende Web-Sessions
+https://de.deutschepost.de/einfacherversenden/s/, None, Spannende Web-Sessions
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+http://sipfed.deutschepost.de:80/, Microsoft-IIS/8.5
+http://mailingfactory.deutschepost.de:80/, nginx
+https://www.deutschepost.de/de/p/postident.html, IPNP, Sichere, persönliche Identifikation mit POSTIDENT | Deutsche Post
+https://www.deutschepost.de/de/p/postident.html, IPNP, Sichere, persönliche Identifikation mit POSTIDENT | Deutsche Post
+https://shop.deutschepost.de/, Apache, Shop der Deutschen Post | Porto online kaufen
+https://shop.deutschepost.de/, Apache, Shop der Deutschen Post | Porto online kaufen
+https://ebibtest.deutschepost.de:443/, None
+https://portal.docuguide.com/Account/Login?ReturnUrl=%2FPostOffice, None, Briefe automatisch versenden
+https://docuguide.deutschepost.de/Account/Login?ReturnUrl=%2FPostOffice, None, Briefe automatisch versenden
+http://t.deutschepost.de:80/, nginx
+https://t.deutschepost.de:443/, nginx
+https://www.deutschepost.de/de/p/portoberater.html, IPNP, Porto für Briefe, Pakete und mehr berechnen | Deutsche Post
+https://www.deutschepost.de/de/p/portoberater.html, IPNP, Porto für Briefe, Pakete und mehr berechnen | Deutsche Post
+http://prgdclyaee11.deutschepost.de:80/, Microsoft-IIS/8.5
+https://meet.deutschepost.de:443/, None, Skype for Business Web App
+https://onlinemitteilung.deutschepost.de/rentenservice/selectNotifierType, Apache, Deutsche Post Renten Service | Änderungsmitteilungen
+https://print-mailing.deutschepost.de/planen/, nginx, PRINT-MAILING PLANEN
+https://print-mailing.deutschepost.de:443/planen/, nginx, PRINT-MAILING PLANEN
+https://www.deutschepost.de/de/p/portoberater.html, IPNP, Porto für Briefe, Pakete und mehr berechnen | Deutsche Post
+https://www.deutschepost.de/de/p/portoberater.html, IPNP, Porto für Briefe, Pakete und mehr berechnen | Deutsche Post
+https://dtrack-test.deutschepost.de/safezone/, nginx/1.16.1, Kinexon
+https://dtrack-test.deutschepost.de:443/safezone/, nginx/1.16.1, Kinexon
+http://entwickler.deutschepost.de:80/, nginx/1.16.1, Welcome to CentOS
+https://dwh-main-d.deutschepost.de/ZNI_DWH_PORTAL, Microsoft-IIS/10, Anmeldung - SAP Web Application Server
+https://dwh-main-d.deutschepost.de:443/ZNI_DWH_PORTAL, Microsoft-IIS/10, Anmeldung - SAP Web Application Server
+https://dwh-main-q.deutschepost.de/ZNI_DWH_PORTAL, Microsoft-IIS/10, Anmeldung - SAP Web Application Server
+https://dwh-main-q.deutschepost.de:443/ZNI_DWH_PORTAL, Microsoft-IIS/10, Anmeldung - SAP Web Application Server
+https://dwh-main.deutschepost.de/ZNI_DWH_PORTAL, Microsoft-IIS/10, Anmeldung - SAP Web Application Server
+https://dwh-main.deutschepost.de:443/ZNI_DWH_PORTAL, Microsoft-IIS/10, Anmeldung - SAP Web Application Server
+https://www.deutschepost.de/de/p/postident.html, IPNP, Sichere, persönliche Identifikation mit POSTIDENT | Deutsche Post
+https://shop.deutschepost.de/, Apache, Shop der Deutschen Post | Porto online kaufen
+https://shop.deutschepost.de:443/, Apache, Shop der Deutschen Post | Porto online kaufen
+https://print-mailing.deutschepost.de/verfolgen/, nginx, Print-Mailing Tracker
+https://print-mailing.deutschepost.de/verfolgen/, nginx, Print-Mailing Tracker
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://ebib.deutschepost.de:443/, None
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://www.deutschepost.de/de.html, IPNP, Deutsche Post – Die Post für Deutschland
+https://checkout.deutschepost.de/, Apache, Shop der Deutschen Post | Porto online kaufen
+https://checkout.deutschepost.de:443/, Apache, Shop der Deutschen Post | Porto online kaufen

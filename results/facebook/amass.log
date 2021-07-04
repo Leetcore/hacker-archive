@@ -1,0 +1,134 @@
+09:49:12.812941 ZoomEye: check callback failed for the configuration
+09:49:12.812944 Chaos: check callback failed for the configuration
+09:49:12.812958 AlienVault: API key data was not provided
+09:49:12.812963 Cloudflare: API key data was not provided
+09:49:12.812969 NetworksDB: API key data was not provided
+09:49:12.812975 FacebookCT: check callback failed for the configuration
+09:49:12.812981 PassiveTotal: check callback failed for the configuration
+09:49:12.812983 GitHub: check callback failed for the configuration
+09:49:12.813021 ReconDev: check callback failed for the configuration
+09:49:12.813023 SecurityTrails: check callback failed for the configuration
+09:49:12.813055 Twitter: API key data was not provided
+09:49:12.813448 Twitter: check callback failed for the configuration
+09:49:12.813060 URLScan: API key data was not provided
+09:49:12.813087 BinaryEdge: check callback failed for the configuration
+09:49:12.813123 C99: check callback failed for the configuration
+09:49:12.813126 Spyse: check callback failed for the configuration
+09:49:12.813144 WhoisXMLAPI: check callback failed for the configuration
+09:49:12.813146 Umbrella: API key data was not provided
+09:49:12.813518 Umbrella: check callback failed for the configuration
+09:49:12.813148 ZETAlytics: check callback failed for the configuration
+09:49:12.813149 DNSDB: API key data was not provided
+09:49:12.813546 DNSDB: check callback failed for the configuration
+09:49:12.813151 ThreatBook: check callback failed for the configuration
+09:49:12.813153 CIRCL: check callback failed for the configuration
+09:49:12.813155 Shodan: check callback failed for the configuration
+09:49:19.300915 Querying Anubis for facebook.com subdomains
+09:49:19.300969 Querying CertSpotter for facebook.com subdomains
+09:49:19.300980 Querying CommonCrawl for facebook.com subdomains
+09:49:19.300985 Querying Sublist3rAPI for facebook.com subdomains
+09:49:19.300990 Querying ArchiveIt for facebook.com subdomains
+09:49:19.300995 Querying ThreatCrowd for facebook.com subdomains
+09:49:19.300999 Querying ArchiveToday for facebook.com subdomains
+09:49:19.301004 Querying Ask for facebook.com subdomains
+09:49:19.301008 Querying AlienVault for facebook.com subdomains
+09:49:19.301012 Querying BufferOver for facebook.com subdomains
+09:49:19.301016 Querying Crtsh for facebook.com subdomains
+09:49:19.301020 Querying ThreatMiner for facebook.com subdomains
+09:49:19.301024 Querying DNSDumpster for facebook.com subdomains
+09:49:19.301029 Querying URLScan for facebook.com subdomains
+09:49:19.301033 Querying GoogleCT for facebook.com subdomains
+09:49:19.301037 Querying VirusTotal for facebook.com subdomains
+09:49:19.301041 Querying Censys for facebook.com subdomains
+09:49:19.301045 Querying Wayback for facebook.com subdomains
+09:49:19.301049 Querying Yahoo for facebook.com subdomains
+09:49:19.301053 Querying BuiltWith for facebook.com subdomains
+09:49:19.301057 Querying HackerOne for facebook.com subdomains
+09:49:19.301061 Querying Baidu for facebook.com subdomains
+09:49:19.301065 Querying Brute Forcing for facebook.com subdomains
+09:49:19.301070 Querying Bing for facebook.com subdomains
+09:49:19.301074 Querying IPv4Info for facebook.com subdomains
+09:49:19.301078 Querying HackerTarget for facebook.com subdomains
+09:49:19.301082 Querying Mnemonic for facebook.com subdomains
+09:49:19.301086 Querying RapidDNS for facebook.com subdomains
+09:49:19.301090 Querying Riddler for facebook.com subdomains
+09:49:19.301094 Querying Robtex for facebook.com subdomains
+09:49:19.301098 Querying SonarSearch for facebook.com subdomains
+09:49:19.301102 Querying SiteDossier for facebook.com subdomains
+09:49:36.573456 DNS wildcard detected: Resolver 185.121.177.177:53: *.dns.facebook.com: type: 1
+09:49:38.286484 DNS wildcard detected: Resolver 185.121.177.177:53: *.cinyourrc.facebook.com: type: 1
+09:49:43.599757 DNS wildcard detected: Resolver 185.121.177.177:53: *.internmc.facebook.com: type: 1
+09:49:44.300462 NetworksDB: https://networksdb.io/ip/157.240.200.198: Get "https://networksdb.io/ip/157.240.200.198": net/http: TLS handshake timeout
+09:49:46.635936 DNS wildcard detected: Resolver 185.121.177.177:53: *.intern.facebook.com: type: 1
+09:49:48.366189 DNS wildcard detected: Resolver 185.121.177.177:53: *.latest.facebook.com: type: 1
+09:49:49.300311 RADb: https://rdap.arin.net/registry/ip/157.240.200.198: Get "https://rdap.arin.net/registry/ip/157.240.200.198": net/http: TLS handshake timeout
+09:49:49.300362 URLScan: https://urlscan.io/api/v1/result/1949cc46-d0c4-4d97-8866-c5597affe520/: context deadline exceeded (Client.Timeout or context cancellation while reading body)
+09:49:50.140553 DNS wildcard detected: Resolver 185.121.177.177:53: *.beta.facebook.com: type: 1
+09:49:51.398096 DNS wildcard detected: Resolver 185.121.177.177:53: *.fbjs.facebook.com: type: 1
+09:49:54.772029 DNS wildcard detected: Resolver 185.121.177.177:53: *.scgraph.facebook.com: type: 1
+09:49:56.246870 DNS wildcard detected: Resolver 185.121.177.177:53: *.alpha.facebook.com: type: 1
+09:50:03.254494 DNS wildcard detected: Resolver 185.121.177.177:53: *.secure.facebook.com: type: 1
+09:50:09.300233 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f01c:800e:face:b00c:0:2: Get "https://rdap.arin.net/registry/ip/2a03:2880:f01c:800e:face:b00c:0:2": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:61691->1.1.1.1:53: read: connection refused
+09:50:09.300363 NetworksDB: https://networksdb.io/ip/2a03:2880:f01c:800e:face:b00c:0:2: Get "https://networksdb.io/ip/2a03:2880:f01c:800e:face:b00c:0:2": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:54835->1.1.1.1:53: read: connection refused
+09:50:19.300607 RADb: https://rdap.arin.net/registry/ip/2a03:2880:ff09::123: Get "https://rdap.arin.net/registry/ip/2a03:2880:ff09::123": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:54490->1.1.1.1:53: read: connection refused
+09:50:19.300908 NetworksDB: https://networksdb.io/ip/2a03:2880:ff09::123: Get "https://networksdb.io/ip/2a03:2880:ff09::123": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:50941->1.1.1.1:53: read: connection refused
+09:50:29.300693 RADb: https://rdap.arin.net/registry/ip/23.217.138.108: Get "https://rdap.arin.net/registry/ip/23.217.138.108": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:57610->1.1.1.1:53: read: connection refused
+09:50:29.300726 NetworksDB: https://networksdb.io/ip/23.217.138.108: Get "https://networksdb.io/ip/23.217.138.108": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:56701->1.1.1.1:53: read: connection refused
+09:50:39.301835 RADb: https://rdap.arin.net/registry/ip/23.202.231.167: Get "https://rdap.arin.net/registry/ip/23.202.231.167": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:59106->1.1.1.1:53: read: connection refused
+09:50:39.301879 NetworksDB: https://networksdb.io/ip/23.202.231.167: Get "https://networksdb.io/ip/23.202.231.167": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:55151->1.1.1.1:53: read: connection refused
+09:51:17.030929 DNS wildcard detected: Resolver 185.121.177.177:53: *.prod.facebook.com: type: 1
+09:51:17.201893 DNS wildcard detected: Resolver 185.121.177.177:53: *.cinyour.facebook.com: type: 1
+09:51:20.431163 DNS wildcard detected: Resolver 185.121.177.177:53: *.lite.facebook.com: type: 1
+09:51:20.731188 DNS wildcard detected: Resolver 185.121.177.177:53: *.new.facebook.com: type: 1
+09:51:21.477122 DNS wildcard detected: Resolver 185.121.177.177:53: *.c.facebook.com: type: 1
+09:51:25.278919 DNS wildcard detected: Resolver 185.121.177.177:53: *.internmcr.facebook.com: type: 1
+09:51:33.879281 DNS wildcard detected: Resolver 185.121.177.177:53: *.trunkstable.facebook.com: type: 1
+09:51:34.323922 NetworksDB: https://networksdb.io/ip/2a03:2880:ff08::123: Get "https://networksdb.io/ip/2a03:2880:ff08::123": net/http: TLS handshake timeout
+09:51:35.225742 DNS wildcard detected: Resolver 185.121.177.177:53: *.extern.facebook.com: type: 1
+09:51:49.323755 RADb: https://rdap.arin.net/registry/ip/2a03:2880:ff08::123: Get "https://rdap.db.ripe.net/ip/2a03:2880:ff08::123": net/http: TLS handshake timeout
+09:51:49.323818 NetworksDB: https://networksdb.io/ip/2a03:2880:ff0b::123: Get "https://networksdb.io/ip/2a03:2880:ff0b::123": net/http: TLS handshake timeout
+09:51:59.324364 NetworksDB: https://networksdb.io/ip/2a03:2880:f21c:81c2:face:b00c:0:1cc9: Get "https://networksdb.io/ip/2a03:2880:f21c:81c2:face:b00c:0:1cc9": net/http: TLS handshake timeout
+09:52:09.324780 RADb: https://rdap.arin.net/registry/ip/2a03:2880:ff0b::123: Get "https://rdap.db.ripe.net/ip/2a03:2880:ff0b::123": net/http: TLS handshake timeout
+09:52:14.325039 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f21c:81c2:face:b00c:0:1cc9: Get "https://rdap.arin.net/registry/ip/2a03:2880:f21c:81c2:face:b00c:0:1cc9": net/http: TLS handshake timeout
+09:52:24.325252 NetworksDB: https://networksdb.io/ip/2a03:2880:f0fc:c:face:b00c:0:35: Get "https://networksdb.io/ip/2a03:2880:f0fc:c:face:b00c:0:35": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:49472->1.1.1.1:53: read: connection refused
+09:52:24.325277 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f0fc:c:face:b00c:0:35: The request returned zero results
+09:52:24.326168 NetworksDB: https://networksdb.io/ip/2a03:2880:f158:81:face:b00c:0:38d9: Get "https://networksdb.io/ip/2a03:2880:f158:81:face:b00c:0:38d9": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:50562->1.1.1.1:53: read: connection refused
+09:52:24.326198 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f158:81:face:b00c:0:38d9: Get "https://rdap.arin.net/registry/ip/2a03:2880:f158:81:face:b00c:0:38d9": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:61608->1.1.1.1:53: read: connection refused
+09:52:24.326220 RADb: https://rdap.arin.net/registry/ip/2401:db00:21ff:ff51:face:b00c:0:460c: Get "https://rdap.arin.net/registry/ip/2401:db00:21ff:ff51:face:b00c:0:460c": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:50840->1.1.1.1:53: read: connection refused
+09:52:29.326308 NetworksDB: https://networksdb.io/ip/2401:db00:21ff:ff51:face:b00c:0:460c: Get "https://networksdb.io/ip/2401:db00:21ff:ff51:face:b00c:0:460c": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:61644->1.1.1.1:53: read: connection refused
+09:52:29.326389 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f05e:12:face:b00c:0:2: Get "https://rdap.arin.net/registry/ip/2a03:2880:f05e:12:face:b00c:0:2": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:56556->1.1.1.1:53: read: connection refused
+09:52:34.326214 NetworksDB: https://networksdb.io/ip/2a03:2880:f05e:12:face:b00c:0:2: Get "https://networksdb.io/ip/2a03:2880:f05e:12:face:b00c:0:2": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:58361->1.1.1.1:53: read: connection refused
+09:52:39.326884 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f02d:4:face:b00c:0:1411: Get "https://rdap.arin.net/registry/ip/2a03:2880:f02d:4:face:b00c:0:1411": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:56556->1.1.1.1:53: read: connection refused
+09:52:44.326757 NetworksDB: https://networksdb.io/ip/2a03:2880:f02d:4:face:b00c:0:1411: Get "https://networksdb.io/ip/2a03:2880:f02d:4:face:b00c:0:1411": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:51592->1.1.1.1:53: read: connection refused
+09:52:54.327262 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f00a:112:face:b00c:0:2: Get "https://rdap.arin.net/registry/ip/2a03:2880:f00a:112:face:b00c:0:2": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:58153->1.1.1.1:53: read: connection refused
+09:52:54.327283 NetworksDB: https://networksdb.io/ip/2a03:2880:f00a:112:face:b00c:0:2: Get "https://networksdb.io/ip/2a03:2880:f00a:112:face:b00c:0:2": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:53259->1.1.1.1:53: read: connection refused
+09:53:04.327827 RADb: https://rdap.arin.net/registry/ip/2401:db00:ff:ff30:face:b00c:0:633b: Get "https://rdap.arin.net/registry/ip/2401:db00:ff:ff30:face:b00c:0:633b": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:57622->1.1.1.1:53: read: connection refused
+09:53:04.328169 NetworksDB: https://networksdb.io/ip/2401:db00:ff:ff30:face:b00c:0:633b: Get "https://networksdb.io/ip/2401:db00:ff:ff30:face:b00c:0:633b": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:49771->1.1.1.1:53: read: connection refused
+09:53:14.328096 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f0fd:c:face:b00c:0:35: Get "https://rdap.arin.net/registry/ip/2a03:2880:f0fd:c:face:b00c:0:35": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:50569->1.1.1.1:53: read: connection refused
+09:53:14.328427 NetworksDB: https://networksdb.io/ip/2a03:2880:f0fd:c:face:b00c:0:35: Get "https://networksdb.io/ip/2a03:2880:f0fd:c:face:b00c:0:35": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:56473->1.1.1.1:53: read: connection refused
+09:53:24.328105 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f042:1d:face:b00c:0:580: Get "https://rdap.arin.net/registry/ip/2a03:2880:f042:1d:face:b00c:0:580": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:52470->1.1.1.1:53: read: connection refused
+09:53:24.328889 NetworksDB: https://networksdb.io/ip/2a03:2880:f042:1d:face:b00c:0:580: Get "https://networksdb.io/ip/2a03:2880:f042:1d:face:b00c:0:580": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:52789->1.1.1.1:53: read: connection refused
+09:53:34.328960 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f20a:1c6:face:b00c:0:43fe: Get "https://rdap.arin.net/registry/ip/2a03:2880:f20a:1c6:face:b00c:0:43fe": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:55039->1.1.1.1:53: read: connection refused
+09:53:34.328988 NetworksDB: https://networksdb.io/ip/2a03:2880:f20a:1c6:face:b00c:0:43fe: Get "https://networksdb.io/ip/2a03:2880:f20a:1c6:face:b00c:0:43fe": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:50711->1.1.1.1:53: read: connection refused
+09:53:44.329719 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f058:c2:face:b00c:0:69ac: Get "https://rdap.arin.net/registry/ip/2a03:2880:f058:c2:face:b00c:0:69ac": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:56755->1.1.1.1:53: read: connection refused
+09:53:44.330052 NetworksDB: https://networksdb.io/ip/2a03:2880:f058:c2:face:b00c:0:69ac: Get "https://networksdb.io/ip/2a03:2880:f058:c2:face:b00c:0:69ac": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:54760->1.1.1.1:53: read: connection refused
+09:53:54.329733 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f1fd:c:face:b00c:0:35: Get "https://rdap.arin.net/registry/ip/2a03:2880:f1fd:c:face:b00c:0:35": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:55224->1.1.1.1:53: read: connection refused
+09:53:54.330880 NetworksDB: https://networksdb.io/ip/2a03:2880:f1fd:c:face:b00c:0:35: Get "https://networksdb.io/ip/2a03:2880:f1fd:c:face:b00c:0:35": dial tcp: lookup networksdb.io on 1.1.1.1:53: read udp 192.168.2.142:59361->1.1.1.1:53: read: connection refused
+09:54:04.330901 TeamCymru: c.0.6.4.0.0.0.0.c.0.0.b.e.c.a.f.1.5.f.f.f.f.1.2.0.0.b.d.1.0.4.2.origin6.asn.cymru.com: DNS TXT record query error: Query on resolver 202.87.249.2:53, for c.0.6.4.0.0.0.0.c.0.0.b.e.c.a.f.1.5.f.f.f.f.1.2.0.0.b.d.1.0.4.2.origin6.asn.cymru.com type 16 returned error NXDOMAIN
+09:54:04.330933 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f00c:100:face:b00c:0:2: The request returned zero results
+09:54:14.332017 RADb: https://rdap.arin.net/registry/ip/2a03:2880:ff0a::123: The request returned zero results
+09:54:14.332053 TeamCymru: b.3.3.6.0.0.0.0.c.0.0.b.e.c.a.f.0.3.f.f.f.f.0.0.0.0.b.d.1.0.4.2.origin6.asn.cymru.com: DNS TXT record query error: Query on resolver 212.66.129.98:53, for b.3.3.6.0.0.0.0.c.0.0.b.e.c.a.f.0.3.f.f.f.f.0.0.0.0.b.d.1.0.4.2.origin6.asn.cymru.com type 16 returned error NXDOMAIN
+09:54:23.638636 DNS wildcard detected: Resolver 185.121.177.177:53: *.cstools.facebook.com: type: 1
+09:54:24.342742 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f13f:85:face:b00c:0:14c9: The request returned zero results
+09:54:34.343399 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f142:187:face:b00c:0:2d16: The request returned zero results
+09:54:44.343619 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f11c:8183:face:b00c:0:25de: The request returned zero results
+09:54:54.343441 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f22c:1e0:face:b00c:0:7357: The request returned zero results
+09:55:09.343406 RADb: https://rdap.arin.net/registry/ip/2a03:2880:ff0c::123: The request returned zero results
+09:55:14.343278 TeamCymru: 6.c.5.7.0.0.0.0.c.0.0.b.e.c.a.f.4.3.f.f.f.f.0.1.0.0.b.d.1.0.4.2.origin6.asn.cymru.com: DNS TXT record query error: Query on resolver 68.87.75.198:53, for 6.c.5.7.0.0.0.0.c.0.0.b.e.c.a.f.4.3.f.f.f.f.0.1.0.0.b.d.1.0.4.2.origin6.asn.cymru.com type 16 returned error NXDOMAIN
+09:55:19.343139 NetworksDB: https://networksdb.io/ip/2401:db00:10ff:ff34:face:b00c:0:75c6: Failed to extract the autonomous system href
+09:55:29.342963 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f03f:d:face:b00c:0:2825: The request returned zero results
+09:55:39.342824 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f05a:12:face:b00c:0:2: The request returned zero results
+09:55:49.342881 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f242:1ca:face:b00c:0:6fe: The request returned zero results
+09:55:59.342892 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f00d:1:face:b00c:0:1: The request returned zero results
+09:56:14.506547 RADb: https://rdap.arin.net/registry/ip/2a03:2880:f037:12:face:b00c:0:2: The request returned zero results
+09:57:13.858946 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/facebook.com/url_list?page=355: Get "https://otx.alienvault.com/api/v1/indicators/domain/facebook.com/url_list?page=355": context canceled

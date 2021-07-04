@@ -1,0 +1,57 @@
+20:58:42.891555 ThreatBook: check callback failed for the configuration
+20:58:42.891750 NetworksDB: API key data was not provided
+20:58:42.891561 AlienVault: API key data was not provided
+20:58:42.891570 Chaos: check callback failed for the configuration
+20:58:42.891574 URLScan: API key data was not provided
+20:58:42.891574 ZoomEye: check callback failed for the configuration
+20:58:42.891575 Twitter: API key data was not provided
+20:58:42.892063 Twitter: check callback failed for the configuration
+20:58:42.891577 Cloudflare: API key data was not provided
+20:58:42.891579 Umbrella: API key data was not provided
+20:58:42.892111 Umbrella: check callback failed for the configuration
+20:58:42.891595 WhoisXMLAPI: check callback failed for the configuration
+20:58:42.891595 DNSDB: API key data was not provided
+20:58:42.892142 DNSDB: check callback failed for the configuration
+20:58:42.891603 FacebookCT: check callback failed for the configuration
+20:58:42.891610 GitHub: check callback failed for the configuration
+20:58:42.891614 BinaryEdge: check callback failed for the configuration
+20:58:42.891635 SecurityTrails: check callback failed for the configuration
+20:58:42.891649 Shodan: check callback failed for the configuration
+20:58:42.891657 Spyse: check callback failed for the configuration
+20:58:42.891698 ZETAlytics: check callback failed for the configuration
+20:58:42.891722 ReconDev: check callback failed for the configuration
+20:58:42.891724 C99: check callback failed for the configuration
+20:58:42.891761 PassiveTotal: check callback failed for the configuration
+20:58:42.891766 CIRCL: check callback failed for the configuration
+20:58:48.889097 Querying AlienVault for axelspringer.de subdomains
+20:58:48.889149 Querying Crtsh for axelspringer.de subdomains
+20:58:48.890059 Querying DNSDumpster for axelspringer.de subdomains
+20:58:48.890089 Querying SiteDossier for axelspringer.de subdomains
+20:58:48.890107 Querying GoogleCT for axelspringer.de subdomains
+20:58:48.890122 Querying HackerOne for axelspringer.de subdomains
+20:58:48.890136 Querying SonarSearch for axelspringer.de subdomains
+20:58:48.890152 Querying HackerTarget for axelspringer.de subdomains
+20:58:48.890165 Querying RapidDNS for axelspringer.de subdomains
+20:58:48.890178 Querying Riddler for axelspringer.de subdomains
+20:58:48.890189 Querying Sublist3rAPI for axelspringer.de subdomains
+20:58:48.890203 Querying IPv4Info for axelspringer.de subdomains
+20:58:48.890215 Querying Robtex for axelspringer.de subdomains
+20:58:48.890228 Querying Mnemonic for axelspringer.de subdomains
+20:58:48.890240 Querying ThreatCrowd for axelspringer.de subdomains
+20:58:48.890251 Querying Bing for axelspringer.de subdomains
+20:58:48.890262 Querying ThreatMiner for axelspringer.de subdomains
+20:58:48.890276 Querying URLScan for axelspringer.de subdomains
+20:58:48.890290 Querying ArchiveToday for axelspringer.de subdomains
+20:58:48.890304 Querying Anubis for axelspringer.de subdomains
+20:58:48.890315 Querying Brute Forcing for axelspringer.de subdomains
+20:58:48.890328 Querying Ask for axelspringer.de subdomains
+20:58:48.890340 Querying VirusTotal for axelspringer.de subdomains
+20:58:48.890352 Querying Wayback for axelspringer.de subdomains
+20:58:48.890363 Querying Baidu for axelspringer.de subdomains
+20:58:48.890374 Querying Yahoo for axelspringer.de subdomains
+20:58:48.890385 Querying ArchiveIt for axelspringer.de subdomains
+20:58:48.890428 Querying Censys for axelspringer.de subdomains
+20:58:48.890448 Querying BufferOver for axelspringer.de subdomains
+20:58:48.890462 Querying BuiltWith for axelspringer.de subdomains
+20:58:48.890477 Querying CertSpotter for axelspringer.de subdomains
+20:58:48.890491 Querying CommonCrawl for axelspringer.de subdomains

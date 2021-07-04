@@ -1,0 +1,643 @@
+https://salesacademy.telekom.de/sui/, None, Global Teach
+https://salesacademy.telekom.de/sui/, None, Global Teach
+https://vprekla.telekom.de:443/, nginx/1.17.7, Reklamation Handel
+https://vprekla.telekom.de/, nginx/1.17.7, Reklamation Handel
+https://www.telekom.de/zubuchoptionen/sicherheitspaket?wt_mc=alias_sicherheitspaket, Apache, Telekom Sicherheitspakete schützen zuverlässig | Telekom
+https://www.telekom.de/zubuchoptionen/sicherheitspaket?wt_mc=alias_sicherheitspaket, Apache, Telekom Sicherheitspakete schützen zuverlässig | Telekom
+https://servicenummern.telekom.de/home/, Apache, Home - Telekom - Servicenummern, TYPO3 CMS
+https://servicenummern.telekom.de/home/, Apache, Home - Telekom - Servicenummern, TYPO3 CMS
+https://rescue1.telekom.de:443/, Apache, Ferndiagnose | Telekom
+https://rescue1.telekom.de/, Apache, Ferndiagnose | Telekom
+https://sdd-online.telekom.de/telekom/index.html, DT DEP Portal, SECURE DATA DRIVE ONLINE
+https://sdd-online.telekom.de:443/telekom/index.html, DT DEP Portal, SECURE DATA DRIVE ONLINE
+https://fpf-mc-test.telekom.de:443/public/login.html, Apache, Loading...
+https://fpf-mc-test.telekom.de/public/login.html, Apache, Loading...
+https://digital-schutzpaket-id-alarm.telekom.de:443/, Apache, Registrierung - Digital Schutzpaket
+https://digital-schutzpaket-id-alarm.telekom.de/, Apache, Registrierung - Digital Schutzpaket
+https://preview.geschaeftskunden.telekom.de/tech/preview/login, Apache, GK-Portal: Preview
+https://preview.geschaeftskunden.telekom.de/tech/preview/login, Apache, GK-Portal: Preview
+https://www.telekom.de/hilfe?samChecked=true, Apache, Hilfe & Service | Telekom Hilfe
+https://www.telekom.de/hilfe?samChecked=true, Apache, Hilfe & Service | Telekom Hilfe
+https://cn01.dw.telekom.de/AirWatch/Login?ReturnUrl=%2FAirWatch%2F, None, Login
+https://cloud.telekom.de/en, None, Cloud Infrastructure & Cloud Platform Solutions - TelekomCLOUD
+https://cloud.telekom.de/en, None, Cloud Infrastructure & Cloud Platform Solutions - TelekomCLOUD
+https://onboarding.telekom.de/onboarding/welcome.html, Apache, Welcome, TYPO3 4.7 CMS
+https://onboarding.telekom.de/onboarding/welcome.html, Apache, Welcome, TYPO3 4.7 CMS
+https://rechnungonline.geschaeftskunden.telekom.de:443/gk/auth, None, Mobilfunk RechnungOnline - Login
+https://rechnungonline.geschaeftskunden.telekom.de:443/gk/auth, None, Mobilfunk RechnungOnline - Login
+https://papps.telekom.de:443/, None
+https://papps.telekom.de/, None
+https://www.mms.telekom.de/OTP/, webservertypedisabled, Deutsche Telekom
+https://www.mms.telekom.de/OTP/, webservertypedisabled, Deutsche Telekom
+http://lyncdiscover.lync.telekom.de:80/, None
+https://lyncdiscover.lync.telekom.de:443/, None
+https://de-staging-cap.telekom.de:443/, Apache, Webserver is running!
+https://de-staging-cap.telekom.de/, Apache, Webserver is running!
+https://tvpp-ta1.telekom.de/portal/login.jsp, Apache, TVPP - Telekom Vertriebspartner-Portal
+https://tvpp-ta1.telekom.de/portal/login.jsp, Apache, TVPP - Telekom Vertriebspartner-Portal
+https://mylearn.weiterbildung-extern.telekom.de/_forms/default.aspx?ReturnUrl=%2F_layouts%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5, Anmelden
+https://mylearn.weiterbildung-extern.telekom.de/_forms/default.aspx?ReturnUrl=%2F_layouts%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5, Anmelden
+https://gt.telekom.de:443/, Microsoft-IIS/10.0
+https://gt.telekom.de/, Microsoft-IIS/10.0
+https://com.telekom.de:443/, Apache, Telekom GCP
+https://com.telekom.de/, Apache, Telekom GCP
+http://prognosemaerkte.telekom.de:80/, Microsoft-IIS/8.5, STRATO, HTML EDITOR
+https://t-map.telekom.de/TMAP4/jsp/coverage_checker.jsp, Apache, T-Map
+https://t-map.telekom.de/TMAP4/jsp/coverage_checker.jsp, Apache, T-Map
+https://konferenzen.telekom.de/startseite-konferenzen/, Apache, Conferencing and Collaboration - Cisco Webex und Zoom - Telekom, TYPO3 CMS
+https://konferenzen.telekom.de/startseite-konferenzen/, Apache, Conferencing and Collaboration - Cisco Webex und Zoom - Telekom, TYPO3 CMS
+https://accounts.login.idm.telekom.com/oauth2/auth?response_type=code&scope=openid&state=0a6c35f7580b9c7f140fc2359ea8fb83&redirect_uri=https%3A%2F%2Fhomepagecenter.telekom.de%2Findex.php%3Flogin3%3D1%26id%3D2&client_id=10LIVESAM30000004901HOSTING0000000000000&claims=%7B%22id_token%22%3A+%7B%22urn%3Atelekom.com%3Ainst%22%3A+null%2C+%22urn%3Atelekom.com%3Aityp%22%3A+null%2C+%22urn%3Atelekom.com%3Adomn%22%3A+null%2C+%22urn%3Atelekom.com%3Austa%22%3A+null%2C+%22urn%3Atelekom.com%3Aalia%22%3A+null%2C+%22urn%3Atelekom.com%3Adomt%22%3A+null%2C+%22urn%3Atelekom.com%3Adisplayname%22%3A+null%7D%7D, Apache, Telekom Login
+https://accounts.login.idm.telekom.com/oauth2/auth?response_type=code&scope=openid&state=77fbf4ba17c2c5cfb15ef7b7cf314428&redirect_uri=https%3A%2F%2Fhomepagecenter.telekom.de%2Findex.php%3Flogin3%3D1%26id%3D2&client_id=10LIVESAM30000004901HOSTING0000000000000&claims=%7B%22id_token%22%3A+%7B%22urn%3Atelekom.com%3Ainst%22%3A+null%2C+%22urn%3Atelekom.com%3Aityp%22%3A+null%2C+%22urn%3Atelekom.com%3Adomn%22%3A+null%2C+%22urn%3Atelekom.com%3Austa%22%3A+null%2C+%22urn%3Atelekom.com%3Aalia%22%3A+null%2C+%22urn%3Atelekom.com%3Adomt%22%3A+null%2C+%22urn%3Atelekom.com%3Adisplayname%22%3A+null%7D%7D, Apache, Telekom Login
+https://ebs10-stg.telekom.de:443/, Apache
+https://ebs10-stg.telekom.de/, Apache
+https://www.telekom.com/de/konzern/einkauf, Apache, Einkauf | Deutsche Telekom
+https://www.telekom.com/de/konzern/einkauf, Apache, Einkauf | Deutsche Telekom
+https://salesacademy.telekom.de/sui/, None, Global Teach
+https://salesacademy.telekom.de/sui/, None, Global Teach
+https://geschaeftskunden.telekom.de?wt_mc=alias_301_xn--geschftskunden-9hb.telekom.de, Apache, Business Tarife, DSL Angebote | Telekom Geschäftskunden
+https://geschaeftskunden.telekom.de?wt_mc=alias_301_xn--geschftskunden-9hb.telekom.de, Apache, Business Tarife, DSL Angebote | Telekom Geschäftskunden
+https://iot.telekom.com/en, None, Internet of Things: Deutsche Telekom's IoT Offering | IoT Telekom
+https://iot.telekom.com/en, None, Internet of Things: Deutsche Telekom's IoT Offering | IoT Telekom
+https://sdr.telekom.de:443/default.aspx?cookieCheck=true&h=d2f7b42c6b92ff5111624c407f04738488fe85fa2669420d83d47f862bbab5bd, None
+https://sdr.telekom.de/default.aspx?cookieCheck=true&h=d2f7b42c6b92ff5111624c407f04738488fe85fa2669420d83d47f862bbab5bd, None
+https://mobilityportal.telekom.de/onePortal/, Apache
+https://login.servicelogin.cloud/auth/realms/login/protocol/openid-connect/auth?state=584abc6d4bea98418ab0aafadb37ad93&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fvacd61.telekom.de%2Fsystem%2Fsite%2Flogin&client_id=, None, Anmeldung bei Single Sign On
+https://login.servicelogin.cloud/auth/realms/login/protocol/openid-connect/auth?state=83471f393654a492d19d1182f1825757&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fvacd61.telekom.de%2Fsystem%2Fsite%2Flogin&client_id=, None, Anmeldung bei Single Sign On
+https://kundencenter.telekom.de/kundencenter/, Apache, Telekom | Kundencenter
+https://kundencenter.telekom.de/kundencenter/, Apache, Telekom | Kundencenter
+https://hdc.telekom.de:443/, nginx, HotSpot Deployment Center
+https://hdc.telekom.de/, nginx, HotSpot Deployment Center
+https://gwe-dmz-tua-cc.telekom.de:443/, Apache, gms-dmz-tua-cc.telekom.de
+https://rescue-abn.telekom.de:443/, Apache, Ferndiagnose | Telekom
+https://rescue-abn.telekom.de/, Apache, Ferndiagnose | Telekom
+http://flex-vdi.telekom.de:80/, Apache/2.4.41 (Ubuntu)
+https://tvpp-ta-opv.telekom.de/portal/userHomePage.xhtml, Apache, TVPP - Telekom Vertriebspartner-Portal
+https://tvpp-ta-opv.telekom.de/portal/userHomePage.xhtml, Apache, TVPP - Telekom Vertriebspartner-Portal
+http://tcmail14.telekom.de:80/, Apache/2.2.3 (Red Hat), Kontrollzentrum
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://wins-ivs.telekom.de:443/, Telekom, POST data
+https://wins-ivs.telekom.de:443/, Telekom, POST data
+https://cloud.telekom.de/en, None, Cloud Infrastructure & Cloud Platform Solutions - TelekomCLOUD
+https://tput3-ux.telekom.de:443/, Apache/2.4.37 (Red Hat), Index of /
+https://tput3-ux.telekom.de/, Apache/2.4.37 (Red Hat), Index of /
+https://accounts.login00.idm.ver.sul.t-online.de/oauth2/auth?claims=%7B%22id_token%22%3A%7B%22urn%3Atelekom.com%3Aall%22%3A%7B%22essential%22%3Afalse%7D%7D%7D&logout_uri=https%3A%2F%2Fcallmanager-test.telekom.de%2Fcallmanager-dtag-subscriber%2Flogout&client_id=10TVL0SAM30000004901ONENUMBER_WEB0000000&redirect_uri=https%3A%2F%2Fcallmanager-test.telekom.de%2Fcallmanager-dtag-subscriber%2Flogin&response_type=code&scope=openid&state=aW6C9y, Apache, Telekom Login
+https://netweb.telekom.de:443/, Apache
+https://netweb.telekom.de/, Apache
+https://ebs09-stg.telekom.de:443/, Apache
+https://ebs09-stg.telekom.de/, Apache
+https://schueler.telekom.de/, Apache, schueler.telekom.de Weiterleitung zu www.telekom.de/karriere
+https://epm.telekom.de/_forms/default.aspx?ReturnUrl=%2fExternal%2fHome%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252Fexternal%252Fhome%252F&Source=%2Fexternal%2Fhome%2F, Microsoft-IIS/8.5, Sign In
+https://epm.telekom.de/_forms/default.aspx?ReturnUrl=%2fExternal%2fHome%2f_layouts%2f15%2fAuthenticate.aspx%3fSource%3d%252Fexternal%252Fhome%252F&Source=%2Fexternal%2Fhome%2F, Microsoft-IIS/8.5, Sign In
+https://schueler.telekom.de:443/, Apache, schueler.telekom.de Weiterleitung zu www.telekom.de/karriere
+http://flex-byoc.telekom.de:80/, Apache/2.4.41 (Ubuntu)
+https://api-business-portal-smart-connect.telekom.de:443/management-api/swagger-ui.html, None, Swagger UI
+https://api-business-portal-smart-connect.telekom.de/management-api/swagger-ui.html, None, Swagger UI
+https://www.telekom.de/start?wt_mc=alias_301_anlagenanschluss-vor-ort.telekom.de, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start?wt_mc=alias_301_anlagenanschluss-vor-ort.telekom.de, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://ecare1.telekom.de:443/, Apache, Webserver is running!
+https://ecare1.telekom.de/, Apache, Webserver is running!
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://freizeichentoene-test.telekom.de/htmlplus-sf/, Apache, FreizeichentÃ¶ne
+https://freizeichentoene-test.telekom.de/htmlplus-sf/, Apache, FreizeichentÃ¶ne
+https://ebs01-stg.telekom.de/, Apache
+https://ebs01-stg.telekom.de:443/, Apache
+https://rmp-bks.telekom.de:443/, Apache
+https://rmp-bks.telekom.de/, Apache
+http://crt-cpki.telekom.de:80/, Apache
+http://ns0.routercheck.telekom.de:80/, openresty, Welcome
+https://www.telekom.com/de/konzern/einkauf, Apache, Einkauf | Deutsche Telekom
+https://www.telekom.com/de/konzern/einkauf, Apache, Einkauf | Deutsche Telekom
+http://jam.telekom.de:80/, Apache, teest.com - welcome
+https://kompetenzguide.telekom.de:443/, Microsoft-IIS/10.0
+https://kompetenzguide.telekom.de/, Microsoft-IIS/10.0
+https://www.telekom.de/unterwegs/tarife-und-optionen/prepaid-tarife?wt_mc=alias_prepaid, Apache, Prepaid-Tarife ohne Vertragsbindung | Telekom
+https://www.telekom.de/unterwegs/tarife-und-optionen/prepaid-tarife?wt_mc=alias_prepaid, Apache, Prepaid-Tarife ohne Vertragsbindung | Telekom
+https://jira.telekom.de:443/login.jsp, None, Log in - GARD
+https://jira.telekom.de:443/login.jsp, None, Log in - GARD
+https://sdr-rms.telekom.de:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://sdr-rms.telekom.de/, Microsoft-IIS/10.0, IIS Windows Server
+http://scsa-r.cloud.telekom.de:80/, nginx/1.10.3 (Ubuntu), Welcome to nginx!
+https://sisam-extranet-iat.zspi.telekom.de/_forms/default.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, Sign In
+https://gard.telekom.de/gard/, nginx, System Dashboard - GARD
+https://gard.telekom.de/gard/, nginx, System Dashboard - GARD
+https://webcco.geschaeftskunden.telekom.de:443/, Apache, VPN Customer Control
+https://webcco.geschaeftskunden.telekom.de/, Apache, VPN Customer Control
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://chromecast.dev.magentatv.telekom.de/, nginx/1.14.0 (Ubuntu), dtag-magentatv-chromecast
+https://chromecast.dev.magentatv.telekom.de:443/, nginx/1.14.0 (Ubuntu), dtag-magentatv-chromecast
+https://www.telekom.de/start?wt_mc=alias_301_erleben.telekom.de, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start?wt_mc=alias_301_erleben.telekom.de, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.t-online.de/?top, None, News & E-Mail bei t-online.de | Politik, Sport, Unterhaltung & Ratgeber, CoreMedia 7; www.coremedia.com
+http://t-shop-qa3.telekom.de/403, Apache, 
+https://t-shop-qa3.telekom.de/403, Apache, 
+https://de-frasr-tlp-133-191.vc.telekom.de:8443/, CE_E, Bad Request
+https://contenthub.telekom.de/de, Apache, Startseite | Telekom Content World, CoreMedia CMS
+https://contenthub.telekom.de/de, Apache, Startseite | Telekom Content World, CoreMedia CMS
+https://de-frasr-tlp-133-191.vc.telekom.de:443/, CE_E, Bad Request
+https://access.telekom.de/otp/otpLoginV2.pl, Apache, 3rdParty-Login
+https://distribution.cert.telekom.de:443/, Qualys
+https://www.mms.telekom.de/OTP/, webservertypedisabled, Deutsche Telekom
+https://www.mms.telekom.de/OTP/, webservertypedisabled, Deutsche Telekom
+https://antk.telekom.de:443/, None, Auftragnehmer Portal (Telekom)
+https://tvpp-tsg.telekom.de:443/, Apache, JBoss EAP 7
+https://tvpp-tsg.telekom.de/, Apache, JBoss EAP 7
+https://antk.telekom.de/, None, Auftragnehmer Portal (Telekom)
+https://download.cert.telekom.de:443/, Qualys
+https://ebs12-stg.telekom.de:443/, Apache
+https://ebs12-stg.telekom.de/, Apache
+https://geschaeftskunden.telekom.de/mobilfunk/tarife/zubuchoptionen/erreichbarkeit/business-voicemail, Apache, Business Voicemail | Telekom Geschäftskunden
+https://t-shop.telekom.de/403, Apache, 
+https://t-shop.telekom.de/403, Apache, 
+http://routercheck.telekom.de:80/, openresty, Welcome
+https://ebbi.telekom.de/ebbi/, Apache, eBBi
+https://ebbi.telekom.de/ebbi/, Apache, eBBi
+https://contact-solutions.telekom.de/, Apache, Contact Solutions, TYPO3 CMS
+https://ecass.telekom.de/eCaSSWeb/, Apache
+https://ecass.telekom.de/eCaSSWeb/, Apache
+https://cldb.telekom.de/b2bportal/, B2B-Portal, B2B Portal
+https://cldb.telekom.de/b2bportal/, B2B-Portal, B2B Portal
+https://accounts.login.idm.telekom.com/oauth2/auth?client_id=10LIVESAM30000004901TELEKOMFORUM00000000&redirect_uri=https%3A%2F%2Ftelekomhilft.telekom.de%2Fauth%2Foauth2callback&response_type=code&state=https%3A%2F%2Ftelekomhilft.telekom.de%2Ft5%2FSmart-Speaker%2FWichtige-Informationen-zum-Test%2Fm-p%2F3883041%2Fthread-id%2F11&logout_uri=https%3A%2F%2Ftelekomhilft.telekom.de%2Fplugins%2Fcustom%2Ftsystems%2Ftsystem_openidconnect_sso%2Fsso_logout&claims=%7B%22userinfo%22%3A+%7B%22urn%3Atelekom.com%3Aemail%22%3A+%7B%22essential%22%3A+true%7D%7D%2C%22id_token%22%3A+%7B%22urn%3Atelekom.com%3Aemail%22%3A+%7B%22essential%22%3A+true%7D%7D%7D&scope=openid+email&redirectreason=permissiondenied&redirectURL=https%3A%2F%2Ftelekomhilft.telekom.de%2Ft5%2FSmart-Speaker%2FWichtige-Informationen-zum-Test%2Fm-p%2F3883041%2Fthread-id%2F11#M11, Apache, Telekom Login
+https://accounts.login.idm.telekom.com/oauth2/auth?client_id=10LIVESAM30000004901TELEKOMFORUM00000000&redirect_uri=https%3A%2F%2Ftelekomhilft.telekom.de%2Fauth%2Foauth2callback&response_type=code&state=https%3A%2F%2Ftelekomhilft.telekom.de%2Ft5%2FSmart-Speaker%2FWichtige-Informationen-zum-Test%2Fm-p%2F3883041%2Fthread-id%2F11&logout_uri=https%3A%2F%2Ftelekomhilft.telekom.de%2Fplugins%2Fcustom%2Ftsystems%2Ftsystem_openidconnect_sso%2Fsso_logout&claims=%7B%22userinfo%22%3A+%7B%22urn%3Atelekom.com%3Aemail%22%3A+%7B%22essential%22%3A+true%7D%7D%2C%22id_token%22%3A+%7B%22urn%3Atelekom.com%3Aemail%22%3A+%7B%22essential%22%3A+true%7D%7D%7D&scope=openid+email&redirectreason=permissiondenied&redirectURL=https%3A%2F%2Ftelekomhilft.telekom.de%2Ft5%2FSmart-Speaker%2FWichtige-Informationen-zum-Test%2Fm-p%2F3883041%2Fthread-id%2F11#M11, Apache, Telekom Login
+https://evergabe.telekom.de:443/, Apache, eVergabe
+https://evergabe.telekom.de:443/, Apache, eVergabe
+https://homepagedesigner.telekom.de/.cm4all/s/static/html/logout.htmlc?wtgt=https%3A%2F%2Fhomepagedesigner.telekom.de%2F.cm4all%2Fs%2Fwscx%2Fshowstartpage, CM4all Webserver
+https://homepagedesigner.telekom.de/.cm4all/s/static/html/logout.htmlc?wtgt=https%3A%2F%2Fhomepagedesigner.telekom.de%2F.cm4all%2Fs%2Fwscx%2Fshowstartpage, CM4all Webserver
+https://www.t-online.de/, None, News & E-Mail bei t-online.de | Politik, Sport, Unterhaltung & Ratgeber, CoreMedia 7; www.coremedia.com
+https://ecs-extranet.zspi.telekom.de/_layouts/15/CustomLogin/Login.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, 
+https://login.servicelogin.cloud/auth/realms/login/protocol/openid-connect/auth?state=6b7997128da071ddfdae5a1caae24702&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fvacd.telekom.de%2Fsystem%2Fsite%2Flogin&client_id=acd700web-5a3a124c-d9a1-4485-95b2-aeea9b33500a, None, Anmeldung bei Single Sign On
+https://login.servicelogin.cloud/auth/realms/login/protocol/openid-connect/auth?state=b854f056763b64407cf1ec5b895b9c4e&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fvacd.telekom.de%2Fsystem%2Fsite%2Flogin&client_id=acd700web-5a3a124c-d9a1-4485-95b2-aeea9b33500a, None, Anmeldung bei Single Sign On
+https://kundencenter-ens.geschaeftskunden.telekom.de/en/, None
+https://kundencenter-ens.geschaeftskunden.telekom.de/en/, None
+https://services.cert.telekom.de:443/, nginx, Welcome to nginx!
+https://services.cert.telekom.de, nginx, Welcome to nginx!
+https://myshs24.telekom.de/modules/?site=user&section=login&action=login, nginx, myShS24
+https://myshs24.telekom.de/modules/?site=user&section=login&action=login, nginx, myShS24
+https://rechnung.geschaeftskunden.telekom.de/kv/auth, None, Login
+https://rechnung.geschaeftskunden.telekom.de/kv/auth, None, Login
+https://test-ecass.telekom.de/eCaSSWeb/, Apache
+https://test-ecass.telekom.de/eCaSSWeb/, Apache
+https://ebs09.telekom.de/, Apache
+https://ebs09.telekom.de:443/, Apache
+https://de-tlp-frasr-cee-vip-001.vc.telekom.de:8443/, CE_E, Bad Request
+https://de-tlp-frasr-cee-vip-001.vc.telekom.de:443/, CE_E, Bad Request
+http://t-shop-qa2.telekom.de/403, Apache, 
+https://t-shop-qa2.telekom.de/403, Apache, 
+https://ebs10.telekom.de:443/, Apache
+https://ebs10.telekom.de/, Apache
+https://dtts-qualifizierung.telekom.de:443/, Microsoft-IIS/10.0
+https://dtts-qualifizierung.telekom.de/, Microsoft-IIS/10.0
+https://ebs14-stg.telekom.de:443/, Apache
+https://ebs14-stg.telekom.de/, Apache
+https://tim.telekom.de:443/, Apache, TIM Troubleticket Information Management v1.20
+https://tim.telekom.de/, Apache, TIM Troubleticket Information Management v1.20
+https://www.papps-test.telekom.de:443/, None
+https://www.papps-test.telekom.de/, None
+https://support-tvpp.telekom.de:443/login.jsp, Apache, Log in - TVPP-B2B-Support (Telekom Deutschland GmbH)
+https://support-tvpp.telekom.de/login.jsp, Apache, Log in - TVPP-B2B-Support (Telekom Deutschland GmbH)
+https://freizeichentoene.telekom.de/htmlplus-sf/, Apache, FreizeichentÃ¶ne
+https://freizeichentoene.telekom.de/htmlplus-sf/, Apache, FreizeichentÃ¶ne
+https://it.webinare.geschaeftskunden.telekom.de:443/, Apache, Telekom Webinare – Automate your Business, WordPress 5.7.2
+https://it.webinare.geschaeftskunden.telekom.de/, Apache, Telekom Webinare – Automate your Business, WordPress 5.7.2
+https://www.telekom.de/zubuchoptionen/festnetz, Apache, Zubuchoptionen für Festnetz, Internet und TV | Telekom
+https://mycrmlearn-simulation.telekom.de:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://mycrmlearn-simulation.telekom.de:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://sisam-extranet.zspi.telekom.de/_forms/default.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, Sign In
+https://www.telekom.de/zubuchoptionen/festnetz, Apache, Zubuchoptionen für Festnetz, Internet und TV | Telekom
+https://www.telekom.de/start?wt_mc=alias_301_fanmomente.telekom.de, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start?wt_mc=alias_301_fanmomente.telekom.de, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://test-bau.evergabe.telekom.de:443/, Apache, eVergabe
+https://test-bau.evergabe.telekom.de:443/, Apache, eVergabe
+https://tvpp-epos.telekom.de/portal/login.jsp, Apache, TVPP - Telekom Vertriebspartner-Portal
+https://tvpp-epos.telekom.de/portal/login.jsp, Apache, TVPP - Telekom Vertriebspartner-Portal
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://auth-pfau.telekom.de/auth/realms/mbfd/protocol/openid-connect/auth?access_type=online&client_id=infrastructure&redirect_uri=https%3A%2F%2Fpfau.telekom.de%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=3fdad287-9705-4573-b7f7-9c8dd1016b79, None, Anmeldung bei PFAU
+https://auth-pfau.telekom.de/auth/realms/mbfd/protocol/openid-connect/auth?access_type=online&client_id=infrastructure&redirect_uri=https%3A%2F%2Fpfau.telekom.de%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=085bb90c-0325-4738-a351-af727f042e03, None, Anmeldung bei PFAU
+https://registrar.telekom.de/whois/, None, WHOIS Service
+https://registrar.telekom.de/whois/, None, WHOIS Service
+https://ebs02-stg.telekom.de:443/, Apache
+https://ebs02-stg.telekom.de/, Apache
+https://m2m-portal.telekom.de/user/login, Apache/2.2.22 (Ubuntu), Anmeldung | M2M Service Portal
+https://m2m-portal.telekom.de/user/login, Apache/2.2.22 (Ubuntu), Anmeldung | M2M Service Portal
+http://sip.lync.telekom.de:80/, Microsoft-IIS/8.5, IIS Windows Server
+https://telekomhilft.telekom.de:443/, Apache, Home | Telekom hilft Community
+https://telekomhilft.telekom.de:443/, Apache, Home | Telekom hilft Community
+https://kundencenter-ens-sys.geschaeftskunden.telekom.de/en/, None
+https://kundencenter-ens-sys.geschaeftskunden.telekom.de/en/, None
+https://ecs-extranet-iat.zspi.telekom.de/_layouts/15/CustomLogin/Login.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, 
+https://teltec.telekom.de, Apache/2.4.6 (), TelTec
+https://teltec.telekom.de, Apache/2.4.6 (), TelTec
+https://wholesale.telekom.de:443/, Apache, Startseite Wholesale
+https://wholesale.telekom.de/, Apache, Startseite Wholesale
+http://one-number-app.telekom.de:8080/, Apache, Index of /
+http://one-number-app.telekom.de:80/, Apache, One Number App | Telekom
+https://auth-pfau.telekom.de/auth/realms/mbfd/protocol/openid-connect/auth?access_type=online&client_id=infrastructure&redirect_uri=https%3A%2F%2Fdev-pfau.telekom.de%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=94a3c31a-dc5b-4de5-ac93-513b4d137603, None, Anmeldung bei PFAU
+https://auth-pfau.telekom.de/auth/realms/mbfd/protocol/openid-connect/auth?access_type=online&client_id=infrastructure&redirect_uri=https%3A%2F%2Fdev-pfau.telekom.de%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=59c7cbb6-2af9-4e54-b0b3-e4a6a1d0bf35, None, Anmeldung bei PFAU
+https://ebs06.telekom.de:443/, Apache
+https://ebs06.telekom.de/, Apache
+http://crl-cpki.telekom.de:80/, Apache
+https://public.telekom.de:443/, Apache, Public Portal der Telekom | Telekom Public
+https://public.telekom.de/, Apache, Public Portal der Telekom | Telekom Public
+https://tipfinder.telekom.de/de/anmeldung.61.html, Apache, Anmeldung | tipfinder
+https://tipfinder.telekom.de:443/de/anmeldung.61.html, Apache, Anmeldung | tipfinder
+https://login.servicelogin.cloud/auth/realms/login/protocol/openid-connect/auth?state=0cf323162de91d265a0e91469b07dc74&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fvacd9.telekom.de%2Fsystem%2Fsite%2Flogin&client_id=acd709web-e6947190-b98a-4c48-92bd-72fcbf8d4eab, None, Anmeldung bei Single Sign On
+https://login.servicelogin.cloud/auth/realms/login/protocol/openid-connect/auth?state=1d3e76783c104eade69091e4f01ee59c&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fvacd9.telekom.de%2Fsystem%2Fsite%2Flogin&client_id=acd709web-e6947190-b98a-4c48-92bd-72fcbf8d4eab, None, Anmeldung bei Single Sign On
+https://gwe-dmz-cc.telekom.de:443/, Apache, gms-dmz-cc.telekom.de
+https://ebs14.telekom.de:443/, Apache
+https://ebs14.telekom.de/, Apache
+https://ebs08.telekom.de:443/, Apache
+https://ebs08.telekom.de/, Apache
+https://business-partner-portal.telekom.de/login?execution16496=e1s1, Apache, Anmelden - BusinessPartner Portal
+https://tgov-test.telekom.de/_layouts/15/CustomLoginPageFBA/Login.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/10.0, Sign in
+https://tgov-test.telekom.de/_layouts/15/CustomLoginPageFBA/Login.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/10.0, Sign in
+https://business-partner-portal.telekom.de/login?execution16496=e1s1, Apache, Anmelden - BusinessPartner Portal
+https://ebs11-stg.telekom.de/, Apache
+https://ebs11-stg.telekom.de:443/, Apache
+https://simulation-learning.telekom.de:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://simulation-learning.telekom.de:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://interesse.telekom.de/, nginx, Mitmachen & gewinnen - Telekom Gewinnspiele
+https://interesse.telekom.de/, nginx, Mitmachen & gewinnen - Telekom Gewinnspiele
+https://registrar.telekom.de/whois/, None, WHOIS Service
+https://registrar.telekom.de/whois/, None, WHOIS Service
+https://qa-myshs24.telekom.de/modules/?site=user&section=login&action=login, nginx, myShS24
+https://qa-myshs24.telekom.de/modules/?site=user&section=login&action=login, nginx, myShS24
+https://login.servicelogin.cloud/auth/realms/login/protocol/openid-connect/auth?state=17a77488f5fff5d5d0c114a97787d7a7&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fvacd30.telekom.de%2Fsystem%2Fsite%2Flogin&client_id=acd730web-d352cbca-1b9c-4a83-b5af-42f56b723ce0, None, Anmeldung bei Single Sign On
+https://login.servicelogin.cloud/auth/realms/login/protocol/openid-connect/auth?state=3f07eca212dccb60867ee1668c944032&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fvacd30.telekom.de%2Fsystem%2Fsite%2Flogin&client_id=acd730web-d352cbca-1b9c-4a83-b5af-42f56b723ce0, None, Anmeldung bei Single Sign On
+http://ocsp.telekom.de:80/, Apache
+https://portal-m2m.telekom.de/m2m-customer-portal/login, Apache, M2M Service Portal
+https://portal-m2m.telekom.de/m2m-customer-portal/login, Apache, M2M Service Portal
+https://hss-analytics.telekom.de:443/, Apache, Sign in - Matomo, Matomo - free/libre analytics platform
+https://webcco-ta.telekom.de/DIVA-webcco/, Apache, VPN Customer Control
+https://qacn01.dw.telekom.de/AirWatch/Login?ReturnUrl=%2FAirWatch%2F, None, Login
+http://modi.telekom.de:80/, nginx, 
+https://modi.telekom.de:443/, nginx, 
+https://gms-dmz-cc.telekom.de:443/, Apache, gms-dmz-cc.telekom.de
+https://LearnNow.telekom.de/suidtag/, Microsoft-IIS/10.0, Learn NOW
+https://LearnNow.telekom.de/suidtag/, Microsoft-IIS/10.0, Learn NOW
+https://www.telekom.de/favorit?wt_mc=alias_301_puls.telekom.de, Apache, Telekom entdecken | Telekom
+https://www.telekom.de/favorit?wt_mc=alias_301_puls.telekom.de, Apache, Telekom entdecken | Telekom
+https://www.telesec.de/de/cpki, Apache, cpki » Telekom Trust Center
+https://www.magenta-musik-360.de/, None, MagentaMusik 360 | Telekom
+https://rescue.telekom.de:443/, Apache, Ferndiagnose | Telekom
+https://www.magenta-musik-360.de/, None, MagentaMusik 360 | Telekom
+https://rescue.telekom.de/, Apache, Ferndiagnose | Telekom
+https://ebs13.telekom.de:443/, Apache
+https://ebs13.telekom.de/, Apache
+https://events.geschaeftskunden.telekom.de/, nginx, events.geschaeftskunden.telekom.de
+https://events.geschaeftskunden.telekom.de:443/, nginx, events.geschaeftskunden.telekom.de
+https://ebs07.telekom.de:443/, Apache
+https://ebs07.telekom.de/, Apache
+https://www.telekom.de/kundencenter/startseite?wt_mc=alias_kundencenter, Apache, Telekom Kundencenter: Rechnungen und Verträge | Telekom
+https://www.telekom.de/kundencenter/startseite?wt_mc=alias_kundencenter, Apache, Telekom Kundencenter: Rechnungen und Verträge | Telekom
+https://rescue-rfu.telekom.de:443/, Apache, Ferndiagnose | Telekom
+https://rescue-rfu.telekom.de/, Apache, Ferndiagnose | Telekom
+https://ebs13-stg.telekom.de:443/, Apache
+https://ebs13-stg.telekom.de/, Apache
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://ebs04.telekom.de:443/, Apache
+https://ebs04.telekom.de/, Apache
+https://ebs12.telekom.de:443/, Apache
+https://ebs12.telekom.de/, Apache
+https://ebs07-stg.telekom.de:443/, Apache
+https://ebs07-stg.telekom.de/, Apache
+https://telekomhilft.telekom.de:443/, Apache, Home | Telekom hilft Community
+https://telekomhilft.telekom.de:443/, Apache, Home | Telekom hilft Community
+http://t-shop-qa.telekom.de/403, Apache, 
+https://t-shop-qa.telekom.de/403, Apache, 
+https://swupload.telekom.de/users/sign_in, nginx, RMS2
+https://handbookgermany.de/en.html, elb, Home | Handbook Germany
+https://handbookgermany.de/en.html, elb, Home | Handbook Germany
+https://join.vc.telekom.de:8443/, CE_E, Bad Request
+https://join.vc.telekom.de:443/, nginx, Cisco Meeting Server web app
+https://join.vc.telekom.de/, nginx, Cisco Meeting Server web app
+https://cloud.telekom-dienste.de/, YAWS, MagentaCLOUD - Ihr sicherer Cloud Speicher | Telekom
+https://cloud.telekom-dienste.de/, YAWS, MagentaCLOUD - Ihr sicherer Cloud Speicher | Telekom
+https://www.telekom.de/pv, Apache, Telekom
+https://www.telekom.de/pv, Apache, Telekom
+https://cap.telekom.de:443/, Apache, Webserver is running!
+https://cap.telekom.de/, Apache, Webserver is running!
+https://rpk.telekom.de/rpk-prod/login, WildFly/10, Produktion - RPK
+https://comshare-extranet.zspi.telekom.de/_forms/default.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, Sign In
+https://ebs06-stg.telekom.de:443/, Apache
+https://ebs06-stg.telekom.de/, Apache
+https://rescue.telekom.de, Apache, Ferndiagnose | Telekom
+https://rescue.telekom.de, Apache, Ferndiagnose | Telekom
+https://contact-solutions.telekom.de/, Apache, Contact Solutions, TYPO3 CMS
+https://contact-solutions.telekom.de/, Apache, Contact Solutions, TYPO3 CMS
+https://view.info.telekom.de:443/Error.aspx, None, Error
+https://view.info.telekom.de/Error.aspx, None, Error
+https://psa-portal-extern.telekom.de/internet-ui/, Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips, PSA Portal - Login
+https://psa-portal-extern.telekom.de/internet-ui/, Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips, PSA Portal - Login
+https://voicemail.telekom.de/user/login, Apache, Corporate VoiceMail
+https://voicemail.telekom.de/user/login, Apache, Corporate VoiceMail
+https://mbm.telekom.de/auth, None, Login
+https://mbm.telekom.de/auth, None, Login
+https://ebs05-stg.telekom.de:443/, Apache
+https://ebs05-stg.telekom.de/, Apache
+https://ebs03-stg.telekom.de:443/, Apache
+https://arc1-extranet-dev.zspi.telekom.de/_forms/default.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, Sign In
+https://ebs03-stg.telekom.de/, Apache
+https://shopseite.telekom.de:443/, cloudflare, All Deutsche Telekom stores Germany | Smartphones, Tablets, Tariffs
+https://shopseite.telekom.de, cloudflare, All Deutsche Telekom stores Germany | Smartphones, Tablets, Tariffs
+https://arc2-extranet-dev.zspi.telekom.de/_forms/default.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, Sign In
+http://e-mail-made-in-germany.telekom.de:80/, Apache, E-Mail made in Germany - sichere Kommunikation mit E-Mail @t-online.de und @magenta.de
+https://www.magenta-musik-360.de/, None, MagentaMusik 360 | Telekom
+https://www.magenta-musik-360.de/, None, MagentaMusik 360 | Telekom
+https://antk-abnahme.telekom.de:443/, None, Auftragnehmer Portal (Telekom)
+https://antk-abnahme.telekom.de/, None, Auftragnehmer Portal (Telekom)
+https://engcos-extranet-dev.zspi.telekom.de/_forms/default.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, Sign In
+https://web.magentatv.de, Apache, 
+https://shop.telekom.de:443/, None, Smartphones, Tablets und Zubehör | Telekom Zubehörshop
+https://shop.telekom.de/, None, Smartphones, Tablets und Zubehör | Telekom Zubehörshop
+https://sessiondaten-ip-traffic.telekom.de:443/Login.aspx?ReturnUrl=%2fdefault.aspx, Microsoft-IIS/8.5, Sessiondatenserver_Prod
+https://sessiondaten-ip-traffic.telekom.de/Login.aspx?ReturnUrl=%2fdefault.aspx, Microsoft-IIS/8.5, Sessiondatenserver_Prod
+https://www.mysafemail.telekom.de/responsiveUI/, Apache/2.4.6 () OpenSSL/1.0.2k-fips, E-Mail Encryption Gateway: E-Mail Encryption Gateway
+https://www.mysafemail.telekom.de/responsiveUI/, Apache/2.4.6 () OpenSSL/1.0.2k-fips, E-Mail Encryption Gateway: E-Mail Encryption Gateway
+https://etts-carrier.telekom.de/webticket/ettsweb/login.jsp, Apache, Web-Ticket
+https://etts-carrier.telekom.de/webticket/ettsweb/login.jsp, Apache, Web-Ticket
+https://de-reference-cap.telekom.de:443/, Apache, Webserver is running!
+https://de-reference-cap.telekom.de/, Apache, Webserver is running!
+https://cloud.telekom-dienste.de/, YAWS, MagentaCLOUD - Ihr sicherer Cloud Speicher | Telekom
+https://cloud.telekom-dienste.de/, YAWS, MagentaCLOUD - Ihr sicherer Cloud Speicher | Telekom
+https://www.telekom.de/hilfe/geraete-zubehoer/handy-hilfe?samChecked=true, Apache, Handy-Hilfe | Telekom Hilfe
+https://performance.telekom.de/pmcuweb/, Apache, PMN-CU Web Portal
+https://performance.telekom.de/pmcuweb/, Apache, PMN-CU Web Portal
+https://reservierungsservice.telekom.de:443/, None
+https://reservierungsservice.telekom.de/, None
+https://ebs03.telekom.de:443/, Apache
+https://retail-excellence-extranet.zspi.telekom.de/_forms/default.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, Sign In
+https://ebs03.telekom.de/, Apache
+https://miles.telekom.de:443/, nginx/1.6.2, Telekom Merchandise Shop
+https://miles.telekom.de/, nginx/1.6.2, Telekom Merchandise Shop
+https://einrichten.telekom.de/router-einrichten/willkommen?wt_mc=alias_301_autokonfig.telekom.de, Apache, Router einrichten
+https://einrichten.telekom.de/router-einrichten/willkommen?wt_mc=alias_301_autokonfig.telekom.de, Apache, Router einrichten
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.rechnung-online-business.telekom.de/kv/auth, None, Login
+https://www.rechnung-online-business.telekom.de/kv/auth, None, Login
+https://integrity-fmed.telekom.de:443/, PTC Integrity Server, MKS Startseite
+https://shop.geschaeftskunden.telekom.de/error?_requestid=8208917, Apache-Coyote/1.1
+https://shop.geschaeftskunden.telekom.de/error?_requestid=8208919, Apache-Coyote/1.1
+https://tvpp-tsg-ta.telekom.de:443/, Apache, JBoss EAP 7
+http://web-service.telekom.de:80/, Apache, HPAC 17.2.5
+https://tvpp-tsg-ta.telekom.de/, Apache, JBoss EAP 7
+https://web-service.telekom.de:443/, Apache, HPAC 17.2.5
+https://tvpp-tsg2.telekom.de:443/, Apache, JBoss EAP 7
+https://tvpp-tsg2.telekom.de/, Apache, JBoss EAP 7
+https://webcco.telekom.de/, Apache, VPN Customer Control
+https://share-iat.zspi.telekom.de/_layouts/15/TSI.zSPI.MultiproviderLoginpage/Login.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, Log-in
+https://webcco.telekom.de:443/, Apache, VPN Customer Control
+https://auth-pfau.telekom.de:443/, None
+https://hotspot-suite.telekom.de:443/login, None, HotSpot Suite - Login
+https://hotspot-suite.telekom.de/login, None, HotSpot Suite - Login
+https://login.servicelogin.cloud/auth/realms/login/protocol/openid-connect/auth?state=ae4d292799e910c21bab20561bb5d01d&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fvacd60.telekom.de%2Fsystem%2Fsite%2Flogin&client_id=acd760web-0610618a-a456-44da-8e9d-b602076cf0e4, None, Anmeldung bei Single Sign On
+https://login.servicelogin.cloud/auth/realms/login/protocol/openid-connect/auth?state=e09db9226780c5561f0063acbf5d46e4&response_type=code&approval_prompt=auto&redirect_uri=https%3A%2F%2Fvacd60.telekom.de%2Fsystem%2Fsite%2Flogin&client_id=acd760web-0610618a-a456-44da-8e9d-b602076cf0e4, None, Anmeldung bei Single Sign On
+https://gms-dmz-tua-cc.telekom.de:443/, Apache, gms-dmz-tua-cc.telekom.de
+https://lwa.telekom.de:443/, Apache-Coyote/1.1
+https://gewinnspiele.telekom.de/telekom-web/, Apache, Telekom | Gewinnspiele & Aktionen
+https://gewinnspiele.telekom.de/telekom-web/, Apache, Telekom | Gewinnspiele & Aktionen
+https://www.wholesale.telekom.de:443/, Apache, Startseite Wholesale
+https://www.wholesale.telekom.de/, Apache, Startseite Wholesale
+https://crowd.telekom.net/login?returnUrl=%2F, Microsoft-IIS/8.5, Willkommen
+https://crowd.telekom.net/login?returnUrl=%2F, Microsoft-IIS/8.5, Willkommen
+https://www.telekom.de/start?wt_mc=alias_301_start.telekom.de, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://qualysapi.cert.telekom.de:443/, Qualys, QualysGuard®
+https://www.telekom.de/start?wt_mc=alias_301_start.telekom.de, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/zubuchoptionen/homepage-loesungen?wt_mc=alias_301_homepage.telekom.de, Apache, Homepage Lösungen zur Erstellung einer Website | Telekom
+https://www.telekom.de/zubuchoptionen/homepage-loesungen?wt_mc=alias_301_homepage.telekom.de, Apache, Homepage Lösungen zur Erstellung einer Website | Telekom
+https://kundencentercit2.telekom.de:443/, Apache, Lexus
+http://ns1.routercheck.telekom.de:80/, openresty, Welcome
+https://virtual-networking.telekom.de/_/qxi-gmk-ppl/gparant.github.io/tcm-client/TCM/office-map/map.json, Apache/2.4.25 (Debian), WorkAdventure
+https://teltec.telekom.de:443/, Apache/2.4.6 (), TelTec
+https://teltec.telekom.de/, Apache/2.4.6 (), TelTec
+https://qm.telekom.de/, 
+https://qm.telekom.de:443/, 
+https://teltec.telekom.de, Apache/2.4.6 (), TelTec
+https://teltec.telekom.de, Apache/2.4.6 (), TelTec
+https://geschaeftskunden.telekom.de?wt_mc=alias_301_www.geschaeftskunden.telekom.de, Apache, Business Tarife, DSL Angebote | Telekom Geschäftskunden
+https://trassenauskunftkabel.telekom.de/start.html, nginx, Trassenauskunft Kabel
+https://trassenauskunftkabel.telekom.de:443/start.html, nginx, Trassenauskunft Kabel
+https://konferenz-download.telekom.de:443/, Apache, Telekom Mehrwertlösungen :: Produktübersicht :: Telefon- und Datenkonferenzen
+https://konferenz-download.telekom.de/, Apache, Telekom Mehrwertlösungen :: Produktübersicht :: Telefon- und Datenkonferenzen
+https://sdd.telekom.de/, None, 
+https://sdd.telekom.de:443/, None, 
+https://contact-solutions.telekom.de:443/, Apache, Contact Solutions, TYPO3 CMS
+https://contact-solutions.telekom.de/, Apache, Contact Solutions, TYPO3 CMS
+https://www.telekom.com/de/konzern/einkauf, Apache, Einkauf | Deutsche Telekom
+https://www.telekom.com/de/konzern/einkauf, Apache, Einkauf | Deutsche Telekom
+https://cloud.telekom.de/en, None, Cloud Infrastructure & Cloud Platform Solutions - TelekomCLOUD
+https://cloud.telekom.de/en, None, Cloud Infrastructure & Cloud Platform Solutions - TelekomCLOUD
+https://videocloud.mylearn.telekom.de/user/login?destination=/, elb, Log in | Video Cloud
+https://videocloud.mylearn.telekom.de/user/login?destination=/, elb, Log in | Video Cloud
+https://gt2-content.telekom.de:443/, Microsoft-IIS/10.0
+https://gt2-content.telekom.de/, Microsoft-IIS/10.0
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://werbenet.telekom.de:443/, Microsoft-IIS/8.5, Telekom WerbeNet
+https://werbenet.telekom.de:443/, Microsoft-IIS/8.5, Telekom WerbeNet
+https://sdd-business.telekom.de:443/, None, 
+https://rescue-ent.telekom.de:443/, Apache, Ferndiagnose | Telekom
+https://sdd-business.telekom.de/, None, 
+https://rescue-ent.telekom.de/, Apache, Ferndiagnose | Telekom
+https://ebs01.telekom.de:443/, Apache
+https://ebs01.telekom.de/, Apache
+https://konferenzen.telekom.de/en/home, Apache, Home - Telekom - Conferencing & Collaboration, TYPO3 CMS
+https://konferenzen.telekom.de/en/home, Apache, Home - Telekom - Conferencing & Collaboration, TYPO3 CMS
+https://de-tlp-frasr-cee-134.vc.telekom.de:8443/, CE_E, Bad Request
+https://de-tlp-frasr-cee-134.vc.telekom.de:443/, CE_E, Bad Request
+https://webcollab.telekom.de:443/, nginx, Octopus Web Collaboration
+https://webcollab.telekom.de/, nginx, Octopus Web Collaboration
+https://rbm-lite.telekom.de:443/, Mavenir Application Server, Business Messaging Platform (BMP)
+https://geschaeftskunden.telekom.de/hilfe-und-service/webinare?wt_mc=ii_vdwesakm_LP_webinare_bisher_ex, Apache, Telekom Business Webinare | Telekom Geschäftskunden
+https://geschaeftskunden.telekom.de/hilfe-und-service/webinare?wt_mc=ii_vdwesakm_LP_webinare_bisher_ex, Apache, Telekom Business Webinare | Telekom Geschäftskunden
+https://telekomhilft.telekom.de:443/, Apache, Home | Telekom hilft Community
+https://telekomhilft.telekom.de:443/, Apache, Home | Telekom hilft Community
+https://auth-pfau.telekom.de/auth/realms/mbfd/protocol/openid-connect/auth?access_type=online&client_id=infrastructure&redirect_uri=https%3A%2F%2Fqa-pfau.telekom.de%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=53d45dfb-2a5a-416a-90e7-dfd60c8bd698, None, Anmeldung bei PFAU
+https://auth-pfau.telekom.de/auth/realms/mbfd/protocol/openid-connect/auth?access_type=online&client_id=infrastructure&redirect_uri=https%3A%2F%2Fqa-pfau.telekom.de%2Foauth%2Fcallback&response_type=code&scope=openid+email+profile&state=d9348bb8-dd09-41c3-b56f-fe2f65044563, None, Anmeldung bei PFAU
+https://www.magenta-musik-360.de/, None, MagentaMusik 360 | Telekom
+https://www.magenta-musik-360.de/, None, MagentaMusik 360 | Telekom
+https://geschaeftskunden.telekom.de/, Apache, Business Tarife, DSL Angebote | Telekom Geschäftskunden
+https://geschaeftskunden.telekom.de:443/, Apache, Business Tarife, DSL Angebote | Telekom Geschäftskunden
+https://performance1.telekom.de/pmcuweb/, Apache, PMN-CU Web Portal
+https://performance1.telekom.de/pmcuweb/, Apache, PMN-CU Web Portal
+https://learnnow2.telekom.de:443/, Microsoft-IIS/10.0
+https://learnnow2.telekom.de/, Microsoft-IIS/10.0
+https://ebs02.telekom.de:443/, Apache
+https://ebs02.telekom.de/, Apache
+https://mylearn.telekom.de:443/, Microsoft-IIS/10.0
+https://mylearn.telekom.de/, Microsoft-IIS/10.0
+https://betatest.telekom.de:443/, awselb/2.0
+https://betatest.telekom.de:443/, awselb/2.0
+https://teltec.telekom.de, Apache/2.4.6 (), TelTec
+https://teltec.telekom.de, Apache/2.4.6 (), TelTec
+https://ebs11.telekom.de:443/, Apache
+https://ebs11.telekom.de/, Apache
+https://homepagedesigner-vtu.telekom.de/.cm4all/s/static/html/logout.htmlc?wtgt=https%3A%2F%2Fhomepagedesigner-vtu.telekom.de%2F.cm4all%2Fs%2Fwscx%2Fshowstartpage, CM4all Webserver
+https://homepagedesigner-vtu.telekom.de/.cm4all/s/static/html/logout.htmlc?wtgt=https%3A%2F%2Fhomepagedesigner-vtu.telekom.de%2F.cm4all%2Fs%2Fwscx%2Fshowstartpage, CM4all Webserver
+https://ecare.telekom.de:443/, Apache, Webserver is running!
+https://ecare.telekom.de/, Apache, Webserver is running!
+http://wipkft1.telekom.de:8080/, None, IBM HTTP Server
+http://wipkft1.telekom.de:8081/, None, IBM HTTP Server
+https://accounts.login.idm.telekom.com/oauth2/auth?response_type=code&scope=openid&state=d12e79452384f838c1b00943fe76d4b4&redirect_uri=https%3A%2F%2Fhomepagecenter.telekom.de%2Findex.php%3Flogin3%3D1%26id%3D2&client_id=10LIVESAM30000004901HOSTING0000000000000&claims=%7B%22id_token%22%3A+%7B%22urn%3Atelekom.com%3Ainst%22%3A+null%2C+%22urn%3Atelekom.com%3Aityp%22%3A+null%2C+%22urn%3Atelekom.com%3Adomn%22%3A+null%2C+%22urn%3Atelekom.com%3Austa%22%3A+null%2C+%22urn%3Atelekom.com%3Aalia%22%3A+null%2C+%22urn%3Atelekom.com%3Adomt%22%3A+null%2C+%22urn%3Atelekom.com%3Adisplayname%22%3A+null%7D%7D, Apache, Telekom Login
+https://accounts.login.idm.telekom.com/oauth2/auth?response_type=code&scope=openid&state=941411616234f5cc3eb20f5778be71df&redirect_uri=https%3A%2F%2Fhomepagecenter.telekom.de%2Findex.php%3Flogin3%3D1%26id%3D2&client_id=10LIVESAM30000004901HOSTING0000000000000&claims=%7B%22id_token%22%3A+%7B%22urn%3Atelekom.com%3Ainst%22%3A+null%2C+%22urn%3Atelekom.com%3Aityp%22%3A+null%2C+%22urn%3Atelekom.com%3Adomn%22%3A+null%2C+%22urn%3Atelekom.com%3Austa%22%3A+null%2C+%22urn%3Atelekom.com%3Aalia%22%3A+null%2C+%22urn%3Atelekom.com%3Adomt%22%3A+null%2C+%22urn%3Atelekom.com%3Adisplayname%22%3A+null%7D%7D, Apache, Telekom Login
+https://mdm.telekom.de/mifs/user/login.jsp, server, Deutsche Telekom User Portal: Sign In
+https://mdm.telekom.de/mifs/user/login.jsp, server, Deutsche Telekom User Portal: Sign In
+https://mdm.telekom.de/mifs/user/login.jsp, server, Deutsche Telekom User Portal: Sign In
+https://cloud.telekom-dienste.de/, YAWS, MagentaCLOUD - Ihr sicherer Cloud Speicher | Telekom
+https://www.telekom.de/zubuchoptionen/festnetz, Apache, Zubuchoptionen für Festnetz, Internet und TV | Telekom
+https://www.telekom.de/zubuchoptionen/festnetz, Apache, Zubuchoptionen für Festnetz, Internet und TV | Telekom
+https://vdcs-sys.telekom.de:443/logon/LogonPoint/tmindex.html, Apache, NetScaler AAA
+https://www.evergabe.telekom.de:443/, Apache, eVergabe
+https://vdcs-sys.telekom.de/logon/LogonPoint/tmindex.html, Apache, NetScaler AAA
+https://www.evergabe.telekom.de:443/, Apache, eVergabe
+https://shopsuche.telekom.de:443/, None, Telekom Shop Suche und Terminvereinbarung
+https://shopsuche.telekom.de/, None, Telekom Shop Suche und Terminvereinbarung
+https://fpf-mc.telekom.de:443/public/login.html, Apache, Loading...
+https://fpf-mc.telekom.de/public/login.html, Apache, Loading...
+https://www.t-online.de/?top, None, News & E-Mail bei t-online.de | Politik, Sport, Unterhaltung & Ratgeber, CoreMedia 7; www.coremedia.com
+https://retail-excellence-extranet-iat.zspi.telekom.de/_forms/default.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, Sign In
+https://halp-prod.telekom.de:443/, Apache, Webserver is running!
+https://salesacademy.telekom.de/sui/, None, Global Teach
+https://salesacademy.telekom.de/sui/, None, Global Teach
+https://abnahme-bau.evergabe.telekom.de:443/, Apache, eVergabe
+https://ebs04-stg.telekom.de:443/, Apache
+https://ebs04-stg.telekom.de/, Apache
+http://pass.telekom.de:80/, Apache, Datennutzung
+https://pass.telekom.de:443/, Apache, Datennutzung
+https://kundencenter-ens.geschaeftskunden.telekom.de/en/, None
+https://kundencenter-ens.geschaeftskunden.telekom.de/en/, None
+https://payback.telekom.de/, Apache/2.4.41 (Ubuntu), Der Telekom Shop exklusiv für PAYBACK Kunden
+https://payback.telekom.de/, Apache/2.4.41 (Ubuntu), Der Telekom Shop exklusiv für PAYBACK Kunden
+https://accounts.login.idm.telekom.com/oauth2/auth?claims=%7B%22id_token%22%3A%7B%22urn%3Atelekom.com%3Aall%22%3A%7B%22essential%22%3Afalse%7D%7D%7D&logout_uri=https%3A%2F%2Fcallmanager.telekom.de%2Fcallmanager-dtag-subscriber%2Flogout&client_id=10LIVESAM30000004901ONENUMBER_WEB0000000&redirect_uri=https%3A%2F%2Fcallmanager.telekom.de%2Fcallmanager-dtag-subscriber%2Flogin&response_type=code&scope=openid&state=8t9twr, Apache, Telekom Login
+https://cn01.dw.telekom.de/AirWatch/Login?ReturnUrl=%2FAirWatch%2F, None, Login
+https://accounts.login.idm.telekom.com/oauth2/auth?claims=%7B%22id_token%22%3A%7B%22urn%3Atelekom.com%3Aall%22%3A%7B%22essential%22%3Afalse%7D%7D%7D&logout_uri=https%3A%2F%2Fcallmanager.telekom.de%2Fcallmanager-dtag-subscriber%2Flogout&client_id=10LIVESAM30000004901ONENUMBER_WEB0000000&redirect_uri=https%3A%2F%2Fcallmanager.telekom.de%2Fcallmanager-dtag-subscriber%2Flogin&response_type=code&scope=openid&state=wkZn87, Apache, Telekom Login
+http://tcmail13.telekom.de:80/, Apache/2.2.3 (Red Hat), Kontrollzentrum
+https://qualysguard.cert.telekom.de:443/, Qualys, QualysGuard®
+https://qualysguard.cert.telekom.de/, Qualys, QualysGuard®
+https://geschaeftskunden.telekom.de?wt_mc=alias_301_geschaeftskunde.telekom.de, Apache, Business Tarife, DSL Angebote | Telekom Geschäftskunden
+https://geschaeftskunden.telekom.de?wt_mc=alias_301_geschaeftskunde.telekom.de, Apache, Business Tarife, DSL Angebote | Telekom Geschäftskunden
+https://wholesale-portal.telekom.de/wps/portal/Home/Startseite/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziPQK9DTycTYz83d2cnA0Cg70CXYOdgw1NLI30wwkpiAJKG-AAjgZA_VFYlDgaOAUZORkbGLj7G2FVgGJGQW6EQaajoiIAYtVMuQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/, None, Deutsche Telekom AG, Zentrum Wholesale - Startseite
+https://wholesale-portal.telekom.de/wps/portal/Home/Startseite/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8ziPQK9DTycTYz83d2cnA0Cg70CXYOdgw1NLI30wwkpiAJKG-AAjgZA_VFYlDgaOAUZORkbGLj7G2FVgGJGQW6EQaajoiIAYtVMuQ!!/dz/d5/L2dBISEvZ0FBIS9nQSEh/, None, Deutsche Telekom AG, Zentrum Wholesale - Startseite
+https://wohnungswirtschaft.telekom.de:443/, nginx, Startseite - Telekom Wohnungswirtschaft
+https://wohnungswirtschaft.telekom.de/, nginx, Startseite - Telekom Wohnungswirtschaft
+https://qgadmin.cert.telekom.de:443/, Qualys, QualysGuard®
+https://qgadmin.cert.telekom.de/, Qualys, QualysGuard®
+http://ldap-cpki.telekom.de:80/, Apache, T-Systems Trust Center - 400 bad request / 404 not found
+https://put-kibana.telekom.de:443/login?next=%2F, Apache, Elastic
+https://put-kibana.telekom.de/login?next=%2F, Apache, Elastic
+https://ldap-cpki.telekom.de:443/, Apache, Deutsche Telekom AG | Corporate PKI
+https://www.magenta-musik-360.de/, None, MagentaMusik 360 | Telekom
+https://www.magenta-musik-360.de/, None, MagentaMusik 360 | Telekom
+https://freizeichentoene.telekom.de/htmlplus-sf/register/1?sourceInfo=AutoSMS&utm_source=AutoSMS, Apache, FreizeichentÃ¶ne
+https://freizeichentoene.telekom.de/htmlplus-sf/register/1?sourceInfo=AutoSMS&utm_source=AutoSMS, Apache, FreizeichentÃ¶ne
+https://vdcs.telekom.de:443/logon/LogonPoint/tmindex.html, Apache, NetScaler AAA
+https://vdcs.telekom.de/logon/LogonPoint/tmindex.html, Apache, NetScaler AAA
+https://ebs08-stg.telekom.de:443/, Apache
+https://ebs08-stg.telekom.de/, Apache
+https://vdcs-test.telekom.de:443/logon/LogonPoint/tmindex.html, Apache, NetScaler AAA
+https://vdcs-test.telekom.de/logon/LogonPoint/tmindex.html, Apache, NetScaler AAA
+https://comshare-extranet-iat.zspi.telekom.de/_forms/default.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, Sign In
+http://corporate-pki.telekom.de:80/, Apache, T-Systems Trust Center - 400 bad request / 404 not found
+https://corporate-pki.telekom.de:443/, Apache, Deutsche Telekom AG | Corporate PKI
+https://dive.telekom-dienste.de/users/sign_in, None, DIVE - Benutzeranmeldung
+https://dive.telekom-dienste.de/users/sign_in, None, DIVE - Benutzeranmeldung
+https://interesse.telekom.de:443/, nginx, Mitmachen & gewinnen - Telekom Gewinnspiele
+https://interesse.telekom.de/, nginx, Mitmachen & gewinnen - Telekom Gewinnspiele
+https://geschaeftskunden.telekom.de/security, Apache, Digitalisierung Security braucht - Magenta Security | Telekom Geschäftskunden
+https://geschaeftskunden.telekom.de/security, Apache, Digitalisierung Security braucht - Magenta Security | Telekom Geschäftskunden
+https://business-portal-smart-connect.telekom.de/tdg-portal/login, None, Business Smart Connect Portal
+https://etts.telekom.de/webticket/ettsweb/login.jsp, Apache, Web-Ticket
+https://etts.telekom.de/webticket/ettsweb/login.jsp, Apache, Web-Ticket
+https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-internet-festnetz?wt_mc=alias_301_zuhause/fernsehen, Apache, MagentaTV mit Internet & Festnetz | Telekom
+https://www.telekom.de/magenta-tv/tarife-und-optionen/magenta-tv-mit-internet-festnetz?wt_mc=alias_301_zuhause/fernsehen, Apache, MagentaTV mit Internet & Festnetz | Telekom
+https://business-portal-smart-connect.telekom.de/tdg-portal/login, None, Business Smart Connect Portal
+https://access-otp.telekom.de/otp/otpLoginV2.pl, Apache, 3rdParty-Login
+https://teltec.telekom.de, Apache/2.4.6 (), TelTec
+https://teltec.telekom.de, Apache/2.4.6 (), TelTec
+https://www.t-online.de/?top, None, News & E-Mail bei t-online.de | Politik, Sport, Unterhaltung & Ratgeber, CoreMedia 7; www.coremedia.com
+https://tgov.telekom.de/_layouts/15/CustomLoginPageFBA/Login.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/10.0, Sign in
+https://tgov.telekom.de/_layouts/15/CustomLoginPageFBA/Login.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/10.0, Sign in
+http://tcmt.telekom.de:80/, nginx
+https://tcmt.telekom.de:443/, nginx
+https://www.produn.telekom.de:443/, Apache, PRODUN 4.100
+https://deskbot-stage.telekom.de:443/, ecstatic-3.3.2, DeskBot
+https://deskbot-stage.telekom.de:443/, ecstatic-3.3.2, DeskBot
+https://public.telekom.de, Apache, Public Portal der Telekom | Telekom Public
+https://public.telekom.de, Apache, Public Portal der Telekom | Telekom Public
+https://ebs05.telekom.de:443/, Apache
+https://ebs05.telekom.de/, Apache
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/netz/glasfaser/ftth?wt_mc=alias_301_zuhause/glasfaseranschluss-fuer-ihre-stadt, Apache, FTTH - der Glasfaseranschluss für Ihre Stadt | Telekom
+https://www.telekom.de/netz/glasfaser/ftth?wt_mc=alias_301_zuhause/glasfaseranschluss-fuer-ihre-stadt, Apache, FTTH - der Glasfaseranschluss für Ihre Stadt | Telekom
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://www.telekom.de/start, Apache, Telekom | Mobilfunk, Festnetz & Internet, TV Angebote
+https://auth.dol.telekom.de/auth/realms/devopslab/protocol/openid-connect/auth?client_id=portal&state=46074f07-1500-41b2-93ae-2fe916186775&redirect_uri=https%3A%2F%2Fportal.dol.telekom.de%2Fwelcome%3Fauth_callback%3D1&scope=openid&response_type=code, Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips, Log in to devopslab
+https://auth.dol.telekom.de/auth/realms/devopslab/protocol/openid-connect/auth?client_id=portal&state=24eac34b-10ce-426e-9966-9f39a7c85f5d&redirect_uri=https%3A%2F%2Fportal.dol.telekom.de%2Fwelcome%3Fauth_callback%3D1&scope=openid&response_type=code, Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips, Log in to devopslab
+https://www.t-online.de/?top, None, News & E-Mail bei t-online.de | Politik, Sport, Unterhaltung & Ratgeber, CoreMedia 7; www.coremedia.com
+https://ip-partner.telekom.de/aportal/ap, Apache, Unycom | Partner
+https://ip-partner.telekom.de/aportal/ap, Apache, Unycom | Partner
+https://lwatest.telekom.de:443/, Apache-Coyote/1.1
+https://www.t-online.de/homepage/, Apache, t-online.de
+https://www.t-online.de/homepage/, Apache, t-online.de
+https://share.zspi.telekom.de/_layouts/15/TSI.zSPI.MultiproviderLoginpage/Login.aspx?ReturnUrl=%2F_layouts%2F15%2FAuthenticate.aspx%3FSource%3D%252F&Source=%2F, Microsoft-IIS/8.5 Microsoft-HTTPAPI/2.0, Log-in
+https://contracts.telekom.de:443/, None, Deutsche Telekom
+https://contracts.telekom.de/, None, Deutsche Telekom
+https://partnershop.telekom.de/403;jsessionid=W1nF1K_WtEF5GmIwRWcFsycrWW7jBpBk7E10E-rF.p_production_03_dcplnx21310256?originalURL=http%3A//partnershop.telekom.de/&_requestid=684305, Apache, Fehler	 - Partnershop
+https://partnershop.telekom.de/403;jsessionid=si_OahsWLLVxA7QE8k-Jy3Thpn8myhhMlTfLFMym.p_production_01_dcplnx21310256?originalURL=http%3A//partnershop.telekom.de/&_requestid=760170, Apache, Fehler	 - Partnershop
+https://imsa-test.telekom.de:443/, None, iMSA
+https://imsa-test.telekom.de/, None, iMSA
+https://camsrepo.cert.telekom.de:443/, None
+https://web.magentatv.de/, Apache, 
+https://emaildev.sgp.telekom.de:443/, Apache
+https://accounts.login00.idm.ver.sul.t-online.de/oauth2/auth?response_type=code&client_id=10TVL0SAM30000004901TELEFONIECENTER00000&scope=openid%20email%20address%20profile%20phone%20spica&state=XGW8bT9lVvGOhixE-l-o05fZYn8H3YSRCFQpSQTOdw0%3D&redirect_uri=https://telefoniecenter-test2.sgp.telekom.de/fcc/login/oauth2/code/sam3&nonce=265g_ppqirRah-vCOfC7GwN0Wu0pCgkGHBHhyuI3Qo4, Apache, Telekom Login
+https://cgw01.b2b-app.telekom.de:443/error.html, None, Error
+https://rescue-web.telekom.de:443/, Apache, Ferndiagnose | Telekom
+https://cmp-rproxy.sgp.telekom.de:443/, Apache
+https://rescue-web.telekom.de/, Apache, Ferndiagnose | Telekom
+https://deskbot.telekom.de:443/, ecstatic-3.3.2, DeskBot
+https://deskbot.telekom.de:443/, ecstatic-3.3.2, DeskBot
+https://meine-foerderung.telekom.de:443/, elb, Meine FÃ¶rderung
+https://meine-foerderung.telekom.de:443/, elb, Meine FÃ¶rderung
+https://accounts.login.idm.telekom.com/oauth2/auth?response_type=code&scope=openid&state=7820dc37570c9f5e3c68d7a9197609a9&redirect_uri=https%3A%2F%2Fhomepagecenter.telekom.de%2Findex.php%3Flogin3%3D1%26id%3D2&client_id=10LIVESAM30000004901HOSTING0000000000000&claims=%7B%22id_token%22%3A+%7B%22urn%3Atelekom.com%3Ainst%22%3A+null%2C+%22urn%3Atelekom.com%3Aityp%22%3A+null%2C+%22urn%3Atelekom.com%3Adomn%22%3A+null%2C+%22urn%3Atelekom.com%3Austa%22%3A+null%2C+%22urn%3Atelekom.com%3Aalia%22%3A+null%2C+%22urn%3Atelekom.com%3Adomt%22%3A+null%2C+%22urn%3Atelekom.com%3Adisplayname%22%3A+null%7D%7D, Apache, Telekom Login
+https://accounts.login.idm.telekom.com/oauth2/auth?response_type=code&scope=openid&state=5554ad86af847206e37495d07d555a09&redirect_uri=https%3A%2F%2Fhomepagecenter.telekom.de%2Findex.php%3Flogin3%3D1%26id%3D2&client_id=10LIVESAM30000004901HOSTING0000000000000&claims=%7B%22id_token%22%3A+%7B%22urn%3Atelekom.com%3Ainst%22%3A+null%2C+%22urn%3Atelekom.com%3Aityp%22%3A+null%2C+%22urn%3Atelekom.com%3Adomn%22%3A+null%2C+%22urn%3Atelekom.com%3Austa%22%3A+null%2C+%22urn%3Atelekom.com%3Aalia%22%3A+null%2C+%22urn%3Atelekom.com%3Adomt%22%3A+null%2C+%22urn%3Atelekom.com%3Adisplayname%22%3A+null%7D%7D, Apache, Telekom Login
+https://lrs.telekom.de:443/, nginx/1.18.0, 
+https://lrs.telekom.de/, nginx/1.18.0, 
+https://story.geschaeftskunden.telekom.de/intro/, Apache, Telekom IT Stories – Best Practices, WordPress 5.7.2
+https://story.geschaeftskunden.telekom.de/intro/, Apache, Telekom IT Stories – Best Practices, WordPress 5.7.2
+https://accounts.login00.idm.ver.sul.t-online.de/oauth2/auth?response_type=code&client_id=10TVL0SAM30000004901AM200000000000000000&scope=openid&redirect_uri=https%3A%2F%2Faccount00.idm.ver.sul.t-online.de%2Faccount-manager%2Fopenid_connect_login&nonce=1c08c86090c94&state=26fea7e436edd&claims=%7B%22id_token%22%3A%7B%22urn%3Atelekom.com%3Aall%22%3A%7B%22essential%22%3Atrue%7D%7D%7D&logout_uri=https%3A%2F%2Faccount00.idm.ver.sul.t-online.de%2Faccount-manager%2Flogout, Apache, Telekom Login
+https://accounts.login00.idm.ver.sul.t-online.de/oauth2/auth?response_type=code&client_id=10TVL0SAM30000004901AM200000000000000000&scope=openid&redirect_uri=https%3A%2F%2Faccount00.idm.ver.sul.t-online.de%2Faccount-manager%2Fopenid_connect_login&nonce=14ad641e6d29e&state=1ac3cee73c509&claims=%7B%22id_token%22%3A%7B%22urn%3Atelekom.com%3Aall%22%3A%7B%22essential%22%3Atrue%7D%7D%7D&logout_uri=https%3A%2F%2Faccount00.idm.ver.sul.t-online.de%2Faccount-manager%2Flogout, Apache, Telekom Login
+https://services-at-bng-i.telekom.de:443/login, None, Grafana
+https://services-at-bng-i.telekom.de/login, None, Grafana
+https://preview-mobilityapp.telekom.de:443/, Apache
+https://www.telekom.com/de/karriere, Apache, Karriere | Deutsche Telekom
+https://www.telekom.com/de/karriere, Apache, Karriere | Deutsche Telekom
+http://einrichten-per-app.telekom.de:8080/, Apache, Index of /
+http://einrichten-per-app.telekom.de:80/, Apache, Index of /
+http://tv2emailvt.sgp.telekom.de:80/, Apache, IPTV-Mail App
+https://tv2emailvt.sgp.telekom.de:443/, Apache, IPTV-Mail App
+https://magenta-tv.telekom.de:443/, Apache/2.4.18 (Ubuntu), Bestellstrecke
+https://magenta-tv.telekom.de/, Apache/2.4.18 (Ubuntu), Bestellstrecke
+https://imsa.telekom.de:443/, None, iMSA
+https://imsa.telekom.de/, None, iMSA
+https://rbm.telekom.de:443/, Mavenir Application Server, Business Messaging Platform (BMP)
+https://accounts.login00.idm.ver.sul.t-online.de/oic?response_type=code&client_id=10TVL0SAM30000004901CMP10000000000000000&scope=openid&redirect_uri=https%3A%2F%2Femailvt.sgp.telekom.de%2F%3Fpf%3D%2Fem&logout_uri=https%3A%2F%2Femailvt.sgp.telekom.de%2Fem%2Fbin%2Fsession%2Fdestroysession&state=cIbFxZP_-udZQv1Ln3xTyzeNmlDcV7XL&claims=%7B%22id_token%22%3A%7B%22urn%3Atelekom.com%3Aall%22%3Anull%7D%7D&nonce=3d0096ccfd5249e19bbd0fb241ebcaed6f5a0daf&x-skingroupid=email, Apache, Telekom Login
+https://accounts.login00.idm.ver.sul.t-online.de/oic?response_type=code&client_id=10TVL0SAM30000004901CMP10000000000000000&scope=openid&redirect_uri=https%3A%2F%2Femailvt.sgp.telekom.de%2F%3Fpf%3D%2Fem&logout_uri=https%3A%2F%2Femailvt.sgp.telekom.de%2Fem%2Fbin%2Fsession%2Fdestroysession&state=WyHYoXVtAgqZhGRbvTY3b9_swg5E4izC&claims=%7B%22id_token%22%3A%7B%22urn%3Atelekom.com%3Aall%22%3Anull%7D%7D&nonce=c2ab90cd5dadd13a5ba928ad44984deff5bd71ba&x-skingroupid=email, Apache, Telekom Login
+https://mobilityapp.telekom.de:443/, Apache
+http://ocsp-cpki.telekom.de:80/, Apache, T-Systems Trust Center
+https://vespa.kundencenter.telekom.de:443/, Apache, Telekom
+https://test-mobilityapp.telekom.de:443/, Apache
+https://beta-wholesale.telekom.de:443/, None, Mit Highspeed bestens vernetzt | Telekom Wholesale, CoreMedia Content Cloud
+https://beta-wholesale.telekom.de/, None, Mit Highspeed bestens vernetzt | Telekom Wholesale, CoreMedia Content Cloud
+https://auth.dol.telekom.de/auth/realms/devopslab/protocol/openid-connect/auth?client_id=gitlab&nonce=42dde95bc32a1c54183f6ad841e22870&redirect_uri=https%3A%2F%2Fgitlab.dol.telekom.de%2Fusers%2Fauth%2Fopenid_connect%2Fcallback&response_type=code&scope=openid+profile&state=5d98b236d82d12a31a70b45e1b4b592d, Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips, Log in to devopslab
+https://auth.dol.telekom.de/auth/realms/devopslab/protocol/openid-connect/auth?client_id=gitlab&nonce=d002cf85133a062920511731617582f8&redirect_uri=https%3A%2F%2Fgitlab.dol.telekom.de%2Fusers%2Fauth%2Fopenid_connect%2Fcallback&response_type=code&scope=openid+profile&state=ba41b588ab442185b80138fe9022323c, Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips, Log in to devopslab
+https://fpf-mc-maps-prod.telekom.de/home/, Jetty(9.4.35.v20201120), GEO HUB Landing page
+https://fpf-mc-maps-prod.telekom.de/home/, Jetty(9.4.35.v20201120), GEO HUB Landing page
+https://web.magentatv.de/, Apache, 
+https://yam-nextgen-preview.telekom.de:443/, Apache, 
+https://yam-nextgen-preview.telekom.de/, Apache, 

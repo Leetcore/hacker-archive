@@ -1,0 +1,42 @@
+https://tickets-museum.fcbayern.com:443/, Apache, FC Bayern Museum - Ticketshop
+https://tickets-museum.fcbayern.com/, Apache, FC Bayern Museum - Ticketshop
+https://login.fcbayern.com:443/, None, FC Bayern München
+https://tickets-q.fcbayern.com:443/, None, error.htm
+http://login.fcbayern.com:80/, None, FC Bayern München
+http://content.fcbayern.com:80/, None, Apache2 Debian Default Page: It works
+https://tickets-q.fcbayern.com/, None, error.htm
+https://login-q.fcbayern.com:443/, None, FC Bayern München
+https://login-q.fcbayern.com/, None, FC Bayern München
+https://asiastore.fcbayern.com:443/stores/fcb/en, Microsoft-IIS/8.5, Official FC Bayern Asia Store
+https://fanclub.fcbayern.com/fanclubs/index.jsp, None, FC Bayern München Fanclub
+https://tickets-bb.fcbayern.com:443/, Apache, Event Ticketing
+https://strack.asiastore.fcbayern.com:443/, jag
+https://tickets-bb.fcbayern.com/, Apache, Event Ticketing
+http://usshop.fcbayern.com:80/, AkamaiGHost, Access Denied
+https://usshop.fcbayern.com:443/, AkamaiGHost, Access Denied
+https://ticketportal.fcbayern.com:443/, Microsoft-IIS/8.5
+https://strack.asiastore.fcbayern.com/, jag
+https://m.asiastore.fcbayern.com:443/stores/fcb/mobile/en, Microsoft-IIS/8.5, Official FC Bayern Asia Store
+https://cloudinary.com/, cloudflare, Image and Video Upload, Storage, Optimization and CDN
+https://cloudinary.com/, cloudflare, Image and Video Upload, Storage, Optimization and CDN
+https://ticketportal.fcbayern.com:443/, Microsoft-IIS/8.5
+https://m.asiastore.fcbayern.com/stores/fcb/mobile/en, Microsoft-IIS/8.5, Official FC Bayern Asia Store
+https://myfcb-q.fcbayern.com/de, WildFly/10, myFCB
+https://fanclub.fcbayern.com/fanclubs/index.jsp, None, FC Bayern München Fanclub
+https://forum.fcbayern.com:443/, Apache, FCB Forum
+https://fcbayern.com/en, Apache, Home - FC Bayern Munich
+https://asiastore.fcbayern.com/stores/fcb/en, Microsoft-IIS/8.5, Official FC Bayern Asia Store
+https://forum.fcbayern.com/, Apache, FCB Forum
+https://cloudinary.com/, cloudflare, Image and Video Upload, Storage, Optimization and CDN
+https://cloudinary.com/, cloudflare, Image and Video Upload, Storage, Optimization and CDN
+https://content.fcbayern.com:443/, None, Apache2 Debian Default Page: It works
+https://dam-q.fcbayern.com/, None, 
+https://fcbayern.com/en, Apache, Home - FC Bayern Munich
+https://fcbayern.com/en, Apache, Home - FC Bayern Munich
+https://dam-q.fcbayern.com:443/, None, 
+https://fcbayern.com/en, Apache, Home - FC Bayern Munich
+https://emagazine-pdf-delivery.fcbayern.com:443/, Cowboy
+http://payments.asiastore.fcbayern.com:80/, Microsoft-IIS/8.5, IIS Windows Server
+https://emagazine-pdf-delivery.fcbayern.com/, Cowboy
+https://dlportal.fcbayern.com:443/, Microsoft-IIS/8.5
+https://dlportal.fcbayern.com:443/, Microsoft-IIS/8.5

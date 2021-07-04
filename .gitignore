@@ -1,0 +1,4 @@
+results/.DS_Store
+results/*/*.bolt
+*.lock
+.vscode/*

@@ -1,0 +1,58 @@
+00:45:18.931298 ZoomEye: check callback failed for the configuration
+00:45:18.931302 AlienVault: API key data was not provided
+00:45:18.931351 SecurityTrails: check callback failed for the configuration
+00:45:18.931359 Cloudflare: API key data was not provided
+00:45:18.934124 PassiveTotal: check callback failed for the configuration
+00:45:18.934130 Chaos: check callback failed for the configuration
+00:45:18.931384 FacebookCT: check callback failed for the configuration
+00:45:18.931390 GitHub: check callback failed for the configuration
+00:45:18.931412 NetworksDB: API key data was not provided
+00:45:18.934134 C99: check callback failed for the configuration
+00:45:18.934136 CIRCL: check callback failed for the configuration
+00:45:18.934140 ThreatBook: check callback failed for the configuration
+00:45:18.934153 Shodan: check callback failed for the configuration
+00:45:18.934157 Spyse: check callback failed for the configuration
+00:45:18.934159 ReconDev: check callback failed for the configuration
+00:45:18.934162 WhoisXMLAPI: check callback failed for the configuration
+00:45:18.934165 ZETAlytics: check callback failed for the configuration
+00:45:18.934166 Twitter: API key data was not provided
+00:45:18.934247 Twitter: check callback failed for the configuration
+00:45:18.934168 BinaryEdge: check callback failed for the configuration
+00:45:18.934169 URLScan: API key data was not provided
+00:45:18.931375 DNSDB: API key data was not provided
+00:45:18.934267 DNSDB: check callback failed for the configuration
+00:45:18.934299 Umbrella: API key data was not provided
+00:45:18.934312 Umbrella: check callback failed for the configuration
+00:45:24.280576 Querying Crtsh for visavid.de subdomains
+00:45:24.280726 Querying Anubis for visavid.de subdomains
+00:45:24.280815 Querying Baidu for visavid.de subdomains
+00:45:24.280830 Querying Ask for visavid.de subdomains
+00:45:24.280841 Querying GoogleCT for visavid.de subdomains
+00:45:24.280855 Querying Bing for visavid.de subdomains
+00:45:24.280865 Querying ArchiveIt for visavid.de subdomains
+00:45:24.280874 Querying SonarSearch for visavid.de subdomains
+00:45:24.280890 Querying HackerOne for visavid.de subdomains
+00:45:24.280901 Querying AlienVault for visavid.de subdomains
+00:45:24.280911 Querying HackerTarget for visavid.de subdomains
+00:45:24.280921 Querying Mnemonic for visavid.de subdomains
+00:45:24.280933 Querying Sublist3rAPI for visavid.de subdomains
+00:45:24.281043 Querying RapidDNS for visavid.de subdomains
+00:45:24.281057 Querying Riddler for visavid.de subdomains
+00:45:24.281062 Querying SiteDossier for visavid.de subdomains
+00:45:24.281072 Querying Brute Forcing for visavid.de subdomains
+00:45:24.281083 Querying DNSDumpster for visavid.de subdomains
+00:45:24.281094 Querying BufferOver for visavid.de subdomains
+00:45:24.281103 Querying CommonCrawl for visavid.de subdomains
+00:45:24.281113 Querying ThreatCrowd for visavid.de subdomains
+00:45:24.281122 Querying BuiltWith for visavid.de subdomains
+00:45:24.281131 Querying IPv4Info for visavid.de subdomains
+00:45:24.281140 Querying Censys for visavid.de subdomains
+00:45:24.281150 Querying ThreatMiner for visavid.de subdomains
+00:45:24.281159 Querying Robtex for visavid.de subdomains
+00:45:24.281172 Querying ArchiveToday for visavid.de subdomains
+00:45:24.281182 Querying CertSpotter for visavid.de subdomains
+00:45:24.281194 Querying VirusTotal for visavid.de subdomains
+00:45:24.281206 Querying URLScan for visavid.de subdomains
+00:45:24.281219 Querying Wayback for visavid.de subdomains
+00:45:24.281241 Querying Yahoo for visavid.de subdomains
+00:45:24.281253 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/visavid.de/url_list: The query returned zero results

@@ -1,0 +1,58 @@
+16:41:20.509717 AlienVault: API key data was not provided
+16:41:20.509851 Twitter: API key data was not provided
+16:41:20.509933 WhoisXMLAPI: check callback failed for the configuration
+16:41:20.509957 GitHub: check callback failed for the configuration
+16:41:20.509969 Spyse: check callback failed for the configuration
+16:41:20.509933 Twitter: check callback failed for the configuration
+16:41:20.509838 ThreatBook: check callback failed for the configuration
+16:41:20.509846 PassiveTotal: check callback failed for the configuration
+16:41:20.509851 Umbrella: API key data was not provided
+16:41:20.509993 Umbrella: check callback failed for the configuration
+16:41:20.509824 URLScan: API key data was not provided
+16:41:20.509883 BinaryEdge: check callback failed for the configuration
+16:41:20.509834 ZoomEye: check callback failed for the configuration
+16:41:20.509936 Chaos: check callback failed for the configuration
+16:41:20.509939 DNSDB: API key data was not provided
+16:41:20.510017 DNSDB: check callback failed for the configuration
+16:41:20.509941 Cloudflare: API key data was not provided
+16:41:20.509951 FacebookCT: check callback failed for the configuration
+16:41:20.509959 SecurityTrails: check callback failed for the configuration
+16:41:20.509960 ZETAlytics: check callback failed for the configuration
+16:41:20.509961 CIRCL: check callback failed for the configuration
+16:41:20.509971 ReconDev: check callback failed for the configuration
+16:41:20.509973 NetworksDB: API key data was not provided
+16:41:20.509979 Shodan: check callback failed for the configuration
+16:41:20.509983 C99: check callback failed for the configuration
+16:41:25.784552 Querying DNSDumpster for bundeswehr.de subdomains
+16:41:25.784711 Querying AlienVault for bundeswehr.de subdomains
+16:41:25.784740 Querying CertSpotter for bundeswehr.de subdomains
+16:41:25.784756 Querying Crtsh for bundeswehr.de subdomains
+16:41:25.784773 Querying Bing for bundeswehr.de subdomains
+16:41:25.784788 Querying Censys for bundeswehr.de subdomains
+16:41:25.784808 Querying ArchiveToday for bundeswehr.de subdomains
+16:41:25.784823 Querying CommonCrawl for bundeswehr.de subdomains
+16:41:25.784837 Querying Brute Forcing for bundeswehr.de subdomains
+16:41:25.784851 Querying Anubis for bundeswehr.de subdomains
+16:41:25.785008 Querying Ask for bundeswehr.de subdomains
+16:41:25.785023 Querying ArchiveIt for bundeswehr.de subdomains
+16:41:25.785037 Querying BufferOver for bundeswehr.de subdomains
+16:41:25.785050 Querying ThreatCrowd for bundeswehr.de subdomains
+16:41:25.785068 Querying ThreatMiner for bundeswehr.de subdomains
+16:41:25.785082 Querying Wayback for bundeswehr.de subdomains
+16:41:25.785095 Querying URLScan for bundeswehr.de subdomains
+16:41:25.785107 Querying Yahoo for bundeswehr.de subdomains
+16:41:25.785120 Querying GoogleCT for bundeswehr.de subdomains
+16:41:25.785132 Querying Baidu for bundeswehr.de subdomains
+16:41:25.785144 Querying RapidDNS for bundeswehr.de subdomains
+16:41:25.785157 Querying HackerOne for bundeswehr.de subdomains
+16:41:25.785169 Querying BuiltWith for bundeswehr.de subdomains
+16:41:25.785181 Querying Riddler for bundeswehr.de subdomains
+16:41:25.785194 Querying HackerTarget for bundeswehr.de subdomains
+16:41:25.785206 Querying IPv4Info for bundeswehr.de subdomains
+16:41:25.785218 Querying Mnemonic for bundeswehr.de subdomains
+16:41:25.785231 Querying VirusTotal for bundeswehr.de subdomains
+16:41:25.785243 Querying SonarSearch for bundeswehr.de subdomains
+16:41:25.785256 Querying Robtex for bundeswehr.de subdomains
+16:41:25.785268 Querying Sublist3rAPI for bundeswehr.de subdomains
+16:41:25.785282 Querying SiteDossier for bundeswehr.de subdomains
+16:41:45.786557 URLScan: https://urlscan.io/api/v1/result/67d18d82-1b7c-476f-98ff-913c9a809ae0/: 429 Too Many Requests

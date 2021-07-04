@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <title>Internet-Safari</title>
+  <style>
+  body {
+    background-color: #333;
+    color: white;
+  }
+  a:visited {
+    color: #CCC;
+  }
+  a, a:hover {
+    color: white;
+  }
+  iframe {
+    width: 100%;
+    min-height: 600px;
+  }
+  button {
+    padding: 20px;
+  }
+  #menue {
+    margin-bottom: 10px;
+  }
+  </style>
+  <script>
+  timer = undefined
+  websites = ["https://presse.dfb.de/pr-start/", "https://presse.dfb.de/pr-start/", "http://fanshop.dfb.de:80/", "https://www.dfb.de/index/", "http://toolbox-doku.dfb.de:80/", "https://toolbox-doku.dfb.de:443/", "https://tickets.dfb.de:443/", "https://tickets.dfb.de/", "https://www.dfb.de/index/", "https://services.dfb.de/de/users/sign_in", "https://www.dfb.de/mein-fussball/", "https://services.dfb.de/de/users/sign_in", "https://datencenter-tua.dfb.de/datencenter?action=dashboard&controller=datacenter", "https://tickets.dfb.de/", "https://tickets.dfb.de/", "https://steuerhandbuch.dfb.de:443/", "https://datencenter-tua.dfb.de/datencenter?action=dashboard&controller=datacenter", "https://akkreditierungsportal.dfb.de/akk/de/index.html", "https://www.dfb.de/die-mannschaft/start/", "https://www.dfb.de/die-mannschaft/start/", "https://assets03-kampagne.dfb.de:443/", "https://spieler.dfb.de:443/", "https://assets03-kampagne.dfb.de/", "https://spieler.dfb.de/", "https://www.dfb.de/hospitality/start/", "https://akkreditierungsportal.dfb.de/akk/de/index.html", "https://login.microsoftonline.com/80fab529-91da-4991-a55b-b8195f9a5bfa/oauth2/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fmy.dfb.de%2F.auth%2Flogin%2Faad%2Fcallback&client_id=9d03bbc9-b2f1-4b38-82ed-0cbc6a5a2e4d&scope=openid+profile+email&response_mode=form_post&nonce=c40b4a5e03664477b8e7d6b040877f2d_20210626205142&state=redir%3D%252F", "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&msaredir=0&client-request-id=17971db7-3a88-2bf2-22c6-cc97dc85473d&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=dfb.de&nonce=637603372031521059.f9c11396-6892-41fa-a1f8-b1db16f31ba4&state=Dcs9DsMgDEBhaG-SIRsJxokJQ9SzmBhLlVoh5a_XL8P3tmeNMc_m0VjfYiJhJI8Yg0eYA_g5DZo2AEzkaEnBTaDsGHRxGSQDKULmyba3G-uPx9de-PNdRfMgpb9l5eus8j62epf9Dw", "https://login.microsoftonline.com/80fab529-91da-4991-a55b-b8195f9a5bfa/oauth2/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fmy.dfb.de%2F.auth%2Flogin%2Faad%2Fcallback&client_id=9d03bbc9-b2f1-4b38-82ed-0cbc6a5a2e4d&scope=openid+profile+email&response_mode=form_post&nonce=2eeb972d7ded4ab9b4af2e94054b6031_20210626205142&state=redir%3D%252F", "https://www.dfb.de/hospitality/start/", "https://newsletter.dfb.de:443/anmelden", "https://eventportal.dfb.de:443/", "https://newsletter.dfb.de/anmelden", "https://api-markenportal.dfb.de:443/", "https://fanclub-service.dfb.de:443/", "https://eventportal.dfb.de/", "https://assets01-kampagne.dfb.de:443/", "https://fanclub-service.dfb.de/", "https://assets01-kampagne.dfb.de/", "https://api-markenportal.dfb.de/", "https://refz-dfb-pokal.dfb.de:443/", "https://intg-dfb-pokal.dfb.de:443/", "https://refz-dfb-pokal.dfb.de/", "https://spielervermittler-intg.dfb.de:443/", "https://intg-dfb-pokal.dfb.de/", "https://spielervermittler-intg.dfb.de/", "https://satbooking.dfb.de:443/", "https://trainer.dfb.de/", "https://trainer.dfb.de:443/", "https://services-tua.dfb.de/de/users/sign_in", "https://tv.dfb.de:443/", "https://tv.dfb.de/", "https://cms.dfb.de/typo3/index.php", "https://www.ehrenamtistunbezahlbar.dfb.de:443/", "https://services-tua.dfb.de/de/users/sign_in", "https://www.ehrenamtistunbezahlbar.dfb.de/", "https://cms.dfb.de/typo3/index.php", "https://www.dfb.de/mein-fussball/", "https://www.dfb.de/dfb-fussball-abzeichen/start/", "https://satbooking.dfb.de/", "https://handicapteams.dfb.de:443/", "https://markenportal.dfb.de/", "https://termine-tua.dfb.de:443/", "https://termine-tua.dfb.de/", "https://www.dfb.de/mein-fussball/", "https://markenportal.dfb.de:443/", "https://akkbackoffice.dfb.de:443/", "http://lyncdiscover.dfb.de:80/", "https://handicapteams.dfb.de/", "https://assets06-kampagne.dfb.de/", "https://assets06-kampagne.dfb.de:443/", "https://api-refz-markenportal.dfb.de:443/", "https://akkbackoffice.dfb.de/", "https://spielervermittler.dfb.de/", "https://spielervermittler.dfb.de:443/", "https://www.dfb.de/dfb-fussball-abzeichen/start/", "https://api-refz-markenportal.dfb.de/", "https://spielervermittler-refz.dfb.de:443/", "https://www.dfb.de/index/", "https://www.dfb.de/index/", "https://tickets.dfb.de/", "https://assets04-kampagne.dfb.de:443/", "https://refz-markenportal.dfb.de:443/", "https://refz-markenportal.dfb.de/", "https://www.dfb.de/index/", "https://search-tua.dfb.de:443/", "https://vpn-mpls-gw.dfb.de:443/", "https://www.ehrenamtistunbezahlbar.dfb.de/", "https://assets04-kampagne.dfb.de/", "https://spielervermittler-refz.dfb.de/", "https://knowport.dfb.de:443/", "https://search-tua.dfb.de/", "https://www.dfb.de/index/", "https://knowport.dfb.de/", "https://www.ehrenamtistunbezahlbar.dfb.de/", "https://assets05-kampagne.dfb.de:443/", "https://assets08-kampagne.dfb.de:443/", "https://search-live.dfb.de:443/", "https://mein.dfb.de/forum", "https://search-live.dfb.de/", "https://assets08-kampagne.dfb.de/", "https://sql.dfb.de/", "https://sql.dfb.de:443/", "https://live.dfb.de/index/", "https://live.dfb.de/index/", "https://assets05-kampagne.dfb.de/", "https://mein.dfb.de/forum", "https://tickets.dfb.de/", "https://turnierboerse.dfb.de:443/", "https://assets-admin.dfb.de/users/sign_in", "https://turnierboerse.dfb.de/", "https://tickets.dfb.de/", "https://assets-admin.dfb.de/users/sign_in", "https://it-support.dfb.de/support/home", "https://ferienfussballschulen.dfb.de:443/", "https://ferienfussballschulen.dfb.de/", "https://fussballtraining.com/home/", "http://liveticker.dfb.de:80/", "https://tickets.dfb.de/", "https://tickets.dfb.de/", "https://fanclub.dfb.de/fcn-start/", "https://tickets.dfb.de/", "https://tickets.dfb.de/", "https://tickets.dfb.de/", "https://it-support.dfb.de/support/home", "https://tv.dfb.de/", "https://tickets.dfb.de/", "https://assets02-kampagne.dfb.de:443/", "https://search.dfb.de:443/", "https://assets02-kampagne.dfb.de/", "https://intg-schiedsrichter-toolbox.dfb.de:443/", "https://www.dfb.de/mein-fussball/", "https://www.dfb.de/trainer/", "https://www.dfb.de/mein-fussball/", "https://intg-schiedsrichter-toolbox.dfb.de/", "https://search.dfb.de/", "https://www.dfb.de/trainer/", "https://www.dfb.de/index/", "https://laptops.dfb.de:443/", "https://tv.dfb.de/", "https://www.dfb.de/index/", "https://laptops.dfb.de/", "https://fotos.dfb.de/dfb", "https://maedchenteams.dfb.de:443/", "https://www.dfb.de/datencenter?action=dashboard&controller=datacenter", "http://www.fanshop.dfb.de:80/", "https://www.dfb.de/datencenter?action=dashboard&controller=datacenter", "https://fotos.dfb.de/dfb", "https://www.dfb.de/die-mannschaft/start/", "https://www.dfb.de/die-mannschaft/start/", "https://maedchenteams.dfb.de/", "https://www.dfb.de/index/", "https://www.dfb.de/index/", "https://assets-admin.dfb.de/users/sign_in", "https://assets-admin.dfb.de/users/sign_in", "https://minispielfelder.dfb.de:443/", "https://assets07-kampagne.dfb.de/", "https://minispielfelder.dfb.de/", "https://assets07-kampagne.dfb.de:443/", "https://fanclub.dfb.de/fcn-start/", "https://kampagne.dfb.de:443/", "https://dfb-pokal.dfb.de:443/", "https://dfb-pokal.dfb.de/", "https://intg-wirfuereuch.dfb.de:443/", "https://kampagne.dfb.de/", "https://termine.dfb.de:443/", "http://e.mein.dfb.de:80/", "https://intg-wirfuereuch.dfb.de/", "https://termine.dfb.de/", "https://www.dfb.de/index/", "https://cms-live.dfb.de/typo3/index.php", "https://cms-live.dfb.de/typo3/index.php", "https://akkreditierungsportal.dfb.de/akk/de/index.html", "https://www.dfb.de/index/", "https://fanclub-app.dfb.de:443/", "https://akkreditierungsportal.dfb.de/akk/de/index.html", "https://www.dfb.de/start/", "https://fanclub-app.dfb.de/", "https://www.dfb.de/start/", "https://www.dfbnet.org/dfbnetapi/sso/oauth/authenticate", "https://www.dfbnet.org/dfbnetapi/sso/oauth/authenticate", "https://assets-admin-tua.dfb.de/users/sign_in", "https://assets-admin-tua.dfb.de/users/sign_in"]
+  current = parseInt(localStorage.getItem("current")) || 0
+  if (websites.length - 1 < parseInt(current)) {
+    current = 0
+  }
+  
+  function next() {
+    clearTimeout(timer)
+    document.querySelector("#frame").setAttribute("src", "about:blank")
+    current++
+    localStorage.setItem("current", current)
+    document.querySelector("#url").setAttribute("href", websites[current])
+    document.querySelector("#url").innerText = websites[current]
+    document.querySelector("#frame").setAttribute("src", websites[current])
+    document.querySelector("#stat").innerText = current + " of " + (websites.length - 1) + " Websites"
+    timer = setTimeout(next, 5 * 1000)
+  }
+  function stop() {
+    clearTimeout(timer)
+  }
+  function back() {
+    clearTimeout(timer)
+    document.querySelector("#frame").setAttribute("src", "about:blank")
+    current--
+    localStorage.setItem("current", current)
+    document.querySelector("#url").setAttribute("href", websites[current])
+    document.querySelector("#url").innerText = websites[current]
+    document.querySelector("#frame").setAttribute("src", websites[current])
+    document.querySelector("#stat").innerText = current + " of " + (websites.length - 1) + " Websites"
+    timer = setTimeout(next, 5 * 1000)
+  }
+  </script>
+</head>
+<body>
+<div id="menue">
+  <button onclick="back()">Back</button> <button onclick="stop()">Stop autoload</button> 
+  <button onclick="next()">Next</button> URL: <a id="url" href="" target="_blank"></a>, <span id="stat"></span>, 
+  <a href="#" onclick="current=0;next();back()">Back to start.</a>
+</div>
+<div id="main">
+  <iframe id="frame" referrerpolicy="no-referrer" sandbox="allow-scripts, allow-forms"></iframe>
+</div>
+<script>
+  next()
+  back()
+</script>
+</body>
+</html>

@@ -1,0 +1,58 @@
+22:45:46.656745 AlienVault: API key data was not provided
+22:45:46.656747 NetworksDB: API key data was not provided
+22:45:46.656769 ZoomEye: check callback failed for the configuration
+22:45:46.656774 PassiveTotal: check callback failed for the configuration
+22:45:46.656780 SecurityTrails: check callback failed for the configuration
+22:45:46.656780 ThreatBook: check callback failed for the configuration
+22:45:46.656811 C99: check callback failed for the configuration
+22:45:46.656815 DNSDB: API key data was not provided
+22:45:46.657322 DNSDB: check callback failed for the configuration
+22:45:46.657070 Chaos: check callback failed for the configuration
+22:45:46.657072 Twitter: API key data was not provided
+22:45:46.657351 Twitter: check callback failed for the configuration
+22:45:46.657075 Umbrella: API key data was not provided
+22:45:46.657365 Umbrella: check callback failed for the configuration
+22:45:46.657076 URLScan: API key data was not provided
+22:45:46.657078 ReconDev: check callback failed for the configuration
+22:45:46.657088 CIRCL: check callback failed for the configuration
+22:45:46.657089 WhoisXMLAPI: check callback failed for the configuration
+22:45:46.657090 Cloudflare: API key data was not provided
+22:45:46.657092 ZETAlytics: check callback failed for the configuration
+22:45:46.657094 Shodan: check callback failed for the configuration
+22:45:46.657096 Spyse: check callback failed for the configuration
+22:45:46.657098 GitHub: check callback failed for the configuration
+22:45:46.657100 FacebookCT: check callback failed for the configuration
+22:45:46.657102 BinaryEdge: check callback failed for the configuration
+22:45:52.055147 Querying AlienVault for dfb.de subdomains
+22:45:52.055223 Querying Riddler for dfb.de subdomains
+22:45:52.055544 Querying DNSDumpster for dfb.de subdomains
+22:45:52.055561 Querying ThreatMiner for dfb.de subdomains
+22:45:52.055569 Querying Robtex for dfb.de subdomains
+22:45:52.055577 Querying URLScan for dfb.de subdomains
+22:45:52.055599 Querying VirusTotal for dfb.de subdomains
+22:45:52.055606 Querying Wayback for dfb.de subdomains
+22:45:52.055612 Querying Yahoo for dfb.de subdomains
+22:45:52.055618 Querying ArchiveIt for dfb.de subdomains
+22:45:52.055627 Querying ArchiveToday for dfb.de subdomains
+22:45:52.055635 Querying RapidDNS for dfb.de subdomains
+22:45:52.055642 Querying Anubis for dfb.de subdomains
+22:45:52.055648 Querying GoogleCT for dfb.de subdomains
+22:45:52.055656 Querying Ask for dfb.de subdomains
+22:45:52.055664 Querying Sublist3rAPI for dfb.de subdomains
+22:45:52.055671 Querying HackerOne for dfb.de subdomains
+22:45:52.055677 Querying CertSpotter for dfb.de subdomains
+22:45:52.055683 Querying CommonCrawl for dfb.de subdomains
+22:45:52.055690 Querying Baidu for dfb.de subdomains
+22:45:52.055697 Querying Crtsh for dfb.de subdomains
+22:45:52.055705 Querying Bing for dfb.de subdomains
+22:45:52.055712 Querying BufferOver for dfb.de subdomains
+22:45:52.055718 Querying BuiltWith for dfb.de subdomains
+22:45:52.055725 Querying Censys for dfb.de subdomains
+22:45:52.055732 Querying HackerTarget for dfb.de subdomains
+22:45:52.055738 Querying Brute Forcing for dfb.de subdomains
+22:45:52.055745 Querying ThreatCrowd for dfb.de subdomains
+22:45:52.055758 Querying SonarSearch for dfb.de subdomains
+22:45:52.055765 Querying IPv4Info for dfb.de subdomains
+22:45:52.055772 Querying SiteDossier for dfb.de subdomains
+22:45:52.055778 Querying Mnemonic for dfb.de subdomains
+22:46:22.055979 URLScan: https://urlscan.io/api/v1/result/e968facb-29de-4a66-ace4-c1fd33c1ace5/: 429 Too Many Requests

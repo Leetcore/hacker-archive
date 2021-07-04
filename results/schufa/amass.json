@@ -1,0 +1,88 @@
+{"name":"xml2-file.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.12","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"wsfraud.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.32","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"plattform.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.15","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"sd2sd.stag.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.144.101","cidr":"193.102.144.0/23","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"auth.apsvptest.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.105","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"www.usz.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.50","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"securemail.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.34","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"mail-test.schufa.de","domain":"schufa.de","addresses":[{"ip":"149.13.69.76","cidr":"149.13.69.0/24","asn":19080,"desc":"ASN-WBS-01 - GTT"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"aps.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.69","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"cert","sources":["GoogleCT"]}
+{"name":"portal.difin.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.68","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"karriere.schufa.de","domain":"schufa.de","addresses":[{"ip":"149.13.69.64","cidr":"149.13.69.0/24","asn":19080,"desc":"ASN-WBS-01 - GTT"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"direkt.schufa.de","domain":"schufa.de","addresses":[{"ip":"89.31.143.1","cidr":"89.31.143.0/24","asn":15598,"desc":"QSC-AG-IPX"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"hub-test.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.108","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"auth.aps.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.21","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"xml-gateway-test.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.110","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"cbdeprod.schufa.de","domain":"schufa.de","addresses":[{"ip":"81.31.44.22","cidr":"81.31.32.0/20","asn":24971,"desc":"MASTER-AS Czech Republic / www.master.cz"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"siml2-port.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.163","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"xml1-gateway.vpt2.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.107","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"zertifikate.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.35","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"sws-port.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.164","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"portal.test-difin.schufa.de","domain":"schufa.de","addresses":[{"ip":"149.13.69.62","cidr":"149.13.69.0/24","asn":19080,"desc":"ASN-WBS-01 - GTT"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"sd2sd.prod.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.144.100","cidr":"193.102.144.0/23","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"test-plattform.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.16","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"meine.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.169.180.193","cidr":"193.169.180.0/23","asn":48173,"desc":"UNBELIEVABLE-AS"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"www.trustmail.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"usz.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.50","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"webadmin.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"cert","sources":["Crtsh"]}
+{"name":"webvptest.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.13","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"deutsche-bank.test-difin.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.103","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"test-sws-port.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.99","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"test2-port.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.101","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"test-siml2-port.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.100","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"dialin.schufa.de","domain":"schufa.de","addresses":[{"ip":"85.220.170.37","cidr":"85.220.128.0/17","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"deutsche-bank.difin.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.32","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"uszvptest.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.106","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"test-difin.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.103","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"isa.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.33","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"file-test-port.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.7","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"port.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.57","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"xml2-gateway.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.13","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"xml-gateway.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.47","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"test-port.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.104","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"web.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.15","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"cbdetest.schufa.de","domain":"schufa.de","addresses":[{"ip":"81.31.44.23","cidr":"81.31.32.0/20","asn":24971,"desc":"MASTER-AS Czech Republic / www.master.cz"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"wsfraud-test.schufa.de","domain":"schufa.de","addresses":[{"ip":"149.13.69.65","cidr":"149.13.69.0/24","asn":19080,"desc":"ASN-WBS-01 - GTT"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"trustmail.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"difin.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.32","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"xml2-gateway.vpt2.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.102","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"port.vpt2.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.101","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"newsletter.schufa.de","domain":"schufa.de","addresses":[{"ip":"185.98.186.254","cidr":"185.98.184.0/22","asn":48173,"desc":"UNBELIEVABLE-AS"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"webvpadmin.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.22","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"sws.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"cert","sources":["Crtsh"]}
+{"name":"xml2-gateway-test.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.20","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"xml-gateway.vpt2.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.22.3.107","cidr":"193.22.3.0/24","asn":8881,"desc":"VERSATEL"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"wenconf.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"cert","sources":["Crtsh"]}
+{"name":"file-port.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.12","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"lyncdiscover.schufa.de","domain":"schufa.de","addresses":[{"ip":"85.220.170.37","cidr":"85.220.128.0/17","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"webapp.schufa.de","domain":"schufa.de","addresses":[{"ip":"85.220.170.37","cidr":"85.220.128.0/17","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"apsvptest.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.70","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"cert","sources":["GoogleCT"]}
+{"name":"mein.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"websystems.schufa.de","domain":"schufa.de","addresses":[{"ip":"83.243.41.84","cidr":"83.243.40.0/21","asn":34549,"desc":"MEER-AS meerfarbig GmbH \u0026 Co. KG"}],"tag":"archive","sources":["Wayback"]}
+{"name":"www.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"cert","sources":["GoogleCT"]}
+{"name":"business.schufa.de","domain":"schufa.de","addresses":[{"ip":"213.221.110.57","cidr":"213.221.64.0/18","asn":8426,"desc":"CLARANET-AS ClaraNET LTD"}],"tag":"archive","sources":["Wayback"]}
+{"name":"sip.schufa.de","domain":"schufa.de","addresses":[{"ip":"82.100.230.28","cidr":"82.100.192.0/18","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"schufa42.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"av.schufa.de","domain":"schufa.de","addresses":[{"ip":"82.100.230.30","cidr":"82.100.192.0/18","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"avayacws.schufa.de","domain":"schufa.de","addresses":[{"ip":"82.100.230.20","cidr":"82.100.192.0/18","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"lyncdirector.schufa.de","domain":"schufa.de","addresses":[{"ip":"85.220.170.37","cidr":"85.220.128.0/17","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"w.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"webconf.schufa.de","domain":"schufa.de","addresses":[{"ip":"82.100.230.29","cidr":"82.100.192.0/18","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"sipinternal.schufa.de","domain":"schufa.de","addresses":[{"ip":"85.220.170.37","cidr":"85.220.128.0/17","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"api","sources":["SonarSearch"]}
+{"name":"autodiscover.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"meet.schufa.de","domain":"schufa.de","addresses":[{"ip":"85.220.170.37","cidr":"85.220.128.0/17","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"www.web.schufa.de","domain":"schufa.de","addresses":[{"ip":"193.102.184.15","cidr":"193.102.184.0/24","asn":24989,"desc":"EQUINIX-CONNECT-GERMANY-AS Equinix Germany"}],"tag":"archive","sources":["Wayback"]}
+{"name":"ja.schufa.de","domain":"schufa.de","addresses":[{"ip":"89.31.143.1","cidr":"89.31.143.0/24","asn":15598,"desc":"QSC-AG-IPX"}],"tag":"archive","sources":["Wayback"]}
+{"name":"mail2.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"www.service-ohne.schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"archive","sources":["Wayback"]}
+{"name":"avayaconf.schufa.de","domain":"schufa.de","addresses":[{"ip":"82.100.230.19","cidr":"82.100.192.0/18","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"ww2.schufa.de","domain":"schufa.de","addresses":[{"ip":"213.178.160.12","cidr":"213.178.160.0/19","asn":12374,"desc":"LFNET-AS01"}],"tag":"api","sources":["AlienVault"]}
+{"name":"csweb.schufa.de","domain":"schufa.de","addresses":[{"ip":"85.220.170.37","cidr":"85.220.128.0/17","asn":25394,"desc":"MK-NETZDIENSTE-AS"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"www.deutsche-bank.test-difin.schufa.de","domain":"schufa.de","addresses":[{"ip":"149.13.69.61","cidr":"149.13.69.0/24","asn":19080,"desc":"ASN-WBS-01 - GTT"}],"tag":"api","sources":["ThreatCrowd"]}
+{"name":"www.mail.schufa.de","domain":"schufa.de","addresses":[{"ip":"195.71.155.243","cidr":"195.71.0.0/16","asn":6805,"desc":"TDDE-ASN1"}],"tag":"api","sources":["AlienVault"]}
+{"name":"identsafe.schufa.de","domain":"schufa.de","addresses":[{"ip":"89.31.143.1","cidr":"89.31.143.0/24","asn":15598,"desc":"QSC-AG-IPX"}],"tag":"api","sources":["ThreatCrowd"]}
+{"name":"www.portal.test-difin.schufa.de","domain":"schufa.de","addresses":[{"ip":"149.13.69.62","cidr":"149.13.69.0/24","asn":19080,"desc":"ASN-WBS-01 - GTT"}],"tag":"api","sources":["ThreatCrowd"]}
+{"name":"digital.schufa.de","domain":"schufa.de","addresses":[{"ip":"46.101.236.171","cidr":"46.101.128.0/17","asn":14061,"desc":"DIGITALOCEAN-ASN - DigitalOcean, LLC"}],"tag":"cert","sources":["CertSpotter"]}
+{"name":"mx1.schufa.de","domain":"schufa.de","addresses":[{"ip":"213.83.23.229","cidr":"213.83.0.0/18","asn":12306,"desc":"PLUSLINE"}],"tag":"api","sources":["ThreatCrowd"]}
+{"name":"mx2.schufa.de","domain":"schufa.de","addresses":[{"ip":"213.83.23.230","cidr":"213.83.0.0/18","asn":12306,"desc":"PLUSLINE"}],"tag":"api","sources":["AlienVault"]}
+{"name":"schufa.de","domain":"schufa.de","addresses":[{"ip":"128.65.210.59","cidr":"128.65.208.0/20","asn":34309,"desc":"LINK11 Link11 GmbH"}],"tag":"cert","sources":["DNS","SonarSearch","GoogleCT","CertSpotter","Crtsh","Wayback","AlienVault","ThreatCrowd"]}

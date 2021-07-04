@@ -1,0 +1,15 @@
+WWW-Authenticate: <type> realm=<realm>[, charset="UTF-8"]
+Authorization: <type> <credentials>
+ACCEPT-ENCODING
+ACCEPT-ENCODXNG
+CACHE-CONTROL
+PULL
+PUT
+HOST
+USER-AGENT
+SET-COOKIE
+SET-COOKIE2
+SET-COOKIE
+SET-COOKIX
+VERSION
+REDIRECT

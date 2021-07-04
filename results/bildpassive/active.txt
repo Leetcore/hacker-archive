@@ -1,0 +1,341 @@
+https://www.bild.de/corporate/site/bild-de/bild-impressum-61563986.bild.html, Apache, BILD - IMPRESSUM  -
+	Bild.de
+https://www.bild.de/corporate/site/bild-de/bild-impressum-61563986.bild.html, Apache, BILD - IMPRESSUM  -
+	Bild.de
+https://www.bild.de/partner/aktuelle-partnerthemen-1/asmi/aktuelle-partnerthemen-1-24976318.bild.html, Apache, Aktuelle Partner-Aktionen  -
+	Bild.de
+https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html, Apache, Unterhaltung: TV, Kino, Musik, Promis, Stars und mehr  -
+	Bild.de
+https://www.bild.de/partner/lifestyle/gesundheit/fitbase-65436586.bild.html, Apache, Fitbase - Die digitale Gesundheitsplattform  -
+	Lifestyle -
+	Bild.de
+https://www.bild.de/partner/lifestyle/gesundheit/fitbase-65436586.bild.html, Apache, Fitbase - Die digitale Gesundheitsplattform  -
+	Lifestyle -
+	Bild.de
+https://m.wetter.bild.de:443/, Microsoft-IIS/8.5, Bild.de Wetter - Wettervorhersage Deutschland, Europa und Welt  -
+	News -
+	Bild.de
+http://homeday.bild.de:80/, Apache, Service  -
+	Ratgeber -
+	Bild.de
+http://m.wetter.bild.de:80/, Microsoft-IIS/8.5, Bild.de Wetter - Wettervorhersage Deutschland, Europa und Welt  -
+	News -
+	Bild.de
+https://fabrik.kanzlit.com/online_raetsel/bild_channelizer_superraetsel.php, Apache, Kanzlit   -
+	Quiz & Rätsel -
+	Bild.de
+https://fabrik.kanzlit.com/online_raetsel/bild_channelizer_superraetsel.php, Apache, Kanzlit   -
+	Quiz & Rätsel -
+	Bild.de
+https://m.bild.de/, Apache, Startseite  -
+	Bild.de
+https://www.bild.de, Apache, Aktuelle Nachrichten  -
+	Bild.de
+https://www.bild.de/gutscheine/, Apache, Kostenlose Gutscheine & Rabattaktionen sichern - BILD
+http://fotobuch.bild.de:80/, AkamaiGHost, Invalid URL
+https://fotobuch.bild.de:443/, AkamaiGHost, Invalid URL
+https://m.bild.de/, Apache, Startseite  -
+	Bild.de
+https://sportbild.bild.de/, Apache, Sport-Nachrichten | Live Sportergebnisse | Meinungen, NEWS & Videos  -
+	SPORT BILD
+https://www.bild.de/regional/bremen/bremen-regional/home-16292312.bild.html, Apache, Bremen: Aktuelle Nachrichten  -
+	Bremen -
+	Bild.de
+https://www.bild.de/sport/fussball/soenke-wortmanns-em-film-teil-3-5137402.bild.html, Apache, Sommermärchen 2008 – Sönke Wortmanns EM-Film: 150 000 Klicks fürs Sommermärchen  -
+	Fussball -
+	Bild.de
+https://www.bild.de/regional/dresden/dresden-regional/home-16327670.bild.html, Apache, Dresden: Aktuelle Nachrichten  -
+	Dresden -
+	Bild.de
+https://www.bild.de/gewinnspiele/bildplus-aktion/eins-von-sechs-e-autos-von-renault-zu-gewinnen-bild-rettet-ihr-osterfest-69893958.bild.html, Apache, Diese Leser haben sich schon beworben! Jetzt mitmachen: BILD rettet Ihr Osterfest  -
+	Kostenlose Gewinnspiele -
+	Bild.de
+https://www.bild.de/gewinnspiele/bildplus-aktion/eins-von-sechs-e-autos-von-renault-zu-gewinnen-bild-rettet-ihr-osterfest-69893958.bild.html, Apache, Diese Leser haben sich schon beworben! Jetzt mitmachen: BILD rettet Ihr Osterfest  -
+	Kostenlose Gewinnspiele -
+	Bild.de
+https://www.bild.de/gewinnspiele/bildplus-aktion/news-inland/bild-zahlt-alles-60669734.bild.html, Apache, Gewinnen Sie Geld bei BILD zahlt ALLES!  -
+	Kostenlose Gewinnspiele -
+	Bild.de
+https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html, Apache, Unterhaltung: TV, Kino, Musik, Promis, Stars und mehr  -
+	Bild.de
+https://www.bild.de/regional/leipzig/leipzig-regional/startseite-16675698.bild.html, Apache, Leipzig aktuell: Nachrichten aus Leipzig und Sachsen  -
+	Aktuelle News aus Leipzig -
+	Bild.de
+https://www.bild.de/gewinnspiele/bildplus-aktion/news-inland/bild-zahlt-alles-60669734.bild.html, Apache, Gewinnen Sie Geld bei BILD zahlt ALLES!  -
+	Kostenlose Gewinnspiele -
+	Bild.de
+https://coupons.bild.de:443/, nginx/1.20.0, Coupons und Gutscheine zum ausdrucken  -
+	Lifestyle -
+	Bild.de
+https://fahrschule.bild.de:443/, Apache/2.4.25 (Debian), ★ Führerscheintest - Offizielle Fragebögen der Theorie-Prüfung 2020 ★  -
+	Auto -
+	Bild.de
+https://restaurants.bild.de:443/, nginx, , Gatsby 2.24.91
+https://www.lesershop24.de/sommergewinnspiel-2021/, Apache, Teilnahmebdingungen Sommergewinnspiel 2021 | Lesershop24
+https://coupons.bild.de/, nginx/1.20.0, Coupons und Gutscheine zum ausdrucken  -
+	Lifestyle -
+	Bild.de
+https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html, Apache, Unterhaltung: TV, Kino, Musik, Promis, Stars und mehr  -
+	Bild.de
+https://m.bild.de/, Apache, Startseite  -
+	Bild.de
+https://www.bild.de/regional/leipzig/leipzig-regional/startseite-16675698.bild.html, Apache, Leipzig aktuell: Nachrichten aus Leipzig und Sachsen  -
+	Aktuelle News aus Leipzig -
+	Bild.de
+https://sportbild.bild.de/, Apache, Sport-Nachrichten | Live Sportergebnisse | Meinungen, NEWS & Videos  -
+	SPORT BILD
+https://fahrschule.bild.de:443/, Apache/2.4.25 (Debian), ★ Führerscheintest - Offizielle Fragebögen der Theorie-Prüfung 2020 ★  -
+	Auto -
+	Bild.de
+https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html, Apache, Unterhaltung: TV, Kino, Musik, Promis, Stars und mehr  -
+	Bild.de
+https://www.bild.de/regional/dresden/dresden-regional/home-16327670.bild.html, Apache, Dresden: Aktuelle Nachrichten  -
+	Dresden -
+	Bild.de
+https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html, Apache, Unterhaltung: TV, Kino, Musik, Promis, Stars und mehr  -
+	Bild.de
+https://www.bild.de/regional/duesseldorf/duesseldorf-regional/home-16337628.bild.html, Apache, Düsseldorf: Nachrichten aktuell  -
+	Düsseldorf -
+	Bild.de
+https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html, Apache, Unterhaltung: TV, Kino, Musik, Promis, Stars und mehr  -
+	Bild.de
+https://www.bild.de/, Apache, Aktuelle Nachrichten  -
+	Bild.de
+https://tv.bild.de/, Apache, Heute im TV – das TV-Programm für Das Erste, ZDF, ProSieben und Sat.1  -
+	Unterhaltung -
+	Bild.de
+https://tv.bild.de/, Apache, Heute im TV – das TV-Programm für Das Erste, ZDF, ProSieben und Sat.1  -
+	Unterhaltung -
+	Bild.de
+https://onlinegames.bild.de:443/, Apache/2.4.29 (Ubuntu), TAGES KREUZWORTRÄTSEL - Das tägliche Kreuzworträtsel online und kostenlos!
+https://sportwetten.bild.de:443/, nginx, Bild Sportwetten | Online Sportwetten & Vergleich von Experten!
+https://em-tippspiel.bild.de:443/, None, EM Tippspiel - Sport - Bild.de
+https://www.bild.de/sport/fussball/kieler-sv-holstein/startseite-kiel-52363046.bild.html, Apache, Holstein Kiel: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	2. Bundesliga -
+	Bild.de
+https://onlinegames.bild.de/, Apache/2.4.29 (Ubuntu), TAGES KREUZWORTRÄTSEL - Das tägliche Kreuzworträtsel online und kostenlos!
+https://mics.bild.de/, AkamaiNetStorage, Unbenanntes Dokument
+https://www.bild.de/sport/fussball/kieler-sv-holstein/startseite-kiel-52363046.bild.html, Apache, Holstein Kiel: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	2. Bundesliga -
+	Bild.de
+https://m.audibene.bild.de/, nginx/1.10.3 (Ubuntu), Service  -
+	Ratgeber -
+	Bild.de
+https://www.bild.de/storytelling/startseite/infografik/info-bild-seite-36143378.bild.html, Apache, Infografiken, Datenjournalismus, Storytelling | Projekte von info.BILD zu aktuellen News  -
+	Bild.de
+https://m.audibene.bild.de:443/, nginx/1.10.3 (Ubuntu), Service  -
+	Ratgeber -
+	Bild.de
+https://mics.bild.de:443/, AkamaiNetStorage, Unbenanntes Dokument
+https://www.bild.de/storytelling/startseite/infografik/info-bild-seite-36143378.bild.html, Apache, Infografiken, Datenjournalismus, Storytelling | Projekte von info.BILD zu aktuellen News  -
+	Bild.de
+https://em-tippspiel.bild.de:443/, None, EM Tippspiel - Sport - Bild.de
+https://m.filmundfun.bild.de:443/, nginx, Film & Fun  -
+	Unterhaltung -
+	Bild.de
+https://m.filmundfun.bild.de/, nginx, Film & Fun  -
+	Unterhaltung -
+	Bild.de
+https://www.bild.de/partner/unterhaltung/serien/die-top-10-serientipps-fuer-den-sommer-52421702.bild.html, Apache, Sommer-Highlights bei Amazon Prime Video  -
+	Bild.de
+https://sportwetten.bild.de/, nginx, Bild Sportwetten | Online Sportwetten & Vergleich von Experten!
+https://m.sport.bild.de/, nginx, Sport Ergebnisse, Spiele und Liveticker von Heute - 30.06.2021  -
+	Sport -
+	Bild.de
+https://www.bild.de/vergleich/digitalkamera-test/, nginx, Digitalkamera Test & Vergleich 2021: Produkte auf BILD
+https://www.bild.de/vergleich/digitalkamera-test/, nginx, Digitalkamera Test & Vergleich 2021: Produkte auf BILD
+https://www.bild.de/gutscheine/thalia, Apache, 17% im Juni 2021 → Thalia Gutschein
+http://horoskop.bild.de:80/, nginx/1.19.1, Kartenlegen, Hellsehen & mehr bei Questico! Jetzt gratis testen!
+https://www.bild.de/gutscheine/thalia, Apache, 17% im Juni 2021 → Thalia Gutschein
+http://nettv.bild.de:80/, AkamaiGHost, Invalid URL
+https://nettv.bild.de:443/, AkamaiGHost, Invalid URL
+https://tv.bild.de:443/, Apache, Heute im TV – das TV-Programm für Das Erste, ZDF, ProSieben und Sat.1  -
+	Unterhaltung -
+	Bild.de
+https://m.fussball-quiz.bild.de:443/, Apache/2.4.25 (Debian), Führerscheintest
+https://m.fussball-quiz.bild.de:443/, Apache/2.4.25 (Debian), Führerscheintest
+https://www.bild.de/news/inland/dokumentation/clans-von-berlin-57921302.bild.html, Apache, Clans von Berlin  -
+	Video-Doku „Clans von Berlin“ -
+	Bild.de
+https://tv.bild.de/, Apache, Heute im TV – das TV-Programm für Das Erste, ZDF, ProSieben und Sat.1  -
+	Unterhaltung -
+	Bild.de
+https://www.bild.de/ratgeber/gesundheit/gesundheit/pulsus-von-bams-und-tk-verleihung-17748208.bild.html, Apache, Gesundheitspreis: Siebte Pulsus-Verleihung live bei BILD.de  -
+	Gesundheit -
+	Bild.de
+https://m.bild.de/auto/startseite/auto/auto-home-15478182.bildMobile.html, Apache, Auto: News, Service und Tuning  -
+	Auto -
+	Bild.de
+https://www.bild.de/regional/frankfurt/frankfurt-regional/home-16342404.bild.html, Apache, Aktuelle Nachrichten aus Frankfurt und Rhein-Main   -
+	Frankfurt -
+	Bild.de
+https://www.bild.de/ratgeber/gesundheit/gesundheit/pulsus-von-bams-und-tk-verleihung-17748208.bild.html, Apache, Gesundheitspreis: Siebte Pulsus-Verleihung live bei BILD.de  -
+	Gesundheit -
+	Bild.de
+http://m.homeday.bild.de:80/, Apache, Service  -
+	Ratgeber -
+	Bild.de
+https://mics.bild.de/, AkamaiNetStorage, Unbenanntes Dokument
+https://m.homeday.bild.de:443/, Apache, Service  -
+	Ratgeber -
+	Bild.de
+http://arztsuche.bild.de:80/, AkamaiGHost, Invalid URL
+https://notifications.bild.de:443/, Apache, Bild.de Browser Push
+https://arztsuche.bild.de:443/, AkamaiGHost, Invalid URL
+https://m.hoergeraete.bild.de:443/, nginx/1.10.3 (Ubuntu), Service -
+        Ratgeber -
+        Bild.de
+https://notifications.bild.de/, Apache, Bild.de Browser Push
+https://m.hoergeraete.bild.de/, nginx/1.10.3 (Ubuntu), Service -
+        Ratgeber -
+        Bild.de
+https://umfragen.bild.de:443/, Apache/2.4.38 (Debian), LimeSurvey, LimeSurvey http://www.limesurvey.org
+https://www.bild.de/bild-mobil/audio/podcast/startseite-podcast-65035322.bild.html, Apache, BILD Podcasts  -
+	Bild.de
+https://www.bild.de/news/inland/65-jahre-bild/bild-kommt-zu-ihnen-deutschlandtour-durch-65-staedte-52847944.bild.html, Apache, Deutschland-Tour durch 65 Städte - BILD kommt zu Ihnen!  -
+	News Inland -
+	Bild.de
+https://as.bild.de:443/, jag
+https://iqtest.bild.de:443/, Apache/2.4.25 (Debian), IQ-Test: Sind Sie intelligent? Kostenlos überprüfen!  -
+	Ratgeber -
+	Bild.de
+https://m.strom.bild.de:443/, nginx, E.ON Deutschland  -
+	Ratgeber -
+	Bild.de
+https://www.bild.de/reise/startseite/aktivurlaub/reise-15478744.bild.html, Apache, Reise: Urlaub in Deutschland und der Welt | BILD.de
+https://umfragen.bild.de/, Apache/2.4.38 (Debian), LimeSurvey, LimeSurvey http://www.limesurvey.org
+https://as.bild.de/, jag
+https://m.strom.bild.de/, nginx, E.ON Deutschland  -
+	Ratgeber -
+	Bild.de
+https://www.bild.de/reise/startseite/aktivurlaub/reise-15478744.bild.html, Apache, Reise: Urlaub in Deutschland und der Welt | BILD.de
+https://www.bild.de/bild-mobil/audio/podcast/startseite-podcast-65035322.bild.html, Apache, BILD Podcasts  -
+	Bild.de
+https://iqtest.bild.de:443/, Apache/2.4.25 (Debian), IQ-Test: Sind Sie intelligent? Kostenlos überprüfen!  -
+	Ratgeber -
+	Bild.de
+https://m.wissenstest.bild.de:443/, Apache/2.4.25 (Debian), Wissens-Test: Prüfen Sie Ihr Allgemeinwissen  -
+	Ratgeber -
+	Bild.de
+https://www.bild.de/, Apache, Aktuelle Nachrichten  -
+	Bild.de
+https://as-wiki.axelspringer.de/login.action?os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DFREEF%26title%3DBILDbook%2B-%2BStartseite&permissionViolation=true, Apache/2.4.6 (CentOS), Anmelden - Axel Springer SE - WIKI
+https://www.bild.de/, Apache, Aktuelle Nachrichten  -
+	Bild.de
+https://www.bild.de/gutscheine/shops, Apache, Gutscheine für alle Online-Shops von A bis Z - BILD
+https://www.bild.de/gutscheine/shops, Apache, Gutscheine für alle Online-Shops von A bis Z - BILD
+https://www.coolgames.com/, Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips mod_fcgid/2.3.9, CoolGames – Best HTML5 games from the cloud, WordPress 4.9.1, Powered by Visual Composer - drag and drop page builder for WordPress.
+http://ww.bild.de:80/, AkamaiGHost, Invalid URL
+https://ww.bild.de:443/, AkamaiGHost, Invalid URL
+https://www.bild.de/, Apache, Aktuelle Nachrichten  -
+	Bild.de
+https://m.bild.de/, Apache, Startseite  -
+	Bild.de
+https://www.bild.de/vergleich/, nginx, BILD.de Test & Vergleich 2021 » Die besten Produkte für Sie recherchiert
+http://kandidaten-check.bild.de:8080/, nginx
+https://www.bild.de:443/, Apache, Aktuelle Nachrichten  -
+	Bild.de
+http://wwww.bild.de:80/, AkamaiGHost, Invalid URL
+https://data-861bbf2127.bild.de:443/, nginx, IOAM
+https://wwww.bild.de:443/, AkamaiGHost, Invalid URL
+https://www.bild.de/sport/fussball/sv-sandhausen/startseite-sandhausen-31148710.bild.html, Apache, SV Sandhausen: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	2. Bundesliga -
+	Bild.de
+https://m.sport-quiz.bild.de:443/, Apache/2.4.25 (Debian), Führerscheintest
+https://www.bild.de/partner/geld/finanzen/hier-finden-sie-den-besten-kredit-70364684.bild.html, Apache, Kostenloser Kreditvergleich mit Niedrig-Zins  -
+	Ratgeber -
+	Bild.de
+https://www.bild.de/sport/fussball/sv-sandhausen/startseite-sandhausen-31148710.bild.html, Apache, SV Sandhausen: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	2. Bundesliga -
+	Bild.de
+https://www.bild.de/auto/startseite/auto/auto-home-15478182.bild.html, Apache, Auto: News, Service und Tuning  -
+	Auto -
+	Bild.de
+https://www.bild.de/auto/startseite/auto/auto-home-15478182.bild.html, Apache, Auto: News, Service und Tuning  -
+	Auto -
+	Bild.de
+https://www.bild.de/video/clip/dokumentation/dokumentationen-59014692.bild.html, Apache, BILD Dokus  -
+	Bild.de
+https://userprofile-wrapper.prod.ps.bild.de:443/, AmazonS3
+https://m.sport-quiz.bild.de:443/, Apache/2.4.25 (Debian), Führerscheintest
+https://www.bild.de/regional/hamburg/hamburg-regional/home-16344102.bild.html, Apache, Hamburg: Aktuelle Nachrichten und Informationen aus der Hansestadt  -
+	Hamburg -
+	Bild.de
+https://www.bild.de/themen/specials/apple-apps/top-apps-beste-app-apple-app-store-16854678.bild.html, Apache, Top APPs: Die besten Apps aus dem App-Store  -
+	News-Überblick -
+	Bild.de
+https://www.bild.de/ratgeber/gesundheit/gesundheit/pulsus-von-bams-und-tk-verleihung-17748208.bild.html, Apache, Gesundheitspreis: Siebte Pulsus-Verleihung live bei BILD.de  -
+	Gesundheit -
+	Bild.de
+https://m.bild.de/, Apache, Startseite  -
+	Bild.de
+https://www.bild.de/news/mystery-themen/mystery/home-15682164.bild.html, Apache, BILD Mystery: Ufos, Geister, Übersinnliches und Aliens | BILD.de
+https://userprofile-wrapper.prod.ps.bild.de/, AmazonS3
+https://jobs.bild.de:443/, API Gateway, Der Stellenmarkt von BILD. Powered by StepStone.
+https://www.bild.de/regional/chemnitz/chemnitz-regional/home-chemnitz-22539154.bild.html, Apache, Chemnitz: Aktuelle Nachrichten aus der Region  -
+	Chemnitz -
+	Bild.de
+https://www.bild.de/sport/fussball/fc-kaiserslautern/startseite-kaiserslautern-31148622.bild.html, Apache, 1. FC Kaiserslautern  -
+	Fussball -
+	Bild.de
+https://www.bild.de/sport/fussball/1-fc-heidenheim/startseite-heidenheim-31148890.bild.html, Apache, 1. FC Heidenheim: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	2. Bundesliga -
+	Bild.de
+https://www.bild.de/news/mystery-themen/mystery/home-15682164.bild.html, Apache, BILD Mystery: Ufos, Geister, Übersinnliches und Aliens | BILD.de
+https://data-861bbf2127.bild.de/, nginx, IOAM
+https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html, Apache, Unterhaltung: TV, Kino, Musik, Promis, Stars und mehr  -
+	Bild.de
+https://m.bild.de/, Apache, Startseite  -
+	Bild.de
+https://spiele.bild.de/, None, Kostenlose Onlinegames: Jetzt gratis online spielen
+https://m.bild.de/, Apache, Startseite  -
+	Bild.de
+https://m.bild.de/, Apache, Startseite  -
+	Bild.de
+https://www.bild.de/ratgeber/kaufberater/black-friday/deals-schnaeppchen-angebote-alle-infos-zum-black-friday-2020-71943548.bild.html, Apache, Deals, Schnäppchen, Angebote: Alle Infos zum Black Friday 2020  -
+	Ratgeber -
+	Bild.de
+https://www.bild.de/, Apache, Aktuelle Nachrichten  -
+	Bild.de
+https://www.bild.de/unterhaltung/leute/now-united/vier-maedchen-und-ein-grosser-traum-52726908.bild.html, Apache, Now United | Finale! Vier Mädchen und ihr großer Traum  -
+	Leute -
+	Bild.de
+https://www.bild.de/unterhaltung/leute/now-united/vier-maedchen-und-ein-grosser-traum-52726908.bild.html, Apache, Now United | Finale! Vier Mädchen und ihr großer Traum  -
+	Leute -
+	Bild.de
+https://voucher.bild.de/?successUrl=https%3A%2F%2Fdon.bild.de%2Fupdate%2Fnull, AkamaiNetStorage, Gutscheine | BILD.de
+https://spiele.bild.de/, None, Kostenlose Onlinegames: Jetzt gratis online spielen
+https://www.bild.de/themen/specials/apple-apps/top-apps-beste-app-apple-app-store-16854678.bild.html, Apache, Top APPs: Die besten Apps aus dem App-Store  -
+	News-Überblick -
+	Bild.de
+https://www.bild.de/partner/geld/finanzen/hier-finden-sie-den-besten-kredit-70364684.bild.html, Apache, Kostenloser Kreditvergleich mit Niedrig-Zins  -
+	Ratgeber -
+	Bild.de
+https://www.bild.de/regional/hamburg/hamburg-regional/home-16344102.bild.html, Apache, Hamburg: Aktuelle Nachrichten und Informationen aus der Hansestadt  -
+	Hamburg -
+	Bild.de
+https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html, Apache, Unterhaltung: TV, Kino, Musik, Promis, Stars und mehr  -
+	Bild.de
+https://www.bild.de/ratgeber/kaufberater/black-friday/deals-schnaeppchen-angebote-alle-infos-zum-black-friday-2020-71943548.bild.html, Apache, Deals, Schnäppchen, Angebote: Alle Infos zum Black Friday 2020  -
+	Ratgeber -
+	Bild.de
+https://www.bild.de/gutscheine/expedia, Apache, Expedia Gutschein • Alle Rabatt-Codes • Juni 2021 | BILD
+https://www.bild.de/gutscheine/expedia, Apache, Expedia Gutschein • Alle Rabatt-Codes • Juni 2021 | BILD
+https://www.bild.de/, Apache, Aktuelle Nachrichten  -
+	Bild.de
+https://jobs.bild.de/, API Gateway, Der Stellenmarkt von BILD. Powered by StepStone.
+https://offers.bild.de/, Apache, BILDplus – Das grenzenlose BILD-Erlebnis | BILD.de
+https://hoergeraete.bild.de:443/, nginx/1.10.3 (Ubuntu), Service -
+        Ratgeber -
+        Bild.de
+https://www.lesershop24.de/fruehjahrsgewinnspiele-2021/, Apache, Teilnahmebdingungen Frühjahrsewinnspiele 2021 | Lesershop24
+https://puls.bild.de:443/, Apache/2.4.38 (Debian), LimeSurvey, LimeSurvey http://www.limesurvey.org
+https://hoergeraete.bild.de/, nginx/1.10.3 (Ubuntu), Service -
+        Ratgeber -
+        Bild.de
+https://puls.bild.de/, Apache/2.4.38 (Debian), LimeSurvey, LimeSurvey http://www.limesurvey.org
+https://www.lesershop24.de/fruehjahrsgewinnspiele-2021/, Apache, Teilnahmebdingungen Frühjahrsewinnspiele 2021 | Lesershop24
+https://kundenservice.auth.axelspringer.de/?layout=bild, None, Kundenservice
+https://kundenservice.auth.axelspringer.de/?layout=bild, None, Kundenservice
+https://shop.bild.de/, None, Startseite | Bild Shop
+https://www.bild.de/gutscheine/number26, Apache, N26 Gutscheincode • Alle Rabatt-Codes • Juni 2021 | BILD

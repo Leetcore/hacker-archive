@@ -1,0 +1,152 @@
+https://shop.bild.de:443/, None, Startseite | Bild Shop
+https://shop.bild.de/, None, Startseite | Bild Shop
+https://kundenservice.auth.axelspringer.de/?layout=bild, None, Kundenservice
+https://www.bild.de/gewinnspiele/bildplus-aktion/eins-von-sechs-e-autos-von-renault-zu-gewinnen-bild-rettet-ihr-osterfest-69893958.bild.html, Apache, Diese Leser haben sich schon beworben! Jetzt mitmachen: BILD rettet Ihr Osterfest  -
+	Kostenlose Gewinnspiele -
+	Bild.de
+https://m.bild.de/partner/lifestyle/gesundheit/fitbase-65436586.bildMobile.html, Apache, Fitbase - Die digitale Gesundheitsplattform  -
+	Lifestyle -
+	Bild.de
+https://www.bild.de/partner/lifestyle/gesundheit/fitbase-65436586.bild.html, Apache, Fitbase - Die digitale Gesundheitsplattform  -
+	Lifestyle -
+	Bild.de
+https://www.bild.de/sport/fussball/jahn-regensburg/startseite-regensburg-52365008.bild.html, Apache, Jahn Regensburg: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	2. Bundesliga -
+	Bild.de
+https://www.bild.de/gutscheine/, Apache, Kostenlose Gutscheine & Rabattaktionen sichern - BILD
+https://www.bild.de/gutscheine/, Apache, Kostenlose Gutscheine & Rabattaktionen sichern - BILD
+https://www.bild.de/partner/lifestyle/gesundheit/fitbase-65436586.bild.html, Apache, Fitbase - Die digitale Gesundheitsplattform  -
+	Lifestyle -
+	Bild.de
+http://email.bild.de:80/, Apache
+http://bildplus.bild.de:80/, Apache
+https://gluecksdreh.sportbild.bild.de:443/, None, SportBild-GlÃ¼cksdreh
+https://m.filmundfun.bild.de:443/, nginx, Film & Fun  -
+	Unterhaltung -
+	Bild.de
+https://homeday.bild.de:443/, Apache, Service  -
+	Ratgeber -
+	Bild.de
+https://filmundfun.bild.de:443/, nginx, Film & Fun  -
+	Unterhaltung -
+	Bild.de
+https://backend.kubivp.auth.bild.de:443/, None, Welcome to your Strapi app
+https://filmundfun.bild.de/, nginx, Film & Fun  -
+	Unterhaltung -
+	Bild.de
+https://m.filmundfun.bild.de/, nginx, Film & Fun  -
+	Unterhaltung -
+	Bild.de
+https://www.bild.de/video/clip/dokumentation/dokumentationen-59014692.bild.html, Apache, BILD Dokus  -
+	Bild.de
+https://www.bild.de/sport/fussball/jahn-regensburg/startseite-regensburg-52365008.bild.html, Apache, Jahn Regensburg: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	2. Bundesliga -
+	Bild.de
+http://leserservice1.bild.de:80/, Apache, 404 Not Found
+https://spiele.bild.de:443/, None, Kostenlose Onlinegames: Jetzt gratis online spielen
+https://spiele.bild.de:443/, None, Kostenlose Onlinegames: Jetzt gratis online spielen
+https://www.bild.de/gewinnspiele/bildplus-aktion/news-inland/bild-zahlt-alles-60669734.bild.html, Apache, Gewinnen Sie Geld bei BILD zahlt ALLES!  -
+	Kostenlose Gewinnspiele -
+	Bild.de
+https://www.bild.de/sport/fussball/fc-carl-zeiss-jena/startseite-jena-57214324.bild.html, Apache, FC Carl Zeiss Jena  -
+	Fussball -
+	Bild.de
+https://www.bild.de/sport/fussball/fc-kaiserslautern/startseite-kaiserslautern-31148622.bild.html, Apache, 1. FC Kaiserslautern  -
+	Fussball -
+	Bild.de
+http://download.storage.bild.de:80/, AkamaiNetStorage, Blätterkatalog®
+https://www.bild.de/sport/fussball/kieler-sv-holstein/startseite-kiel-52363046.bild.html, Apache, Holstein Kiel: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	2. Bundesliga -
+	Bild.de
+https://www.bild.de/sport/fussball/fc-carl-zeiss-jena/startseite-jena-57214324.bild.html, Apache, FC Carl Zeiss Jena  -
+	Fussball -
+	Bild.de
+https://www.bild.de/gewinnspiele/bildplus-aktion/news-inland/bild-zahlt-alles-60669734.bild.html, Apache, Gewinnen Sie Geld bei BILD zahlt ALLES!  -
+	Kostenlose Gewinnspiele -
+	Bild.de
+https://www.bild.de/news/inland/dokumentation/clans-von-berlin-57921302.bild.html, Apache, Clans von Berlin  -
+	Video-Doku „Clans von Berlin“ -
+	Bild.de
+https://www.bild.de/partner/lifestyle/gesundheit/fitbase-65436586.bild.html, Apache, Fitbase - Die digitale Gesundheitsplattform  -
+	Lifestyle -
+	Bild.de
+https://www.lesershop24.de/fruehjahrsgewinnspiele-2021/, Apache, Teilnahmebdingungen Frühjahrsewinnspiele 2021 | Lesershop24
+https://www.bild.de/gewinnspiele/bildplus-aktion/eins-von-sechs-e-autos-von-renault-zu-gewinnen-bild-rettet-ihr-osterfest-69893958.bild.html, Apache, Diese Leser haben sich schon beworben! Jetzt mitmachen: BILD rettet Ihr Osterfest  -
+	Kostenlose Gewinnspiele -
+	Bild.de
+https://www.bild.de/bild-plus/auto/auto-news/auto-news/automobilclub-mobil-jahresmitgliedschaft-fuer-nur-1-euro-70152858.bild.html, Apache, Automobilclub Mobil in Deutschland e.V: Mitgliedschaft fÃ¼r nur 1 Euro! | Leben & Wissen | BILD.de
+https://m.bild.de/partner/lifestyle/gesundheit/fitbase-65436586.bildMobile.html, Apache, Fitbase - Die digitale Gesundheitsplattform  -
+	Lifestyle -
+	Bild.de
+https://www.bild.de/news/inland/dokumentation/clans-von-berlin-57921302.bild.html, Apache, Clans von Berlin  -
+	Video-Doku „Clans von Berlin“ -
+	Bild.de
+https://www.bild.de/sport/fussball/sv-sandhausen/startseite-sandhausen-31148710.bild.html, Apache, SV Sandhausen: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	2. Bundesliga -
+	Bild.de
+https://www.bild.de/sport/fussball/kieler-sv-holstein/startseite-kiel-52363046.bild.html, Apache, Holstein Kiel: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	2. Bundesliga -
+	Bild.de
+https://download.storage.bild.de:443/, AkamaiNetStorage, Blätterkatalog®
+https://www.lesershop24.de/fruehjahrsgewinnspiele-2021/, Apache, Teilnahmebdingungen Frühjahrsewinnspiele 2021 | Lesershop24
+https://www.bild.de/bild-plus/auto/auto-news/auto-news/automobilclub-mobil-jahresmitgliedschaft-fuer-nur-1-euro-70152858.bild.html, Apache, Automobilclub Mobil in Deutschland e.V: Mitgliedschaft fÃ¼r nur 1 Euro! | Leben & Wissen | BILD.de
+https://www.bild.de/sport/fussball/sv-sandhausen/startseite-sandhausen-31148710.bild.html, Apache, SV Sandhausen: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	2. Bundesliga -
+	Bild.de
+https://www.bild.de/video/clip/dokumentation/dokumentationen-59014692.bild.html, Apache, BILD Dokus  -
+	Bild.de
+https://fanmeile.sportbild.de:443/, None, SPORT BILD-FANMEILE
+https://kundenservice.auth.axelspringer.de/?layout=bild, None, Kundenservice
+https://fanmeile.sportbild.de:443/, None, SPORT BILD-FANMEILE
+https://dev.backend.kubivp.auth.bild.de:443/, None, Welcome to your Strapi app
+https://dev.backend.kubivp.auth.bild.de:443/, None, Welcome to your Strapi app
+http://tagesdeals.bild.de:80/, AkamaiGHost, Invalid URL
+https://tagesdeals.bild.de:443/, AkamaiGHost, Invalid URL
+https://sport.bild.de:443/, nginx, Sport Ergebnisse, Spiele und Liveticker von Heute - 30.06.2021  -
+	Bild.de
+https://m.sportdaten.sportbild.bild.de:443/, nginx, Sport Ergebnisse, Spiele und Liveticker von Heute - 30.06.2021  -
+	SPORT BILD mobil
+https://www.bild.de/video/clip/dokumentation/dokumentationen-59014692.bild.html, Apache, BILD Dokus  -
+	Bild.de
+https://em-tippliga.sportbild.bild.de:443/, None, SPORT BILD EM Tipp-Liga  -
+	SPORT BILD mobil
+https://m.sport.bild.de:443/, nginx, Sport Ergebnisse, Spiele und Liveticker von Heute - 30.06.2021  -
+	Sport -
+	Bild.de
+https://strom.bild.de:443/, nginx, E.ON Deutschland  -
+	Ratgeber -
+	Bild.de
+https://www.bild.de/video/clip/dokumentation/dokumentationen-59014692.bild.html, Apache, BILD Dokus  -
+	Bild.de
+https://em-tippliga.sportbild.bild.de/, None, SPORT BILD EM Tipp-Liga  -
+	SPORT BILD mobil
+http://suite45.emarsys.net/docroot.html, nginx
+http://m.sportdaten.sportbild.bild.de:80/, Apache, Sport Ergebnisse, Spiele und Liveticker von Heute - 30.06.2021  -
+	SPORT BILD mobil
+https://em-tippliga.sportbild.bild.de/, None, SPORT BILD EM Tipp-Liga  -
+	SPORT BILD mobil
+https://m.sport.bild.de/, nginx, Sport Ergebnisse, Spiele und Liveticker von Heute - 30.06.2021  -
+	Sport -
+	Bild.de
+https://tv.bild.de:443/, Apache, Heute im TV – das TV-Programm für Das Erste, ZDF, ProSieben und Sat.1  -
+	Unterhaltung -
+	Bild.de
+https://bussgeldcheck.bild.de:443/, nginx/1.13.7, Bild-Bußgeldcheck - Einspruch gegen Bußgeld, Punkte und Fahrverbot
+https://m.strom.bild.de:443/, nginx, E.ON Deutschland  -
+	Ratgeber -
+	Bild.de
+https://restaurants.bild.de:443/, nginx, , Gatsby 2.24.91
+https://sport.bild.de/, nginx, Sport Ergebnisse, Spiele und Liveticker von Heute - 30.06.2021  -
+	Bild.de
+https://m.strom.bild.de/, nginx, E.ON Deutschland  -
+	Ratgeber -
+	Bild.de
+https://www.bild.de/sport/fussball/arminia-bielefeld/startseite-bielefeld-41429882.bild.html, Apache, DSC Arminia Bielefeld: Aktuelle News, Videos, Interviews, Transfergerüchte und mehr  -
+	Bundesliga -
+	Bild.de
+https://sportdaten.sportbild.bild.de:443/, nginx, Sport Ergebnisse, Spiele und Liveticker von Heute - 30.06.2021  -
+	SPORT BILD
+http://suite45.emarsys.net/docroot.html, nginx
+https://tv.bild.de/, Apache, Heute im TV – das TV-Programm für Das Erste, ZDF, ProSieben und Sat.1  -
+	Unterhaltung -
+	Bild.de

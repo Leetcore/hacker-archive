@@ -1,21 +1,26 @@
-h1, h2, body, p, img {
+html {
+    box-shadow: inset 0 0 100px #000;
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: #0C1C0E;
+    color: #55A559;
+    font-family: 'blockzone', Monospace, Arial, sans-serif;
+    line-height: 130%;
+}
+h1, h2, h3, body, p, img {
     box-sizing: border-box;
     animation-name: flick;
     animation-duration: 1337s;
     animation-timing-function: linear;
     animation-iteration-count: infinite;
 }
-body {
-    background-color: #C6C6C6;
-    color: #524a3d;
-    font-family: 'blockzone', Monospace, Arial, sans-serif;
-    font-size: 105%;
-    line-height: 120%;
-}
 h1, h2 {
     margin-bottom: 10px;
-    color: #50d71f;
+    color: #6bca48;
     text-shadow: 2px 2px 2px #428838;
+    line-height: 100%;
 }
 h2::after {
     content: "_";
@@ -24,8 +29,8 @@ a, a:link, a:visited {
     color: #49902f;
 }
 a:hover {
-    background-color: #98b1a5;
-    color: #111;
+    background-color: #18402d;
+    color: #49902f;
     cursor: pointer;
     text-decoration: none;
 }
@@ -41,7 +46,7 @@ img {
     max-height: 250px;
 }
 hr {
-    background-color: #777;
+    background-color: #333;
     border: none;
     height: 2px;
     margin: 5px 2px;
@@ -60,6 +65,7 @@ td {
 }
 iframe {
     width: 100%;
+    box-shadow: 5px 5px 0px #333;
 }
 .center {
     text-align: center;
@@ -69,30 +75,15 @@ iframe {
     max-width: 32%;
 }
 #main {
-    max-width: 800px;
+    max-width: 640px;
     margin: 0px auto;
     padding: 10px;
 }
-#post {
-    max-width: 640px;
-    margin: 0px auto;
-}
-#background {
-    margin-top: 20px;
-}
-.viernullvier, .viernullvier h1 {
-    font-size: 250%;
-    line-height: 150%;
-}
-.twitter-tweet {
+#tweets {
     font-size: 90%;
 }
 .column {
     column-count: 2;
-}
-.tile {
-    padding: 20px;
-    margin: 10px 5px;
 }
 .title li {
     font-size: 90%;
@@ -105,13 +96,6 @@ pre, code {
 @media (max-width: 800px) {
     .column {
         column-count: 1;
-    }
-}
-/* Dark mode */
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: #282a36;
-        color: #e6e0d8;
     }
 }
 @keyframes flick {

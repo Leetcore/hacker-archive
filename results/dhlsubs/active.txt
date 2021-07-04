@@ -1,0 +1,1416 @@
+https://shipping.dhl.co.jp:443/, None, 海外発送ならDHL
+https://shipping.dhl.co.jp/, None, 海外発送ならDHL
+https://besecure.hroffice.com/account/login/MustAuthLogin?target=http%3A%2F%2Fbesecure.hroffice.com%2F, Microsoft-IIS/10.0, BESECURE
+         - powered by Morneau Shepell
+https://gerlach-customs.com/, nginx, Your Customs Specialist in Europe I Gerlach Customs, WPML ver:4.4.10 stt:85,87,104,105,1,106,107,108,109,110,103,97,98,99,102,101;, Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+https://sprawdz.dhl.com.pl:443/, myServer, Śledzenie paczek krajowych i zagranicznych → DHL Parcel
+https://sprawdz.dhl.com.pl/, myServer, Śledzenie paczek krajowych i zagranicznych → DHL Parcel
+https://careers.dhl.com:443/global/en, None, CAREERS AT DHL | DHL JOBS
+https://shipping.dhl.com.mk:443/, None, DHL Express
+https://shipping.dhl.com.au:443/, None, DHL Express
+https://shipping.dhl.ca:443/, None, DHL Express |
+https://shipping.dhl.ca/, None, DHL Express |
+https://shipping.dhl.com.mk/, None, DHL Express
+https://shipping.dhl.com.au/, None, DHL Express
+http://dhlsystems.com:8080/, nginx, Loading...
+https://dhlsystems.com:443/, Cowboy, Loading...
+http://gloos-ves.com/zcvisitor/41a5a9d0-dc5c-11eb-8abd-12c0a1590479/72092e88-2c53-401c-b988-51ef43ce1034?campaignid=132f3b40-bb12-11eb-a873-0aea8b85a94f, ZeroPark-Traffic
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=code%20id_token&scope=openid&response_mode=form_post&redirect_uri=https://mysupplychain.dhl.com/auth_msc/azure/login&client_id=aed32298-f9ba-4ea1-9656-26b5bd45ba7c&resource=https%3a%2f%2fdpdhl.onmicrosoft.com/c4787553-be87-4144-b296-ba69c6237faa&site_id=500879&nonce=decadcaa-7d0d-494d-8d1a-f2a447c297c0, None, Sign in to your account
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=code%20id_token&scope=openid&response_mode=form_post&redirect_uri=https://mysupplychain.dhl.com/auth_msc/azure/login&client_id=aed32298-f9ba-4ea1-9656-26b5bd45ba7c&resource=https%3a%2f%2fdpdhl.onmicrosoft.com/c4787553-be87-4144-b296-ba69c6237faa&site_id=500879&nonce=9dfc3ebe-5c07-4d74-bfbc-f71ac45b6a40, None, Sign in to your account
+https://www.dhlexpress.fr/, Apache, Envoi colis et livraison à l'international | DHL Express - France
+https://www.dhlexpress.fr/, Apache, Envoi colis et livraison à l'international | DHL Express - France
+http://m.dhl.com.pl:80/, AkamaiGHost, Invalid URL
+https://m.dhl.com.pl:443/, AkamaiGHost, Invalid URL
+https://dhl24.com.pl/, nginx, DHL24 - Start
+https://dhl24.com.pl/, nginx, DHL24 - Start
+https://dhlsameday.com/, Microsoft-IIS/8.5, DHL Same Day
+https://shipping.dhl.fi/pikakuljetukset, None, DHL Express
+https://shipping.dhl.fi/pikakuljetukset, None, DHL Express
+https://www.notimetodie.dhl/, Apache, 007 | DHL - No Time to Die
+https://www.notimetodie.dhl/, Apache, 007 | DHL - No Time to Die
+https://dhlsameday.com:443/, Microsoft-IIS/8.5, DHL Same Day
+https://dhl24.com.pl/, nginx, DHL24 - Start
+https://www.benefitsolver.com/benefits/BenefitSolverView?page_name=signon&co_num=5775&co_affid=exel, SuperServer/9000, BenefitSolver  - Sign On
+https://standardforwarding.com/standardforwarding/, Microsoft-IIS/10.0
+https://standardforwarding.com/standardforwarding/, Microsoft-IIS/10.0
+https://standardforwarding.com/standardforwarding/, Microsoft-IIS/10.0
+https://standardforwarding.com/standardforwarding/, Microsoft-IIS/10.0
+http://www.dhlsystems.com:80/, nginx, Loading...
+http://www.dhlsystems.com:8080/, nginx, Loading...
+http://dhlup56-www.dhl.co.uk:80/, AkamaiGHost, Invalid URL
+http://admin.dhlsystems.com:8080/, nginx, Loading...
+http://admin.dhlsystems.com:80/, nginx, Loading...
+https://www.notimetodie.dhl:443/, Apache, 007 | DHL - No Time to Die
+https://parcel.dhl.co.uk:443/, Apache, DHL Express Courier Services for Parcel Delivery UK & International
+https://www.notimetodie.dhl/, Apache, 007 | DHL - No Time to Die
+https://www.dhlsystems.com:443/, Cowboy, Loading...
+http://ww25.dhlsystems.com:80/, nginx, Loading...
+http://ww38.dhlsystems.com:80/, nginx, Loading...
+https://returns.dhl.co.uk:443/acp/login.php, Microsoft-IIS/10.0, DHL Returns Web Service
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://cdn-cj-gaq-dev.logistics.dhl/, None, DHL CX
+https://testportal.dhl.co.uk:443/app/login/, nginx, Welcome to Secure Email & Document Delivery
+https://book.parcel.dhl.co.uk:443/, nginx, Book a collection with DHLitNow | DHL Express UK, 3e ContentStudio 7
+https://returns.dhl.co.uk/acp/login.php, Microsoft-IIS/10.0, DHL Returns Web Service
+https://testportal.dhl.co.uk/app/login/, nginx, Welcome to Secure Email & Document Delivery
+https://cdn-cj-gaq-staging.logistics.dhl:443/, None, DHL CX
+https://cdn-cj-gaq-staging.logistics.dhl/, None, DHL CX
+https://parcel.dhl.co.uk/, Apache, DHL Express Courier Services for Parcel Delivery UK & International
+https://mypension.dhl.co.uk/Homepage, None, 
+https://cdn-cj-gaq-dev.logistics.dhl:443/, None, DHL CX
+https://cdn-cj-gaq.logistics.dhl:443/, None, DHL CX
+https://book.parcel.dhl.co.uk/, nginx, Book a collection with DHLitNow | DHL Express UK, 3e ContentStudio 7
+https://cdn-cj-gaq.logistics.dhl/, None, DHL CX
+https://parcel.dhl.co.uk/, Apache, DHL Express Courier Services for Parcel Delivery UK & International
+https://mypension.dhl.co.uk/Homepage, None, 
+https://keycloak.dhl.com:443/, None
+https://smartplan.dhl.com:443/, Apache, Smart Plan
+https://keycloak.dhl.com/, None
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://uap.dhl.com:443/epa/epa.html, Apache, Citrix Gateway
+https://uap.dhl.com/epa/epa.html, Apache, Citrix Gateway
+https://gts-web-uat.dhl.com:443/, Apache-Coyote/1.1, TAS
+https://smartplan.dhl.com/, Apache, Smart Plan
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://m.uaptest.dhl.com/vpn/index.html, Apache, Citrix Gateway
+https://sharefile-sz2.dhl.com:443/, Microsoft-IIS/8.5, ShareFile Storage Server
+https://m.uaptest.dhl.com:443/vpn/index.html, Apache, Citrix Gateway
+https://sharefile-sz2.dhl.com/, Microsoft-IIS/8.5, ShareFile Storage Server
+https://ftzinamazon.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://plato-zeno-cee.dhl.com/, Microsoft-IIS/10.0, plato-zeno-cee.dhl.com - /
+https://plato-zeno-cee.dhl.com:443/, Microsoft-IIS/10.0, plato-zeno-cee.dhl.com - /
+https://docuware.dhl.com:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://docuware.dhl.com/, Microsoft-IIS/8.5, IIS Windows Server
+https://cz-wgp-ost.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Automotive Ostrava
+https://cz-wgp-ost.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Automotive Ostrava
+https://sg-express-apps.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://eportal.dhl.com:443/, Microsoft-IIS/10.0, DHL Dispozicija
+https://eportal.dhl.com/, Microsoft-IIS/10.0, DHL Dispozicija
+https://plato-test.dhl.com/, Microsoft-IIS/8.5, IIS Windows Server
+https://olimpo.dhl.com:443/, Microsoft-IIS/10.0, Sistema Olimpo
+https://spl-test.dhl.com/cas/login?service=https%3A%2F%2Fspl-test.dhl.com%2Fportal%2F, None, DHL SSO - Central Authentication Service
+https://plato-test.dhl.com:443/, Microsoft-IIS/8.5, IIS Windows Server
+http://mdm0680.dhl.com:80/, Microsoft-IIS/10.0, IIS Windows Server
+https://ncrt.dhl.com:443/, None
+https://ncrt.dhl.com/, None
+https://cz-wgp-elc.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Estée Lauder
+https://spl-test.dhl.com/cas/login?service=https%3A%2F%2Fspl-test.dhl.com%2Fportal%2F, None, DHL SSO - Central Authentication Service
+https://test-admin.freight-logistics.dhl.com/account/login?ReturnUrl=%2F, Kestrel, DHLAPIFarm - Web
+https://jira.dhl.com:443/, Apache, System Dashboard - Jira
+http://useip.dhl.com:80/, None, DHL Connect Response Msg
+https://test-admin.freight-logistics.dhl.com/account/login?ReturnUrl=%2F, Kestrel, DHLAPIFarm - Web
+https://blacklisttest-qa.dhl.com:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://blacklisttest-qa.dhl.com/, Microsoft-IIS/8.5, IIS Windows Server
+https://cz-wgp-elc.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Estée Lauder
+https://jira.dhl.com/, Apache, System Dashboard - Jira
+https://kronos-ext.dhl.com:443/, 
+https://useip.dhl.com:443/, None, DHL Connect Response Msg
+https://heavyweightcert.dhl.com:443/Login.aspx?ReturnUrl=%2f, Microsoft-IIS/8.5, HITS - Login
+https://heavyweightcert.dhl.com/Login.aspx?ReturnUrl=%2f, Microsoft-IIS/8.5, HITS - Login
+https://mo.spl-test.dhl.com/cas/login?service=https%3A%2F%2Fmo.spl-test.dhl.com%2Fportal%2F, None, DHL SSO - Central Authentication Service
+https://cvpn2b7.dhl.com/, None
+https://locator-qa-ext.dhl.com:443/, None, DHL - Global Service Point Locator
+https://dgfstationfinder.dhl.com:443/, None, DGF Station Finder
+https://mo.spl-test.dhl.com/cas/login?service=https%3A%2F%2Fmo.spl-test.dhl.com%2Fportal%2F, None, DHL SSO - Central Authentication Service
+https://siguetuenvio-qa.dhl.com:443/, Microsoft-IIS/8.5
+https://locator-qa-ext.dhl.com/, None, DHL - Global Service Point Locator
+https://platoce-test.dhl.com/, Microsoft-IIS/10.0, IIS Windows Server
+https://platoce-test.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://cvpn2b7.dhl.com/, None
+https://apeip.dhl.com:443/, None, DHL Connect Response Msg
+https://tableauth.dhl.com:443/, Tableau
+https://flysmart-test.dhl.com:8443/, None, Welcome to WildFly 11
+http://airlinelogistics-esi.dhl.com:80/, None, Request/response was blocked
+https://mytruck.dhl.com:443/, None, myTRUCK ADMIN APP
+https://mytruck.dhl.com/, None, myTRUCK ADMIN APP
+https://wla.dhl.com/wla6/, None, WLA6
+https://wla.dhl.com/wla6/, None, WLA6
+https://gaitcitrix.dhl.com:443/logon/LogonPoint/tmindex.html, Apache, NetScaler AAA
+https://gaitcitrix.dhl.com/logon/LogonPoint/tmindex.html, Apache, NetScaler AAA
+https://takeda.dhl.com:443/, Microsoft-IIS/8.5, ePlato - eTrack - Takeda
+https://caswebcomm.dhl.com:443/, myServer, TEST SERVER caswebcomm.dhl.com
+https://takeda.dhl.com/, Microsoft-IIS/8.5, ePlato - eTrack - Takeda
+https://services.gbs.dhl.com/prod_gbs_bizagi/, None, Bizagi BPM
+https://saapps.dhl.com:443/, Microsoft-IIS/8.5, Welcome to DHL Supply Chain
+https://services.gbs.dhl.com/prod_gbs_bizagi/, None, Bizagi BPM
+https://saapps.dhl.com/, Microsoft-IIS/8.5, Welcome to DHL Supply Chain
+https://sk-wgp-dc1.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning SK - DC1
+https://mybill.dhl.com/login/, Apache, DHL MyBill
+https://mybill.dhl.com/login/, Apache, DHL MyBill
+https://mybill.dhl.com/login/, Apache, DHL MyBill
+https://mybill.dhl.com/login/, Apache, DHL MyBill
+https://uscustomsbrokerageqa.dhl.com:443/, Microsoft-IIS/8.5, C2
+https://demandmanagement-nwc-test.dhl.com:443/, None
+https://demandmanagement-nwc-test.dhl.com/, None
+https://uscustomsbrokerageqa.dhl.com/, Microsoft-IIS/8.5, C2
+http://elogdellcnuat2.dhl.com:80/, Microsoft-IIS/10.0, IIS Windows Server
+http://globalecom.dhl.com:80/, None, DHL Connect Response Msg
+https://uscustomsbrokeragedemo.dhl.com:443/, Microsoft-IIS/8.5, C2
+https://uscustomsbrokeragedemo.dhl.com/, Microsoft-IIS/8.5, C2
+https://proview.dhl.com/proview/welcome, None, DHL ProView:Registration
+https://globalecom.dhl.com:443/, None, DHL Connect Response Msg
+https://webt4-ext-test.dhl.com:443/, Manhattan Associates
+https://dots.dhl.com:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://proview.dhl.com/proview/welcome, None, DHL ProView:Registration
+https://myaccount.dhl.com/MyAccount/jsp/ExternalLogin.do, None, Login
+https://myaccount.dhl.com/MyAccount/jsp/ExternalLogin.do, None, Login
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://calms.dhl.com:443/, None
+https://confluence.dhl.com:443/login.action?os_destination=%2Findex.action&permissionViolation=true, Apache, Log In - Confluence
+https://calms.dhl.com/, None
+https://blacklist.dhl.com:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://blacklist.dhl.com/, Microsoft-IIS/8.5, IIS Windows Server
+https://waf.bpm.gbs.dhl.com/dev_gbs_bizagi/, None, Bizagi BPM
+https://gerlach-customs.com/, nginx, Your Customs Specialist in Europe I Gerlach Customs, WPML ver:4.4.10 stt:85,87,104,105,1,106,107,108,109,110,103,97,98,99,102,101;, Powered by WPBakery Page Builder - drag and drop page builder for WordPress.
+https://cz-wgp-sky.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - SKY
+https://portalpedimentos.dhl.com/pedimento/, Microsoft-IIS/8.5, DHL | Carga de Pedimentos Aduanales
+https://portalpedimentos.dhl.com/pedimento/, Microsoft-IIS/8.5, DHL | Carga de Pedimentos Aduanales
+https://dashboardt4-ext-test.dhl.com:443/, Manhattan Associates
+https://cz-wgp-sky.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - SKY
+https://importeasy.dhl.com:8443/, None, Bad Request
+https://acstracking.dhl.com:443/, None, Application starting...
+https://acstracking.dhl.com/, None, Application starting...
+https://perrigo.dhl.com:443/, Microsoft-IIS/8.5, ePlato - eTrack - Takeda
+https://staging.spl-test.dhl.com/cas/login?service=https%3A%2F%2Fstaging.spl-test.dhl.com%2Fportal%2F, None, DHL SSO - Central Authentication Service
+https://perrigo.dhl.com/, Microsoft-IIS/8.5, ePlato - eTrack - Takeda
+https://r360mail.dhl.com:443/, Apache, r360mail.dhl.com - Server der pitcom GmbH in Plauen
+https://r360mail.dhl.com/, Apache, r360mail.dhl.com - Server der pitcom GmbH in Plauen
+https://drep-uat.dhl.com:443/, Apache, Smart Plan
+https://cvpn4b6.dhl.com/, None
+https://drep-uat.dhl.com/, Apache, Smart Plan
+https://cvpn4b6.dhl.com/, None
+https://qpulseair.dhl.com:443/, None, IIS Windows Server
+https://aduanasdhlexpress.dhl.com:443/, Microsoft-IIS/10.0, DHL Aduanas, WordPress 5.2.4
+https://qpulseair.dhl.com/, None, IIS Windows Server
+https://mercury-online.dhl.com:443/, Microsoft-IIS/8.5, Page Redirection
+https://supplychainbi-test.dhl.com/sci/, None
+https://mybill.dhl.com/login/, Apache, DHL MyBill
+https://mybill.dhl.com/login/, Apache, DHL MyBill
+https://supplychainbi-test.dhl.com/sci/, None
+https://elogplusjp.dhl.com:443/, None, IIS Windows Server
+https://fec-test.dhl.com/en/admin/sign/in, Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16, FEC 3.0
+https://fec-test.dhl.com/en/admin/sign/in, Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16, FEC 3.0
+https://deliveryconnectuatg8.dhl.com:443/UserArea/Account/LogOn?ReturnUrl=%2f, Microsoft-IIS/8.5, 
+https://elogplusjp.dhl.com/, None, IIS Windows Server
+https://qa-tmsweb.dhl.com:443/, None, Host Access for the Cloud Login
+https://qa-tmsweb.dhl.com/, None, Host Access for the Cloud Login
+https://hpe.dhl.com/revdb/, Apache-Coyote/1.1, reporting_wicket
+https://m.uap.dhl.com:443/vpn/index.html, Apache, Citrix Gateway
+https://m.uap.dhl.com/vpn/index.html, Apache, Citrix Gateway
+https://sharefile-sz1.dhl.com:443/, Microsoft-IIS/8.5, ShareFile Storage Server
+https://sharefile-sz1.dhl.com/, Microsoft-IIS/8.5, ShareFile Storage Server
+https://uaptest.dhl.com:443/epa/epa.html, Apache, Citrix Gateway
+https://uaptest.dhl.com/epa/epa.html, Apache, Citrix Gateway
+https://race.dhl.com:443/, Microsoft-IIS/10.0, RaCE
+https://uat.spl-test.dhl.com/cas/login?service=https%3A%2F%2Fuat.spl-test.dhl.com%2Fportal%2F, None, DHL SSO - Central Authentication Service
+https://cvpn6b3.dhl.com/, None
+https://portalemydhlplus.dhl.com:443/, Microsoft-IIS/8.5, MyDHL
+https://cvpn6b3.dhl.com/, None
+https://portalemydhlplus.dhl.com/, Microsoft-IIS/8.5, MyDHL
+https://app.uscustomsbrokeragedemo.dhl.com:443/, Microsoft-IIS/8.5, LNC
+https://uat.spl-test.dhl.com/cas/login?service=https%3A%2F%2Fuat.spl-test.dhl.com%2Fportal%2F, None, DHL SSO - Central Authentication Service
+https://app.uscustomsbrokeragedemo.dhl.com/, Microsoft-IIS/8.5, LNC
+https://spdp-ref.dhl.com/, Apache, MyDHL Service Point Web Application
+https://spdp-ref.dhl.com:443/, Apache, MyDHL Service Point Web Application
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://plapp-mkv-cbsg-prod.dhl.com:443/, Couchbase Sync Gateway/2.7.1 EE
+https://mas.dhl.com:443/, None
+https://mas.dhl.com/, None
+https://demandmanagement-nwc-meg.dhl.com:443/, None
+https://demandmanagement-nwc-meg.dhl.com/, None
+https://mdat4-ext-test.dhl.com:443/, Manhattan Associates
+https://spl.dhl.com/cas/login?service=https%3A%2F%2Fspl.dhl.com%2Fportal%2F, None, DHL SSO - Central Authentication Service
+https://oso.dhl.com:443/, Apache, DHL Online Supplies Ordering
+https://oso.dhl.com/, Apache, DHL Online Supplies Ordering
+https://e-invoice.dhl.com:443/, Microsoft-IIS/10.0, DHL Electronic Invoice Submission Tool | DHL
+https://e-invoice.dhl.com/, Microsoft-IIS/10.0, DHL Electronic Invoice Submission Tool | DHL
+https://pbr.dhl.com:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://proview.dhl.com/proview/welcome, None, DHL ProView:Registration
+https://pbr.dhl.com/, Microsoft-IIS/8.5, IIS Windows Server
+https://cz-wgp-lus.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Leder und schuh
+https://proview.dhl.com/proview/welcome, None, DHL ProView:Registration
+https://podco.dhl.com:443/Home.aspx, None, DHL Global Forwarding | Colombia | Pod Web Site
+https://podco.dhl.com/Home.aspx, None, DHL Global Forwarding | Colombia | Pod Web Site
+https://dscorder-meg.dhl.com:443/, Apache-Coyote/1.1, Welcome to JBoss AS
+https://dscorder-meg.dhl.com/, Apache-Coyote/1.1, Welcome to JBoss AS
+https://dhl-cloud.dhl.com/, Microsoft-IIS/8.5, IIS Windows Server
+https://jupiter.dhl.com:443/, Microsoft-IIS/8.5, DHL
+https://mstg1.dhl.com:443/, None
+https://jupiter.dhl.com/, Microsoft-IIS/8.5, DHL
+https://frp-dhli-int-prod.dhl.com:443/, None, 400 - Bad Request - Qlik Sense
+https://dhl-cloud.dhl.com:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://dscextbpms.dhl.com:443/, None, My webMethods: My webMethods Login Page
+https://dscextbpms.dhl.com/, None, My webMethods: My webMethods Login Page
+https://elogplusap.dhl.com:443/, None, IIS Windows Server
+https://dci.dhl.com/, Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0, DHL - DCI Hub
+https://dci.dhl.com:443/, Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0, DHL - DCI Hub
+https://delldn.dhl.com:443/, Microsoft-IIS/10.0, DN Digitalization
+https://frp-dhli-int-prod.dhl.com/, None, 400 - Bad Request - Qlik Sense
+https://agente.dhl.com:443/, Microsoft-IIS/10.0, AGENTE - DHL Express Chile
+https://ecase-dev.dhl.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffidstaging2.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DjVJbT8IwGP0rS9%252B3dZOLNIwEIUYSxEXQB9%252B69hs06drZr5v6750DRR80vrbn1nM6RV7ptGbzxh%252FMPTw3gD54rbRBdrzJSOMMsxwVMsMrQOYF285v1yyNKKud9VZYTYI5IjivrFlYg00FbguuVQIe7tcZOXhfI4tjEBwhlNBG8qAjYavY8Lbme4ikJcGy81aGf4icKaWS6PlemX36ReKyxFhjTIJr6wT02TNSco1AgtUyI9vNopikYzmiA%252BAAlCYTmSaSimI4krIQxQXvgJhzRNXCmYrYwMp0fsZnJKVpEtJxSAc7SlkyZHQYXQwun0iQn159pYzsgv1dUXEEIbvZ7fIwv9vueoFWSXCbDv3fdh7BYd9MJ0pm034d1id23wf7Owz%252FXInMfnWdxt%252B1T041%252B8i6WuZWK%252FEWzLW2LwsH3Hf5vWugn6Li%252Fnf7JEr6EyXDsoeyxmANQpUKJIlnJ9ufX3H2Dg%253D%253D%26RelayState%3Dhttps%253A%252F%252Fecase-dev.dhl.com%252Fnavpage.do, ServiceNow, Express Case Management (e-CASE)
+https://tmstracking.dhl.com/, Microsoft-IIS/8.5, Homepage for TMS Tracking
+http://origin-xmlpi-ea-prg.dhl.com:80/, None, XML PI
+https://origin-xmlpi-ea-prg.dhl.com:443/, None, XML PI
+https://ecase-dev.dhl.com:443/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffidstaging2.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DjVJbT4MwGP0rpO9AYcOZZpDMLcYlXsiGPvjWtR9bk9Jiv4L672U4bw8aX9tz6zmdI2902rJF5w9mA08doA9eGm2Qvd%252FkpHOGWY4KmeENIPOCbRc31yyNKGud9VZYTYIFIjivrFlag10DbguuVwLuN9c5OXjfIotjEBwhlNBH8qAjYZvY8L7le4ikJcFq8FaGH0W%252BKLWS6PlemX36SeKyxlhjTIJL6wSM2XNSc41AgvUqJ9vb5ZRDOpvshDynNRWCpxOodyDPMrk7h1kiBiCWHFH18EVF7GBtBj%252Fjc5LSNAnpLKTTilKWZIxmUUbpIwnK06svlJFDsL8r2r2DkF1VVRmWd9tqFOiVBHc7oP%252FbzgM4HJsZREkxH9dhY2L3fbC%252Fw%252FCPlUjxq%252Bs8%252Fq59cmrZMet6VVqtxGuw0No%252BLx1wP%252BT3roNxiob73%252B2TKBlPlAzrEco6gy0IVSuQJC5Otj%252B%252FYvEG%26RelayState%3Dhttps%253A%252F%252Fecase-dev.dhl.com%252Fnavpage.do, ServiceNow, Express Case Management (e-CASE)
+https://agente.dhl.com/, Microsoft-IIS/10.0, AGENTE - DHL Express Chile
+http://www-dhllink.dhl.com:80/, None, Request/response was blocked
+https://elogplusap.dhl.com/, None, IIS Windows Server
+http://prgdclyaee11.dhl.com:80/, Microsoft-IIS/8.5
+https://www.smartsensor-temperature-test.dhl.com/login.jsp, None, DHL SMARTSENSOR Portal
+https://www-dhllink.dhl.com:443/, None, Request/response was blocked
+https://dmac-e1-test.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://tmstracking.dhl.com:443/, Microsoft-IIS/8.5, Homepage for TMS Tracking
+https://dmac-e1-test.dhl.com/, Apache, DPDHL Enterprise Mobility Portal
+https://dgfcombolabel-qa.dhl.com:443/, Microsoft-IIS/8.5, Login
+https://dmac-test.dhl.com/appcenter, Apache, DPDHL Enterprise Mobility Portal | Error
+https://delldn.dhl.com/, Microsoft-IIS/10.0, DN Digitalization
+https://www.smartsensor-temperature-test.dhl.com/login.jsp, None, DHL SMARTSENSOR Portal
+https://suonc.spl-test.dhl.com/cas/login?service=https%3A%2F%2Fsuonc.spl-test.dhl.com%2Fportal%2F, Apache, DHL SSO - Central Authentication Service
+https://monitor.plato-zeno-cee.dhl.com:443/Account/Login?ReturnUrl=%2f, None, Mobile Stops
+https://monitor.plato-zeno-cee.dhl.com/Account/Login?ReturnUrl=%2f, None, Mobile Stops
+https://dmac-test.dhl.com/appcenter, Apache, DPDHL Enterprise Mobility Portal | Error
+https://dgfcombolabel-qa.dhl.com/, Microsoft-IIS/8.5, Login
+https://cyclone-eu-prod-gui.dhl.com:443/ui/, None, Axway Interchange
+https://status.api.dhl.com:443/, , DHL APIs - Service Status
+https://eplato.dhl.com/login.aspx, Microsoft-IIS/8.5, ePlato
+https://cyclone-eu-prod-gui.dhl.com/ui/, None, Axway Interchange
+https://suonc.spl-test.dhl.com/cas/login?service=https%3A%2F%2Fsuonc.spl-test.dhl.com%2Fportal%2F, Apache, DHL SSO - Central Authentication Service
+https://int.captrack.dhl.com:443/, nginx/1.19.7, DGFF CapTrack
+https://ondemand.dhl.com:443/, None, On Demand Delivery
+https://dmac.dhl.com/smartr/, Apache, SMARTR Download
+https://eplato.dhl.com:443/login.aspx, Microsoft-IIS/8.5, ePlato
+https://dev.npnums.dhl.com:443/, Apache
+https://status.api.dhl.com/, , DHL APIs - Service Status
+https://ondemand.dhl.com/, None, On Demand Delivery
+https://dsctopapac01test.dhl.com:443/, None
+https://dsctopapac01test.dhl.com/, None
+https://int.captrack.dhl.com/, nginx/1.19.7, DGFF CapTrack
+https://cvpn-dgf1.cn.dhl.com/, None
+https://actws.dhl.com/shipmentTrackingWsV4/services, Apache-Coyote/1.1, CXF - Service list
+https://esp.dhl.com:443/Home, None, Home Page - ESP DHL Global Forwarding
+https://lot.dhl.com/, nginx, DHL Logistics of Things | Insights into the world of logistics
+https://cz-wgp-vol.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Volvo
+https://cz-wgp-vol.dhl.com:443/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Volvo
+https://actws.dhl.com/shipmentTrackingWsV4/services, Apache-Coyote/1.1, CXF - Service list
+https://lot.dhl.com:443/, nginx, DHL Logistics of Things | Insights into the world of logistics
+https://www.r3.tms.dhl.com:443/, None, IIS7
+https://esp.dhl.com/Home, None, Home Page - ESP DHL Global Forwarding
+https://gaps.dhl.com:443/, None, Application starting...
+https://dscotmuk02.dhl.com/, None, OTM - Oracle Transportation Management
+https://dscotmuk02.dhl.com:443/, None, OTM - Oracle Transportation Management
+https://dsctransport-jiradev.dhl.com/, None, System Dashboard - Jira
+https://gaps.dhl.com/, None, Application starting...
+https://dev.captrack.dhl.com:443/, nginx/1.19.7, DGFF CapTrack
+https://otp-prg-prod-test.dhl.com:443/vpn/index.html, Apache, Citrix Gateway
+https://xmladminportal-test.dhl.com/login, , XML Services Portal-Login Page
+https://dev.captrack.dhl.com/, nginx/1.19.7, DGFF CapTrack
+https://dsctransport-jiradev.dhl.com:443/, None, System Dashboard - Jira
+https://test-r360mail.dhl.com:443/, Apache, test-r360mail.dhl.com - Server der pitcom GmbH in Plauen
+https://weblogistics.dhl.com:443/, Microsoft-HTTPAPI/2.0, Bad Request
+https://weblogistics.dhl.com/, Microsoft-HTTPAPI/2.0, Bad Request
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://dscotmapac01dev.dhl.com, Oracle-HTTP-Server, OTM - Oracle Transportation Management
+https://test-r360mail.dhl.com/, Apache, test-r360mail.dhl.com - Server der pitcom GmbH in Plauen
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://dscotmapac01dev.dhl.com, Oracle-HTTP-Server, OTM - Oracle Transportation Management
+https://lifetrack.dhl.com/customer/s/, None
+https://lifetrack.dhl.com/customer/s/, None
+https://cvpn-exp1.au.dhl.com:443/, None
+https://cz-wgp-elc.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Estée Lauder
+https://spt.dhl.com:443/login, Apache/2.4.34 (Red Hat) OpenSSL/1.0.2k-fips, Slot Planning Tool
+https://retail.dhl.com:443/, None, DHL Retail Hub
+https://gci-dev.metadeploy.com/, 
+https://pst.apollo.dhl.com:443/, None, Apollo
+https://cz-wgp-elc.dhl.com:443/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Estée Lauder
+https://cdn-gci-dev.dhl.com:443/, 
+https://spt.dhl.com/login, Apache/2.4.34 (Red Hat) OpenSSL/1.0.2k-fips, Slot Planning Tool
+https://api.resourceflex.dhl.com:443/, Apache, Index of /
+https://locator.dhl.com:443/, None, DHL - Global Service Point Locator
+https://desalfandegar.dhl.com:443/, None, Portal Aduaneiro DHL
+https://optra-byod-prd.dhl.com:443/, nginx, Your Azure Function App is up and running.
+http://calidus-online.dhl.com:80/, Apache/2.4.46 (Win32) OpenSSL/1.1.1k
+https://dop.nums.dhl.com:443/, Apache
+https://cvpn4b5.dhl.com:443/, None
+https://locator.dhl.com/, None, DHL - Global Service Point Locator
+https://retail.dhl.com/, None, DHL Retail Hub
+https://mydhl.express.dhl/index/en.html, nginx, MyDHL+ | International Shipping and Courier Delivery
+https://mysupplychain.dhl.com:443/, Apache, 
+https://cvpn4b5.dhl.com/, None
+https://nmiv.dhl.com:443/, None, null
+https://mydhl.express.dhl/index/en.html, nginx, MyDHL+ | International Shipping and Courier Delivery
+https://mysupplychain.dhl.com/, Apache, 
+https://nmiv.dhl.com/, None, null
+https://dsctopdna01.dhl.com:443/, None, DHL Supply Chain - Transport Portal
+https://pst.apollo.dhl.com:443/, None, Apollo
+https://needtestcz.dhl.com:443/, Microsoft-IIS/10.0, RON Portál
+https://dsctopdna01.dhl.com/, None, DHL Supply Chain - Transport Portal
+https://needtestcz.dhl.com/, Microsoft-IIS/10.0, RON Portál
+https://test.apollo.dhl.com:443/, None, Apollo
+https://se.tislog-test.dhl.com:443/frontend2/build/, Microsoft-IIS/8.5, TISLOG Office
+https://se.tislog-test.dhl.com:8443/frontend2/build/, Microsoft-IIS/8.5, TISLOG Office
+https://cvpn4a1.dhl.com/, None
+https://www.unsub.dhl.com:443/, None, On Demand Delivery
+https://isupply-test.dhl.com:443/, Microsoft-IIS/7.5, IIS7
+https://sapsiqdb-qa.dhl.com:443/, None
+https://cvpn4a1.dhl.com/, None
+https://cisnetops-test.dhl.com:443/, Apache, DHL EXPRESS NETWORK OPERATIONS MOBILE LEARNING
+https://mawbdis.dhl.com:443/login.jsp, None, Login
+https://twccs.dhl.com:443/, None, IIS Windows Server
+https://cisnetops-test.dhl.com/, Apache, DHL EXPRESS NETWORK OPERATIONS MOBILE LEARNING
+https://esharetest-auth.dhl.com:443/vpn/tmindex.html, Apache, Citrix Gateway
+https://scanwop.dhl.com:443/Login.aspx, None, DHL
+https://www.unsub.dhl.com/, None, On Demand Delivery
+https://mawbdis.dhl.com/login.jsp, None, Login
+https://scanwop.dhl.com/Login.aspx, None, DHL
+https://myllp.dhl.com/e-supplier/, Microsoft-IIS/10.0, Supply Chain Management
+https://isupply-test.dhl.com/, Microsoft-IIS/7.5, IIS7
+https://sandbox.dhlecommerce.dhl.com/Portal/, None, Login | DHL eCommerce
+https://twccs.dhl.com/, None, IIS Windows Server
+https://origin-ezybill4u-zpp.dhl.com/irj/portal, None, SAP NetWeaver Portal
+https://ocs.cn.dhl.com:443/, Apache, Index of /
+https://sandbox.dhlecommerce.dhl.com/Portal/, None, Login | DHL eCommerce
+https://vawidget-ap.dhl.com:443/, UploadServer, DHL VA Widget
+https://dmac.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://dmac.dhl.com/, Apache, DPDHL Enterprise Mobility Portal
+https://cj-gaq-dev.dhl.com, None, DHL CX
+https://cj-gaq-dev.dhl.com:443/, None, DHL CX
+https://api-qa.parceleurope.dhl.com/common/v1/apidoc/, , DHL eCommerce APIs
+https://api-qa.parceleurope.dhl.com/common/v1/apidoc/, , DHL eCommerce APIs
+https://dgfuscdzsvc.dhl.com/support/home, None, Support : US Customs Services
+https://origin-ezybill4u-zpp.dhl.com/irj/portal, None, SAP NetWeaver Portal
+https://dgfuscdzsvc.dhl.com/support/home, None, Support : US Customs Services
+https://vawidget-ap.dhl.com/, UploadServer, DHL VA Widget
+https://idcs-c170d172a46b4066892b1da5c10e3e4a.identity.oraclecloud.com/sso/v1/app/launcher/cb09afabe42a45e2b30f867ab02efbb3?appName=Service+Cloud+SSO+PROD, Oracle Identity Cloud Service
+https://dmac-p1.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://norgine.dhl.com:443/, Microsoft-IIS/8.5, ePlato - eTrack - Takeda
+https://dmac-p1.dhl.com/, Apache, DPDHL Enterprise Mobility Portal
+https://oso.dhl.com/, Apache, DHL Online Supplies Ordering
+https://oso.dhl.com/, Apache, DHL Online Supplies Ordering
+https://cz-wgp-lus.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Leder und schuh
+https://dhli.dhl.com/dhli-client/login;jsessionid=apNu3pN1ZD61egaidiUaBRPpQSYVb42EDpPBr9E1KnOYTB_ABGLu!-1447753539?0, None, Login - DHLi
+https://cz-wgp-lus.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Leder und schuh
+https://dhli.dhl.com/dhli-client/login;jsessionid=B3Ru3pMutj4ro-zKtljDDVRXuf0hbFQniPrWxJoJmgOqU5pCabmX!-1447753539?0, None, Login - DHLi
+https://mrt2.ap.dhl.com:443/, None, DHL: Corporate - Package Tracking Results
+https://idcs-c170d172a46b4066892b1da5c10e3e4a.identity.oraclecloud.com/sso/v1/app/launcher/cb09afabe42a45e2b30f867ab02efbb3?appName=Service+Cloud+SSO+PROD, Oracle Identity Cloud Service
+https://mrt2.ap.dhl.com/, None, DHL: Corporate - Package Tracking Results
+https://routeoptmobile.dhl.com:443/, Apache, RoutiGo Dashboard
+https://routeoptmobile.dhl.com/, Apache, RoutiGo Dashboard
+https://ewmsi.dhl.com/webgui, None, Logon - SAP Web Application Server
+https://xmlportal-uat.dhl.com/login, , XML Services Portal-Login Page
+https://ewmsi.dhl.com:443/webgui, None, Logon - SAP Web Application Server
+https://techsupport-dev.express.dhl.com/csm, ServiceNow, CSM Portal Base Page - Customer Support
+https://xmlportal-uat.dhl.com/login, , XML Services Portal-Login Page
+https://techsupport-dev.express.dhl.com/csm, ServiceNow, CSM Portal Base Page - Customer Support
+https://cvpn2v1.dhl.com:443/, None
+https://esharenew-auth.dhl.com/vpn/tmindex.html, Apache, Citrix Gateway
+https://cvpn2v1.dhl.com/, None
+https://eplato-test.dhl.com:443/login.aspx, Microsoft-IIS/8.5, ePlato
+https://eplato-test.dhl.com/login.aspx, Microsoft-IIS/8.5, ePlato
+https://dscotmapac01test.dhl.com:443/, Oracle-HTTP-Server, OTM - Oracle Transportation Management
+https://dscotmapac01test.dhl.com/, Oracle-HTTP-Server, OTM - Oracle Transportation Management
+https://cvpn6b7.dhl.com:443/, None
+https://fec-carlo.dhl.com/s, Apache, FoodLogistics Event Capture
+https://fec-carlo.dhl.com/s, Apache, FoodLogistics Event Capture
+https://dev-elogpluscn.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://cvpn6b7.dhl.com/, None
+https://techsupport-tst.express.dhl.com/csm, ServiceNow, CSM Portal Base Page - Customer Support
+https://techsupport-tst.express.dhl.com/csm, ServiceNow, CSM Portal Base Page - Customer Support
+https://extpwd.dhl.com:443/, None, DHL External Password Reset Form
+https://extpwd.dhl.com/, None, DHL External Password Reset Form
+https://pweb.dhl.com/PWEB/start.aspx?ReturnUrl=%2fPWEB%2fbegin.aspx, Microsoft-IIS/10.0, Prologs Web Application
+https://pweb.dhl.com/PWEB/start.aspx?ReturnUrl=%2fPWEB%2fbegin.aspx, Microsoft-IIS/10.0, Prologs Web Application
+http://cj-gaq.dhl.com:80/, None, DHL CX
+https://ncw2.dhl.com:443/, Microsoft-IIS/10.0, Secure Portal Redirect
+https://cj-gaq.dhl.com:443/, None, DHL CX
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://cvpn6a1.dhl.com:443/, None
+https://cvpn6a1.dhl.com/, None
+https://xmlportal.dhl.com/login, Apache-Coyote/1.1, XML Services Portal-Login Page
+https://xmlportal.dhl.com/login, Apache-Coyote/1.1, XML Services Portal-Login Page
+http://xmlpi-ea.goce.dhl.com:80/, None, XML PI
+https://sci-tms-qa.dhl.com:443/, None, OTM - Oracle Transportation Management
+https://sci-tms-qa.dhl.com/, None, OTM - Oracle Transportation Management
+https://dgf-mfe.dhl.com:443/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://uscustomsbrokerage.dhl.com:443/, Microsoft-IIS/8.5, C2
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://uscustomsbrokerage.dhl.com/, Microsoft-IIS/8.5, C2
+https://dgf-mfe.dhl.com/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://www.importeasy.dhl.com:8443/, None, Bad Request
+https://www.importeasy.dhl.com:443/, None, Login
+http://origin-xmlpitest-ea.dhl.com:80/, None, XML PI
+http://cyclone-eu-prod.dhl.com:80/, Apache-Coyote/1.1, Shared Partner Gateway
+https://medzihalovytransport.dhl.com:443/Dispatcher/Login?ReturnUrl=%2f, Microsoft-IIS/8.5, Dispatcher Login | DHL
+https://origin-xmlpitest-ea.dhl.com:443/, None, XML PI
+https://cyclone-eu-prod.dhl.com:443/, Apache-Coyote/1.1, Shared Partner Gateway
+https://status.developer.dhl.com:443/, , DHL APIs - Service Status
+https://status.api.dhl.com/, , DHL APIs - Service Status
+https://fj.ras.npnums.dhl.com:443/, None
+https://www.importeasy.dhl.com/, None, Login
+https://lidobriefingv7.dhl.com:443/, BigIP, lidobriefing Notice - DHL Global Aviation IT
+https://pbrtest.dhl.com:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://pbrtest.dhl.com/, Microsoft-IIS/8.5, IIS Windows Server
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://dev-elogplusjp.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://cra-api-dmz-qa.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://plato-zeno.dhl.com:443/, Microsoft-IIS/10.0
+https://plato-zeno.dhl.com/, Microsoft-IIS/10.0
+https://esharetest-auth.dhl.com/vpn/tmindex.html, Apache, Citrix Gateway
+https://guru-ext-auth.dhl.com/vpn/tmindex.html, Apache, Citrix Gateway
+https://guru-ext-auth.dhl.com/vpn/tmindex.html, Apache, Citrix Gateway
+https://proview.dhl.com/proview/welcome, None, DHL ProView:Registration
+https://cvpn-exp1b.cn.dhl.com:443/, None
+https://proview.dhl.com/proview/welcome, None, DHL ProView:Registration
+http://bt.dhl.com:80/, AkamaiGHost, Invalid URL
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=id_token&client_id=912d84e2-24da-4e2e-9802-d6e2943cd235&scope=openid&nonce=9361490a-402d-48f1-9815-8a8042325d75&response_mode=form_post&redirect_uri=https%3a%2f%2fmynet-qa.dhl.com%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmynet-qa.dhl.com%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%226a24311f-2ddd-4d87-818c-ae51e2546b8d%22%7d%23EndOfStateParam%23, None, Sign in to your account
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=id_token&client_id=912d84e2-24da-4e2e-9802-d6e2943cd235&scope=openid&nonce=fd8b6146-05f4-4768-bb2d-5576bb4c9cf4&response_mode=form_post&redirect_uri=https%3a%2f%2fmynet-qa.dhl.com%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmynet-qa.dhl.com%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%22f335d58d-0ec9-4347-a960-990423b3f1f8%22%7d%23EndOfStateParam%23, None, Sign in to your account
+https://www.ondemand.dhl.com:443/, None, On Demand Delivery
+https://www.ondemand.dhl.com/, None, On Demand Delivery
+http://cyclone-eu-qa.dhl.com:80/, Apache-Coyote/1.1, Shared Partner Gateway QA
+https://extweb.dhl.com:443/, Microsoft-IIS/8.5, Deutsche Post DHL | External Access
+https://extweb.dhl.com/, Microsoft-IIS/8.5, Deutsche Post DHL | External Access
+https://bollini.dhl.com:443/, None
+https://bollini.dhl.com/, None
+https://jumpseat.dhl.com:443/, None, Jumpseat
+https://jumpseat.dhl.com/, None, Jumpseat
+https://istore.dhl.com:443/, None, 
+https://istore.dhl.com/, None, 
+http://pt.express.dhl.com:80/, nginx, Web Server's Default Page
+https://ebca.dhl.com/PELIKAN_FO/, Microsoft-IIS/10.0
+https://o2c.dhl.com/, None, jp3
+https://tgv2.dhl.com:443/app?random=0.977513348751267, None, Application starting...
+http://reqit-load.dhl.com:80/, ServiceNow, ServiceNow - Transform I.T.
+https://ebca.dhl.com/PELIKAN_FO/, Microsoft-IIS/10.0
+https://tgv2.dhl.com:443/app?random=0.3100505103599702, None, Application starting...
+https://cvpn-exp1a.in.dhl.com:443/, None
+https://myusentry.dhl.com:443/SSO/UI/login.aspx, Microsoft-IIS/10.0, GTKonnect Login
+https://myusentry.dhl.com/SSO/UI/login.aspx, Microsoft-IIS/10.0, GTKonnect Login
+https://cz-wgp-hnkadh.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning CZ - HENKEL Adhesive
+https://cz-wgp-hnkadh.dhl.com:443/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning CZ - HENKEL Adhesive
+https://preprod2.dhlecommerce.dhl.com/Portal/, None, Login | DHL eCommerce
+http://keyserver.dhl.com:80/, Microsoft-IIS/8.5, Deutsche Post DHL | Keyserver
+https://cvpn4b2.dhl.com:443/, None
+https://admin.freight-logistics.dhl.com/account/login?ReturnUrl=%2F, Kestrel, DHLAPIFarm - Web
+https://cvpn4b2.dhl.com/, None
+https://de.infodesk-freight.dhl.com:443/frontend2/build/, None, TISLOG Office
+https://admin.freight-logistics.dhl.com/account/login?ReturnUrl=%2F, Kestrel, DHLAPIFarm - Web
+https://rum.dhl.com:443/login.jsp, None, Login
+https://rum.dhl.com/login.jsp, None, Login
+https://retail-mobile.dhl.com:443/, None, DHL Retail Hub
+https://preprod2.dhlecommerce.dhl.com/Portal/, None, Login | DHL eCommerce
+https://retail-mobile.dhl.com/, None, DHL Retail Hub
+https://fid.dhl.com/adfs/ls/?SAMLRequest=fVJbT8IwGP0rS9%2B3lrEJNECCECMJKgH0wRdT1uKa9DL7ffPy7x2bRkwIT01Pz6XfaccgrKn4rMbSbdRbrQCjT2sc8PZgQurguBeggTthFXAs%2BHZ2t%2BJpwngVPPrCG3IiuawQACqg9o5Ey8WEvFzlo57MC5Xt%2B3smhlIORn0mWd7PBulolMveMGNin%2Bd5QaInFaBRTkhj1MgBarV0gMJhA7G0F7NBzLIdY7w34Gn%2FmUSLZhrtBLaqErECTulBy0SWJim8pUIegBqgJJr9XmzuHdRWha0K77pQj5vVnxSsCIjeG0hk9esB2lZGHUen1svaqKQqK9ruoVvTWBTQoWcMSLT%2BqfFaO6nd6%2BUG9x0J%2BO1ut47XD9sdmY6PKbxtJEzPZYzpKWPcvfl9471crL3RxVd044MVeDn6iGgZH1oqxyAcaOWwKc8Y%2FzEPSqCaEAy1InTaRf7%2FWdNv, Microsoft-HTTPAPI/2.0 Microsoft-HTTPAPI/2.0, Home Realm Discovery
+https://fid.dhl.com/adfs/ls/?SAMLRequest=fVJbT8IwFP4rS9%2B3zg4cNIwEJUYSLwTQB19M2Q7SpJfZc%2Bbl3zs2jZgYnpp%2B%2FS49XztBZU0tZw3t3QpeG0CKPqxxKLuDgjXBSa9Qo3TKAkoq5Xp2eyNFkso6ePKlN%2BxIclqhECGQ9o5Fi3nBnkeZEOM8T4f5%2BRbG5XCcg8izAYzKdDscicFwINQoyzMFLHqEgK2yYK1RK0dsYOGQlKMWSsVZnOZxOtikqTzLpcieWDRvp9FOUafaE9UoOd%2FpKqn2Jim95araITfIWTT7udild9hYCGsIb7qEh9XNrxStCkTeG0yq%2BscDta0NHEbn1leNgaTe17zbY7%2BKWJXYo%2F8YsGj5XeOFdpV2L6cb3PYklNebzTJe3q83bDo5pMiukTD9L2PCjxmT%2Fs3vWu%2FFfOmNLj%2BjKx%2BsotPRB0RX8a6jSgrKoQZHbXnG%2BPfLAIqgYBQaYHzaR%2F79WdMv, Microsoft-HTTPAPI/2.0 Microsoft-HTTPAPI/2.0, Home Realm Discovery
+http://kronos-ext-wdm.dhl.com:80/, , IIS Windows Server
+https://supplychainjobs.dhl.com/jobs/, None, DHLSupplyChain | Careers
+https://supplychainjobs.dhl.com/jobs/, None, DHLSupplyChain | Careers
+https://supplychainbitest.dhl.com/sci/, None
+https://supplychainbitest.dhl.com/sci/, None
+https://kronos-ext-wdm.dhl.com:443/, , IIS Windows Server
+https://dmac-p1-test.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://dmac-p1-test.dhl.com/, Apache, DPDHL Enterprise Mobility Portal
+https://aimsecrew-dhk-uat.dhl.com:443/, None
+https://aimsecrew-dhk-uat.dhl.com/, None
+https://mysctrackandtrace-uat.dhl.com/, Apache, MySupplyChain Track & Trace
+https://dhlsupplychain.dhl.com:443/, None
+https://tst.captrack.dhl.com:443/, nginx/1.19.8, DGFF CapTrack
+https://dsctopapac01dev.dhl.com:443/, None, DHL Supply Chain - Transport Order Portal
+https://login.microsoftonline.com/dhl.com/oauth2/authorize?client_id=0000000c-0000-0000-c000-000000000000&redirect_uri=https%3A%2F%2Faccount.activedirectory.windowsazure.com%2F&response_mode=form_post&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAAAMAAAALZG9tYWluX2hpbnSAAXIzZFR0WkZvUFJTQjNmOXR0ZFZ6YVE2UWJaejVDRElpVG5GUVZsZk1yVE53TnJRc0g3WWV1OWpHWjF6VVJqU2FPTVlwM2xKaE5DWllrYkhzd1VKcDlpZTdHNFFxMkFhVkprREE1LXo5YUZiNUcxeFR3bTA3T3lXLTY2SUxKMm44CS5yZWRpcmVjdFZodHRwczovL2FjY291bnQuYWN0aXZlZGlyZWN0b3J5LndpbmRvd3NhenVyZS5jb20vYXBwbGljYXRpb25zL0RlZmF1bHQuYXNweD93aHI9ZGhsLmNvbR5PcGVuSWRDb25uZWN0LkNvZGUuUmVkaXJlY3RVcmnAATdNMnZxLW95cFlDNmhTU3c3eHlUbGo2bGtCV1J0QVZsMUNuRUVUQy1zZzN0RFNaT3lhMEtXSVZWTnFnNlZJVFdydHVmeEpUY0R6dVBlM3hhaTZvTFVxYWxqWTk5NlpHYm4xQzBNX2pHaVIweUc2bVFzN3RvY25KRVJVcE1lRmRfOHpNQjk3YW8zRjM2dHZNRFZqdTBudTF2SUFMQngtakVNb1ZnV1lTSHBBcl9SUjJ3dUdXUzM2dlhFaDlBSmhNOQ&nonce=1625357847.w52nac-QRQXu5i72qZ4t8w&domain_hint=dhl.com&nux=1, None, Sign in to your account
+https://login.microsoftonline.com/dhl.com/oauth2/authorize?client_id=0000000c-0000-0000-c000-000000000000&redirect_uri=https%3A%2F%2Faccount.activedirectory.windowsazure.com%2F&response_mode=form_post&response_type=code%20id_token&scope=openid%20profile&state=OpenIdConnect.AuthenticationProperties%3DAQAAAAMAAAALZG9tYWluX2hpbnSAAVRTQjB6RklzWlFpenIyRGRmT2NfdWZuYlJVeVFjMDF0aVF3SGhleXhNa1V2Vm1vWGlWeGp4cUxEeUo1YWVZN3FLVE02dXJXYXhxb3ZUNlZjUEdkOHp0MnVJVDYwaEw5RmpGd0xpYVRmWmJLeExjZlpFWTUyVXZfblVhbmNfREhDCS5yZWRpcmVjdFZodHRwczovL2FjY291bnQuYWN0aXZlZGlyZWN0b3J5LndpbmRvd3NhenVyZS5jb20vYXBwbGljYXRpb25zL0RlZmF1bHQuYXNweD93aHI9ZGhsLmNvbR5PcGVuSWRDb25uZWN0LkNvZGUuUmVkaXJlY3RVcmnAAUpHNTRBMGFDQWkyRnN4NGV3Z3g4UVVtb2FBWUYwai1XSmFHYTVyVzB4czJHNzZjaDAzUmE4SlNLRGRSbFlSR2FuYkQyanRBalVTTUgzazdxWVdQdnozc1N5cll5b1lFU1M2WHdkLWswSzhCdUFNemJqcTI3c3F5QVFDZS05cEgwMmctV096cjU2MndGY2FLc3JUeVlmRzdVenN0ZFltRF9nbGpkRjJ6eVdjYlpsOTlkQ1lwVHZwYlVLSGo2dHpiUQ&nonce=1625357847.fEMQGickygGsFgKNxenGbA&domain_hint=dhl.com&nux=1, None, Sign in to your account
+https://tst.captrack.dhl.com/, nginx/1.19.8, DGFF CapTrack
+https://supplychainbi-meg.dhl.com/sci/, None
+https://dhlsupplychain.dhl.com/, None
+https://dsctopapac01dev.dhl.com/, None, DHL Supply Chain - Transport Order Portal
+https://supplychainbi-meg.dhl.com/sci/, None
+https://cvpn4a3.dhl.com:443/, None
+https://plapp-mkv-cbsg-test.dhl.com:443/, Couchbase Sync Gateway/2.7.1 EE
+https://cvpn4a3.dhl.com/, None
+https://cz-wgp-te.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - TE Connectivity
+https://cvpn4b6.dhl.com:443/, None
+https://mercury-online-test.dhl.com:443/, Microsoft-IIS/8.5, Page Redirection
+https://cvpn.test.dhl.com:443/, None
+https://cz-wgp-te.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - TE Connectivity
+https://fid.dhl.com/adfs/ls/?SAMLRequest=fVJbS8MwGP0rJe9t2lrpFrbCdIgDL8NNH3yRNEldIJea76uXf2%2FXOlQYewo5OZd8J5kBt6Zliw537kG9dQow%2BrTGARsO5qQLjnkOGpjjVgFDwTaL2xuWJylrg0cvvCF%2FJKcVHEAF1N6RaLWck5diWotmmtfTLMvO8vOSl00jJ3mhRDGRteCy5mXaFEU2IdGTCtAr56Q36uUAnVo5QO6wh9I8i9MyTottmrKsZGfpM4mW%2FTTacRxUO8QWGKWNloncmUR4S7lsgBqgJFocLnbpHXRWhY0K71qox4ebXylYHhC9N5DI9uAB2rZG7Uen1svOqKTdtXTYw7jmMRcwokcMSLT%2BqfFCO6nd6%2BkG65EE7Hq7Xcfr%2B82WVLN9ChsaCdWxjBn9y5iNb37Xe6%2BWa2%2B0%2BIqufLAcT0fvES3jZqAyDNyBVg778ozxH5dBcVRzgqFThFZj5P%2BfVX0D, Microsoft-HTTPAPI/2.0 Microsoft-HTTPAPI/2.0, Home Realm Discovery
+https://dgfuscs.dhl.com/support/home, None, Support : DGF US Customer Service
+https://cvpn4b6.dhl.com/, None
+https://cvpn.test.dhl.com/, None
+https://latameshop.dhl.com:443/, Apache, DHL LATAM eSHOP  - Latin American Largest Online Shopping Platform
+https://mydhlfreight-sit.dhl.com/se-en/home.html, Apache, Freight Customer Portal | Home | Sweden
+https://fid.dhl.com/adfs/ls/?SAMLRequest=fVJba9swFP4rRu%2B2ZLluiEgCWcNYoJfQZHvoS1Gt40Wgi6dz3Mu%2Fr2OvrIOSJ6FP30XnkxaovevUuqdjuIc%2FPSBlr94FVOPBkvUpqKjRograAypq1H59c61kIVSXIsUmOvZJcl6hESGRjYFl282SPV7WUEqQT6Kqq1LWUkJVmwtdz8o5yFa2l3pudAViXrLsFyQclEs2GA1yxB62AUkHGiAhy1zMcnFxEEKVM1WJB5Zthmls0DSqjkQdKs5bawpzdEUTPdemRe6Qs2z9cbGrGLD3kPaQnm0DP%2B%2Bv%2F0nR60QUo8PCdB8eaH3n4DQ699H0Doru2PFxj9Mqc93ghH5hwLLd3xq%2F2WBs%2BH2%2BwaeJhOrH4bDLd3f7A1stTilqbCStvspY8M%2BMxfTmt4P3drOLzjZv2feYvKbz0SfEmrwdqYqSDmgh0FCec%2FHlKoEmWDJKPTC%2BmiL%2F%2F1mrdw%3D%3D, Microsoft-HTTPAPI/2.0 Microsoft-HTTPAPI/2.0, Home Realm Discovery
+https://mydhlfreight-sit.dhl.com/se-en/home.html, Apache, Freight Customer Portal | Home | Sweden
+https://latameshop.dhl.com/, Apache, DHL LATAM eSHOP  - Latin American Largest Online Shopping Platform
+https://gsconnectcsm-uat.dhl.com:443/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DlVLLbtswEPwVgXdJlGQgLmEZUG0UMZCHYDs59LYmVzYBilS4lJv%252BfRXZrZ1DE%252BRKzs7MzuyMoDV5J6o%252BHOwaX3qkEL22xpI4%252FZSs91Y4IE3CQoskghSb6v5O5AkXnXfBSWdYVBGhD9rZhbPUt%252Bg36I9a4tP6rmSHEDoSabon6axFGSS1cQ8hUQeTSNemFo4d7DFRjkXLwYK28MZ1mWy0%252BgcG1VBqKGXRD%252BcljtZL1oAhZNFqWbLNwyIr5JQXvJnmgDnw3U4VDTRysptm3ybFpBiAVAORPuJllKjHlaUANpQs53kW85uYT7aci%252BxGFDzJ8vwni%252Brz0t%252B1VdruP05odwKRuN1u67h%252B3GxHgqNW6B8G9BfDeUZPYzADN5vPxo7EaNxf1%252FaxJ%252FjbFZt%252FJj5LryXOgp14c75a1s5o%252BTuqjHG%252FFh4hDNsE3%252BNYTAvh%252Fy6yJBtftIqbESqwBW0qpTwSsXR%252B1n1%252FmPM%252F%26RelayState%3Dhttps%253A%252F%252Fgsconnectcsm-uat.dhl.com%252Fnavpage.do, ServiceNow, GSConnect
+https://gsconnectcsm-uat.dhl.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DlVLRTsIwFP2Vpe%252Fb2qEiDSOZECOJ4gLog2%252BlvUCTrp29HerfOwYqPqjxtT33nHPPuUMUlclqXjRha%252Bfw3ACG6LUyFvnhJyeNt9wJ1MitqAB5kHxR3N3yLKG89i446QyJCkTwQTs7dhabCvwC%252FE5LeJjf5mQbQo08TTconbUgg8QqbkRI1NYk0lWpFbtabCBRjkST1oK2Ys%252F1NbnW6hMs1BpTgymJrp2X0FnPyVoYBBJNJzlZzMZyQNkFPaervlRMXjI4z3oX%252FQEMVgPZW7HLFoilQNQ7%252BBpFbGBqMQgbcpLRjMW0H9OzJaWc9XmPJixjTyQqj0tfaau03fye0OoAQn6zXJZxeb9YdgQ7rcDPWvQ%252Fw3kEj10wLTcZDbuOeGfcn9b2uyfx0RUZ%252FSU%252BTE8ljoI13zufTkpntHyLCmPcy9iDCO02wTfQFVOJ8LMLlrDuRat43UE5VEKbQikPiCQdHXW%252FH%252BboHQ%253D%253D%26RelayState%3Dhttps%253A%252F%252Fgsconnectcsm-uat.dhl.com%252Fnavpage.do, ServiceNow, GSConnect
+https://dgfuscs.dhl.com/support/home, None, Support : DGF US Customer Service
+https://dhlparceliberia.dhl.com/login.php, Apache, DHL Parcel
+https://dhlparceliberia.dhl.com/login.php, Apache, DHL Parcel
+https://isupply.dhl.com:443/, Microsoft-IIS/7.5, IIS7
+https://mipprap6-ext.dhl.com/login.jsp, Manhattan Associates
+https://psf.dhl.com:443/, Apache, DHL Parcelshop Finder
+https://awacslocator.dhl.com/, None, AwacsService Web Service
+https://awacslocator.dhl.com:443/, None, AwacsService Web Service
+https://Supplychainjobs.dhl.com/jobs/, None, DHLSupplyChain | Careers
+https://Supplychainjobs.dhl.com/jobs/, None, DHLSupplyChain | Careers
+https://psf.dhl.com/, Apache, DHL Parcelshop Finder
+https://fid.dhl.com/adfs/ls/?SAMLRequest=fZFNb8IwDIb%2FSuR721BA0IgWsSE0JCYq2u2wW5qmNFObsDhF%2B%2Fnr%2BNjYYRyjPPZrP57NP9uGHKVFZXQMA58CkVqYUul9DC%2F5ypvCPJkhb5vwwBadq%2FVOfnQSHekLNbLzTwyd1cxwVMg0byUyJ1i2eN6w0KfsYI0zwjRAFojSuj7q0WjsWmkzaY9KyJfdJobauQOyIBDc7o2Wzi%2FrxhemDb4zgizbAln2wUpzdxr2yleq%2FEF5WWHQYABkZayQp4FjqHiDEsh6GQMfDoQSdPxOJ8U4Gk%2BLqIgiGlVS7Ef1qGcw5YjqKH%2BrEDu51ui4djGENBx4dOLRUU4pG0zYMPQnw%2BgNSHrZ8kHps717SoozhOwpz1Mv3WY5kNfrFXoALs7ZKd3eyr7fmF8NQ%2FKfz1lw2zq5PP9eN%2FkC&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=PAJaEF%2Bo98W08j4TW7cL9pisTtr6LgtOUo1e5UQig8LmZmraGSuE7jY70tO2k7xhDh93KVecCUAFLvAaAetlQQhHnUra15QL%2FeSpBh79sHDkoSjS%2Bqmyjp90O0Qfl34%2F6m2W7fI1MRvpJn75wCSNMFe%2BCMjI9I4cRLYx8ggz8Vj8hFlRYh3htA3MqADI8ZTUAX3aJCC4PQ2Nyk8X81JwJjwGx7Afq6sFFw7XoeldFMVigDvmi2kuhTdfR%2B9CIbpTFCEi0SkkACiOo2uK0xRHROAMPJiZ5ZPeQ2cDSVp0fq%2FXPQMuXyzUv1VlWvrgTAYXpKCRXD2ZrD2z5uR9hVrfLA%3D%3D, Microsoft-HTTPAPI/2.0 Microsoft-HTTPAPI/2.0, Home Realm Discovery
+https://fid.dhl.com/adfs/ls/?SAMLRequest=fZHLbsIwEEV%2FxZp9XqaFyCJBtAgViQpEQhfdGcdJjBKbehzUz2%2FKo6WLsrR8Zu7MmfHks23IUVpURicQ%2BSEQqYUplK4S2OZzL4ZJOkbeNvTApp2r9UZ%2BdBId6Qs1svNPAp3VzHBUyDRvJTInWDZ9XTLqh%2BxgjTPCNECmiNK6PurZaOxaaTNpj0rI7WaZQO3cAVkQCG4ro6Xzi7rxhWmD74wgy1ZAZn2w0tydhr3ypSp%2BUF6UGDQYAJkbK%2BRp4ARK3qAEspglwAe7uK73RU33SpWxHFWPMS1FyffDaFj1DK45ojrK3yrETi40Oq5dAjSkkReOvPAhD0MWjdiA%2BvGAvgNZX7Z8Uvps756S3RlC9pLna2%2B9ynIgb9cr9ABcnLNTur2Vfb8xvxqG9D%2Bf4%2BC2dXp5%2Fr1u%2BgU%3D&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=e0U2e%2B9IebZ6d2HL8C0DmK1GqBgqxWce5uqBK6t7KIEthSMM7onSC3ykcnsQGJb3uA8k8TIsoMZEx18f2i9UNPAZ%2FAQLqEuwr%2FH5x%2BeSFP4fVRRjiwp5Bg2FaXOJpJRgLT%2FOdBtqVLFCPaKnTuaYc7YePWd8B1PJDmilIhaWOTlWl0o%2FgTZfQ4RkJM%2FejibRkPRHD%2BBrdumTCiZFcpKRPlAY6BUYGPBGcucG8%2BQ3FLbl%2BGAz8UsxLY39p%2FRsWnVIkii8GDtu8U%2FPZWiB6hRTWz1r9aOow47ru%2Fr%2FMKzy2PAIOtuJ%2FTk4c6fSN2CYrB%2BCDSWbmmU5xs9MFGBdxVZpag%3D%3D, Microsoft-HTTPAPI/2.0 Microsoft-HTTPAPI/2.0, Home Realm Discovery
+https://monitorce-test.dhl.com:443/Account/Login?ReturnUrl=%2f, None, Mobile Stops
+https://monitorce-test.dhl.com/Account/Login?ReturnUrl=%2f, None, Mobile Stops
+https://login.eloqua.com, None, 
+https://login.eloqua.com, None, 
+https://mstg-poc.dhl.com:443/, None
+https://diyshipment.dhl.com:443/, None, DIY Shipment
+https://dmac2-uat.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://routeopt-preprod-nl.dhl.com:443/, Apache, RoutiGo Dashboard
+https://routeopt-preprod-nl.dhl.com/, Apache, RoutiGo Dashboard
+https://idea.dhl.com:443/, Apache, 
+https://diyshipment.dhl.com/, None, DIY Shipment
+https://idea.dhl.com/, Apache, 
+https://webson.dhl.com:443/LogIn.aspx?ReturnUrl=%2f, Microsoft-IIS/8.5, LogIn
+https://webson.dhl.com/LogIn.aspx?ReturnUrl=%2f, Microsoft-IIS/8.5, LogIn
+https://uat.r2.mms.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://ltc.dhl.com:443/, Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips, LeadTime calculator, Nette Framework
+https://nisa.dhl.com/signIn/, , Nisa
+https://nisa.dhl.com/signIn/, , Nisa
+https://test-sp.dhl.com:443/, None, DHL POS System
+https://esharenew-auth.dhl.com:443/vpn/tmindex.html, Apache, Citrix Gateway
+https://ltc.dhl.com/, Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips, LeadTime calculator, Nette Framework
+https://test-sp.dhl.com/, None, DHL POS System
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?client_id=3daec030-3d53-48cc-9026-83a576a1f394&redirect_uri=https%3A%2F%2Fid.blackbay.com%2Fids%2Fsignin-DHLAzureAD-Prod&response_type=code&scope=openid%20profile%20&response_mode=form_post&nonce=637609546567340291.NzJlZjRiNzMtOGJhNy00NjA5LThlNjMtYjQzZjliYzE4MTk0MTEyNDk3ZWUtOTQ5MC00NjRmLTg0ZTctMzgyMjU2NDY4ZDNm&state=CfDJ8NiGDLRuD5lOn0oFzRuz48ElOMBHIwYsLT-jwUkxeE57_CMIahsNI9k1GKc9GGY2BYctHD8EA1h1a7P0BcycCMesUZofHn9s-AU0zsGDaP4TD-Xowdn5hLd87NQrLSWAL5qEBMYNPUwVojpauD1Z0b4qtc-Mudj5pnxZBQHt5e55LiXTd29ZLru7uEr_14DWr6Z74un8IC9x6bsvXJQF73Pb4y6XFbkOlO7USHqToG7UcXGlXa1Xp17ZSOxRP7whdLoqGK--ZQzyYZH2DDW3s5VJ2cp48wxN34TSbTvgPbzKRVyU1LJQkmhNSrWQoOK-nd4QN0rvJtrJk7QrvKfNOE5xnM3A-nWDjyOcY5AA4n1C98lYEqg4PaD9QewUb3VIrMCBlpVazc3_PRqRA1DxsPg-hktYhYaozZBof5KyECuyJ5RpU7hNFc7SQDN-zD8oG1O2nJ0JFDmKV6r-JANIq-c0QFEh8DnocA6FD5Q7K-IUXnfWqquLT9GNWyNFeLxhroK7YMW3ktRqy9UuhsnXwCVNBjb6CCM284izyclvawpcYvgnYBrFyEKoCY__1ZpHhpvBRuq_m4lYWTPeubD2Hv7gaRufZvR-4T3JCvDFStWxqRB93azM9plep774xlEqiROVyS8SpYbN45BbD9KwZ1PeLwrDCwbx7KEvQnLqq7rJHoPNq_34DC4GCOZ-wjowattI-OFje0QMY5pFbGT9ULg59xdbsoGaMzvsDRdMGMf-IH7HuRRTbERvvMaQ5YPa6-sit6nZKt9il9TJYpcIkCRM_2YkxINMlFB94vXs0602gi9nZF1ccPORyoAa4yGLslX4RIhZzAZvuDHnrI1ZJOod-w6-Etx1LLbJqIIYN424ucChbkY-fkTjlsMsNUR-l4VW1n6dSKrnIrNUMyQ58svAWuQeo99wI1DiXq76GIhSL9s5yeJgOv5sJdP-2Yf0zUuCh9OfxJ-A6cknidzyLEd39rtZ0ZwpK87iuu1bTJLhoiDEQjS1eM6lDZ1qVSky7STdNdS-4rZqAGf8Kt98EpsxA7UjP8opfa9aRvRA7KTmZHLUkkEGpreQigLLSn51fQFEwLxFtVeG-hDK-l82CB2uujNx2JnxVV160788-4IuFygwe-pwKpaGai7-GKYQVO0IsZcw7abfrLSqgkFSIWyCfvoJFoDACT_hPnfRsgzW6bgWNq8TZdstBHhBAAPJbschpAritwTpuBgEXtowW1Li5rLdop0Nsij6ahtv_ERVLMWsaVsQ4lEa-ITI9uPrWf55B-g4Pxsmz00qLk9AbJfX7rlQO49OC4Y-zYebj1sg&x-client-SKU=ID_NETSTANDARD1_4&x-client-ver=5.2.0.0, None, Sign in to your account
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=code%20id_token&scope=openid&response_mode=form_post&redirect_uri=https://mysupplychain.dhl.com/auth_msc/azure/login&client_id=aed32298-f9ba-4ea1-9656-26b5bd45ba7c&resource=https%3a%2f%2fdpdhl.onmicrosoft.com/c4787553-be87-4144-b296-ba69c6237faa&site_id=500879&nonce=34f8f5da-14b9-46ee-8c4b-e38415c30bf3, None, Sign in to your account
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=code%20id_token&scope=openid&response_mode=form_post&redirect_uri=https://mysupplychain.dhl.com/auth_msc/azure/login&client_id=aed32298-f9ba-4ea1-9656-26b5bd45ba7c&resource=https%3a%2f%2fdpdhl.onmicrosoft.com/c4787553-be87-4144-b296-ba69c6237faa&site_id=500879&nonce=832fc3bb-c64a-4f4c-95a3-8f411b4f4f47, None, Sign in to your account
+https://dctcloud-test.dhl.com:443/, Kestrel
+https://dctcloud-test.dhl.com/, Kestrel
+https://tnmiv.dhl.com:443/, None, null
+https://dgf-nog.dhl.com:443/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://dgf-nog.dhl.com/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://tnmiv.dhl.com/, None, null
+https://cvpn6a6.dhl.com:443/, None
+https://cvpn6a6.dhl.com/, None
+https://pwreset.dhl.com/default.aspx, None, DPDHL Self-Service Password Reset
+https://pwreset.dhl.com:443/default.aspx, None, DPDHL Self-Service Password Reset
+https://saturn.dhl.com:443/, Microsoft-IIS/8.5, DHL
+http://dhlsupplychainmatters.dhl.com:80/, AkamaiGHost, Invalid URL
+https://clearit.dhl.com/ords/f?p=1500:LOGIN_DESKTOP:11775668667169:::::, None
+https://clearit.dhl.com/ords/f?p=1500:LOGIN_DESKTOP:15569649169705:::::, None
+https://ptsonlinecloud.dhl.com:443/, None, PTS Online Services Login
+https://cara.dhl.com:443/login.jsp, None, Login
+https://cara.dhl.com/login.jsp, None, Login
+https://ptsonlinecloud.dhl.com/, None, PTS Online Services Login
+https://ecas.dhl.com/, myServer, Strona Testowa ecas.dhl.com.pl
+https://ecas.dhl.com:443/, myServer, Strona Testowa ecas.dhl.com.pl
+https://ecase-tst.dhl.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffidstaging2.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DjZJPb%252BIwEMW%252FSuR7EsewJbUIUha0WqRuGwHtoTfHnoAlx856HLr77RsC%252FXdo1av9Zn5v5s0cRWtYx8s%252BHOwG%252FvaAIfrXGov8%252FFOQ3lvuBGrkVrSAPEi%252BLf%252FccJZQ3nkXnHSGRCUi%252BKCdXTqLfQt%252BC%252F6oJdxvbgpyCKFDnqYgBUIcMCTqYBLp2tSKYyf2kChHotXA1lacmryVNFphEHtt9%252By1SKgGU4MpiX45L2H0XpBGGAQSrVcF2d4u6%252BlVzpisaV1PcnU9q6eyuWZZPvmR5Uzl%252BSDESiDqI7yVIvawtgPPhoIwyrKYzmI63VHKsxmf0mRCrx5JVF2m%252FqmtGox9vaL6LEL%252Be7er4upuuxsbHLUCfzuov7udB%252FA4bmZoShbzMR0%252BOvbvA%252FvajHhJiSxeqGqAQcd8gufAYuueTvB5%252Bh5xAXb8ZHm9qpzR8n9UGuOelh5EGMYIvocxkVaEz11kSTa%252BaBU3o5RDK7QplfKASNLFhfvxJBfP%26RelayState%3Dhttps%253A%252F%252Fecase-tst.dhl.com%252Fnavpage.do, ServiceNow, Express Case Management (e-CASE)
+https://ecase-tst.dhl.com:443/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffidstaging2.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DjZLLbsIwEEV%252FJfI%252BD4e3RZBSUFWklkZAu%252BjOiSdgybFTj0Pbv28I0MeiqFv7zpw7c2eKvFJxzdLG7fUaXhtA571XSiM7%252FSSksZoZjhKZ5hUgcwXbpA%252F3LA4iVlvjTGEU8VJEsE4aPTcamwrsBuxBFvC0vk%252FI3rkaWRhCwRF8hy4QexUUpgo1P9R8B4EwxFu0bKn5scl3SSkFOr6Tehd%252FFXFRYqgwJN6tsQV03hNScoVAvOUiIZvVfACiR0U%252BGU9GFPIx9OmY0smwPxxHeTnIe60QM44oD%252FBditjAUrc87RISRzH1o5Ef9bdRxOiI9aMgHvVeiJedp76RWrTGrq8oP4mQ3W23mZ89brZdg4MUYFet%252Br%252FbeQaL3WbapmQ27dJhnWP7M7DrZvglJTK7UEULgzq2AZ4C87V5O8Kn4U%252FEGVizo%252BXlIjNKFh9eqpR5m1vgrh3D2Qa6RCru%252FnZBA9q9SOGXnZRBxaVKhbCASMLZmfv7JGef%26RelayState%3Dhttps%253A%252F%252Fecase-tst.dhl.com%252Fnavpage.do, ServiceNow, Express Case Management (e-CASE)
+https://getsmartr-test.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://getsmartr-test.dhl.com/, Apache, DPDHL Enterprise Mobility Portal
+https://cdn-cj-gaq-staging.dhl.com/, None, DHL CX
+http://marketing.dhlsupplychain.dhl.com:80/, None, Problems occurred when retrieving your information
+https://cdn-cj-gaq-staging.dhl.com:443/, None, DHL CX
+https://retouropdracht-acc.dhlparcel-nl.dhl.com:443/, None, DHL Return Portal | 404 | Nederlands algemeen
+https://fmm-werkstattportal.dhl.com:443/, Apache/2.4.34 (Red Hat) OpenSSL/1.0.2k-fips, Werkstattportal
+https://marketing.dhlsupplychain.dhl.com:443/, None
+https://cvpn2v2.dhl.com:443/, None
+https://npa-ext-auth.dhl.com:443/vpn/tmindex.html, Apache, Citrix Gateway
+https://webplanning-lego-edc.dhl.com/Login.aspx, Microsoft-IIS/10.0, LEGO RDC Webplanning
+https://dmac-uat.dhl.com/smartr/, Apache, SMARTR Download
+https://cvpn2v2.dhl.com/, None
+https://vawidget-us.dhl.com:443/, UploadServer, DHL VA Widget
+https://webplanning-lego-edc.dhl.com:443/Login.aspx, Microsoft-IIS/10.0, LEGO RDC Webplanning
+https://vawidget-us.dhl.com/, UploadServer, DHL VA Widget
+https://api.cscm.dhl.com:443/, Apache, Index of /
+https://mydhlfreight-dev.dhl.com/se-en/home.html, Apache, Freight Customer Portal | Home | Sweden
+https://gsconnectcsm-dev.dhl.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DlVJdj9owEPwrkd%252FzKWjuLIKUgqoicTQCeg9929gbsOTYqddJ239%252FIUcLfbir%252BmrPzszO7IKg1VnHy96fzR6%252F90g%252B%252BNlqQ%252Fz1p2C9M9wCKeIGWiTuBT%252BUT1ueRQnvnPVWWM2CkgidV9asrKG%252BRXdANyiBX%252Ffbgp2974jH8YmENQaFF9SGEodInnUkbBsbGDo4YSQtC9ajBWXgwnWbbJT8AwbZUKwpZsEn6wRO1gvWgCZkwWZdsMNuhXUKkNVCQDOfp5DM82aW5cnDhxwfa1GnI5AqIFID3kaJetwY8mB8wbIkS8MkD5PZMUl4mvNZFuXz9BsLquvSH5WRypzeT6h%252BBRH%252FfDxWYfXlcJwIBiXR7Ub0f4bzjI6mYEZutlxMHfHJuLuv7X1P8LsrtvyX%252BCK%252Bl7gKdvzifLOurFbiV1BqbX%252BsHIIft%252FGux6mYFvzbLtIonV6UDJsJyrEFpUspHRKxeHnV%252Ffswly8%253D%26RelayState%3Dhttps%253A%252F%252Fgsconnectcsm-dev.dhl.com%252Fnavpage.do, ServiceNow, GSConnect
+https://gsconnectcsm-dev.dhl.com:443/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DlVLLTsMwEPyVyPckdmgptZpKoRWiEo%252BIFg7cjL1pLTl28DoB%252Fp6QltcBEFd7dmZ2ZmcoapM1vGjDzt7AYwsYoufaWOT7n5y03nInUCO3ogbkQfJ1cXnBs4TyxrvgpDMkKhDBB%252B3swllsa%252FBr8J2WcHtzkZNdCA3yNN2idNaCDBLrWEGXqJ1JpKtTK7pGbCFRjkTL3oK24o3rc7LS6gMsVIWpwZREZ85LGKznpBIGgUSrZU7WV4tMTbPx8TQ7GVFKmRDVGODo%252BKiS00nFmGQ9EEuBqDv4HEVsYWUxCBtyktGMxXQS09GGUs4mfJQlkzG7J1F5WPpUW6Xt9veEHvYg5OebTRmX1%252BvNQNBpBf6qR%252F8znDvwOATTc5P5bOiID8b919p%252B9yTeuyLzv8Rn6VeJg2DD35yvlqUzWr5EhTHuaeFBhH6b4FsYiqlF%252BNkFS9jwolVcDVAOtdCmUMoDIknnB93vhzl%252FBQ%253D%253D%26RelayState%3Dhttps%253A%252F%252Fgsconnectcsm-dev.dhl.com%252Fnavpage.do, ServiceNow, GSConnect
+https://dsccrmhelpdesk.dhl.com/, Microsoft-IIS/8.5, IIS Windows Server
+https://worldservicecentre.dhl.com:443/wscportal, None, Logon - SAP Web Application Server
+https://applinks.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://cz-wgp-te.dhl.com:443/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - TE Connectivity
+https://retup-git.dhl.com:443/, Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips, Index of /
+http://cargomovetracker.dhl.com:80/, Microsoft-IIS/10.0, IIS Windows Server
+https://mydhlfreight-dev.dhl.com/se-en/home.html, Apache, Freight Customer Portal | Home | Sweden
+https://worldservicecentre.dhl.com/wscportal, None, Logon - SAP Web Application Server
+https://cz-wgp-te.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - TE Connectivity
+https://applinks.dhl.com/, Apache, DPDHL Enterprise Mobility Portal
+https://fasttracklb.dhl.com/, Microsoft-IIS/8.5, Home Page - DHL FastTrack v.4.2.1
+https://cargomovetracker.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://www.dhl.de/de/privatkunden/pakete-empfangen/an-einem-abholort-empfangen/packstation-empfang.html, IPNP, DHL Packstation - Paket an eine Packstation senden lassen | DHL
+https://esharenew-auth.dhl.com/vpn/tmindex.html, Apache, Citrix Gateway
+https://www.dhl.de/de/privatkunden/pakete-empfangen/an-einem-abholort-empfangen/packstation-empfang.html, IPNP, DHL Packstation - Paket an eine Packstation senden lassen | DHL
+https://cvpn2v3.dhl.com:443/, None
+https://dmac-uk1.dhl.com:443/, Apache
+https://uat.r3.mms.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://eplato-tableau.dhl.com:443/, Tableau
+https://dmac-uk1.dhl.com/, Apache
+https://cvpn2v3.dhl.com/, None
+https://eplato-tableau.dhl.com/, Tableau
+https://sit.npnums.dhl.com:443/, Apache
+https://dgf-lrd.dhl.com:443/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://fasttracklb.dhl.com:443/, Microsoft-IIS/8.5, Home Page - DHL FastTrack v.4.2.1
+https://cvgtuggps.dhl.com:443/, None, CVG Tug Dispatch
+https://cvpn2a2.dhl.com:443/, None
+https://dgf-lrd.dhl.com/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://cvpn2a2.dhl.com/, None
+https://www.unsubscribe.dhl.com:443/, None, On Demand Delivery
+https://ftzinamazonuat.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://www.unsubscribe.dhl.com/, None, On Demand Delivery
+https://mipt4-ext-test.dhl.com/login.jsp, Manhattan Associates
+https://ftzinamazonuat.dhl.com/, Microsoft-IIS/10.0, IIS Windows Server
+http://dhlconnect.ia-reg.dhl.com:80/, None, Directory Listing For /
+https://cvpn4a1.dhl.com:443/, None
+https://cvpn4a1.dhl.com/, None
+https://dmac-uat.dhl.com/appcenter, Apache, DPDHL Enterprise Mobility Portal | Error
+https://idcs-11b744de6a7042a8bd8ce70520bda827.identity.oraclecloud.com/oauth2/v1/authorize?response_mode=form_post&response_type=id_token&scope=openid&state=CQFN2J9k1NDINlufavsDejyq26mJo0nr9CL8qVl6jPA&nonce=C_9UBqwybvsyUh5bTqMYJoiXy-llWnboYp_su7XTYjY&IDCS_IS_CLOUDGATE=true&X-HOST-IDENTIFIER-NAME=smartrocefrauat-smartr.cec.ocp.oraclecloud.com&idcs_app_name=C8000E48BDCB4CC5A7A784973BD685DB_APPID&policyAppName=C8000E48BDCB4CC5A7A784973BD685DB_APPID&policyAppTenant=idcs-11b744de6a7042a8bd8ce70520bda827&idcs_app_resource_url=https%3A%2F%2Fsmartrocefrauat-smartr.cec.ocp.oraclecloud.com%2Fdocuments&IDCS_CLIENT_TENANT=idcs-cloudservices-eucom-north-1&client_id=8613A5F0C681444EB931927BA87AA870_APPID&IDCS_CG_ENC=true&enc=kMHqt2r9WhnEAgAAigIAABAgigIAAHACAAAQAAZeG3ajhAyTEI6LOnqwXzruAZTPQrk20NiAOxEop9ekmIHGJCTHiYfEQzWgNjO68jRFqObMm_-llNg_pQGHPlpaKPnv0VF9vgJa1-_OJhd9RWV90LM2Yl36DeOlE_fBB5JmIIXA-_UQ2jQRPT9bawhcKXt26X54oyoTg8UUdBkiZSo86-iVATXS-xTjw7OAM4hIECR4G9LT47itatJMfqonLcrhqhhv0bweDOgAuU4XlbI6J1dQMDBBUAVZiWkrrlV7JIcADjHdMKIyIUYDK3YLWU0yfYw69AFRcGqkxivmupD3INw1MXSa8ABwLQvydqNzyXhh1veC5u0AnhcoAwLxBPdi1Yq9-b6yhZ5dmhmC9ZMUSrqpVGsoSCCrc_Dnj4cu1mjl3CkI8O0nlDckLO25rQzNv3dL0O-RIMALPQbLHJEx1XIIhw_XQt7h5oRtMEkzkSGYwTLYipY1Q7AvvdrKjmGah7In69knWS3e7ER_ZCwfhzi3XAWlNxMWo9wRLapHdRVkYMR9e0oKcLfHocOnJb6aYHLpyVkw3O3sUHsnfTFNG1qAaw-W2GTOzReve9JIxQy7bXSMWtt4qSuWkxDtx767Ze7ltoZA2fWyTcDF7qzMwFAOf-bh-jZ5im3NQBpqeWkLKxdSN54_RacklKhkAWnetvNbMJBWtzj_2TbFIMgHXgQTJwwy0Is4m0EsTx-T-sGuJ9UG3XQhRXqPnvXwQa04e524IlqqIL81THdaQak1nmr5brFF9GJQyRB5VRcuQEtN2zBSLQarJOdExIBfO2OjMNf7cr0bOO-_Ns9JsO51nYQ_X8FIKXdqCqrZLo0uRZRt67NTG-TjGsm_jCrkP3Jc8D36fCG-_HbAyF4jj36c3C5aFfY-_PxQ-GUvuYnwANP9AqukOdWc5heVbnA, Oracle Identity Cloud Service
+https://idcs-11b744de6a7042a8bd8ce70520bda827.identity.oraclecloud.com/oauth2/v1/authorize?response_mode=form_post&response_type=id_token&scope=openid&state=vMh4zKI6UuZHL_wH4x7CY27mzsiK6SrW9UIaCDpY0TY&nonce=4wXjfZD3iL0cnd1NwM9iANg-23V_dl5U3hx3WckeaQ8&IDCS_IS_CLOUDGATE=true&X-HOST-IDENTIFIER-NAME=smartrocefrauat-smartr.cec.ocp.oraclecloud.com&idcs_app_name=C8000E48BDCB4CC5A7A784973BD685DB_APPID&policyAppName=C8000E48BDCB4CC5A7A784973BD685DB_APPID&policyAppTenant=idcs-11b744de6a7042a8bd8ce70520bda827&idcs_app_resource_url=https%3A%2F%2Fsmartrocefrauat-smartr.cec.ocp.oraclecloud.com%2Fdocuments&IDCS_CLIENT_TENANT=idcs-cloudservices-eucom-north-1&client_id=8613A5F0C681444EB931927BA87AA870_APPID&IDCS_CG_ENC=true&enc=d0SNJT4A4e_EAgAAigIAABAgigIAAHACAAAQADlyvVwYr2D0NLSMEFstXQ0FqBlb3SVh6NyjOuOCw2LMHwmAoCPrSEtsEsZZLD03jfDv8BFOZaVctPt0PCoo5iOvo8C--qSaCElDpgXSq4TWeFJa-3oSt-K3SE_FhE-HTmxnl4NoElPEqLBW0mlhDdFLHDqLdvwf_Nm2vNAyPNR2_0q1IGyl148zZyYe44bJn_V0NnzfM6no6YB67q3MQx8X-sRMvQGThAu0uScCv_SnybkUpFKdc8Vtn8QjoWL9wILdH-KCi5_uyQ7v6hbKNdi1TRtkfR_kPaeSZWEVom93KqhWs8fonZSEbjbqfxrei23jBxbXXrnvDEEPckr6CpQ8MOgQtVzoMXlclsf3EC8osXN38IIOw71SCeGS4i4anX3s9fcWSMXGzyaj17dG6pC8v9u_6Zc6d6w5iqG8fTSKXFLQY2pLym3dfymHBA0u8hvAM149HeQCzQcbhwzuPajK0BNuA1mdRC9APrQRYZo4IHjUZ_3-JseYwnt-jRizzIN-nNB0h6zEMNDw93AFXV5aVFotjEO0EDWLTVEuVKjufKnLTA66hKUHg0IY2dpwi-rQ4XeAi94joH-d77AjalY03RlByjDyIWkXI5wvtifQ6yvCiv9K57l7EHTKZwuhkSQXyPy1wE_G02VbSDhOW_OLPt01LJ0InKSnsITr9VXpQm8UL69_UUluxSsYESqzg9CnL2pvMT5xgUxbuJ-qjViF2oXqmfIlYtTbP_Zh6BGYtavBkTrDPA2XUkwFBvL6dDyo4hvqi6uOGR-I6oWC6emEF5h7ibMdc0AZavoXlEQhZ_vG0l76M8aXZ7NTrGHtxANwd6WJLWq7zxYi59FX8omZNSa9K3KZUY1zxFbTrelCrMDoiX1zcbE4O6KQqatFUYmycpUTGTSquohMNQ4bFis, Oracle Identity Cloud Service
+https://ptsonlinetest.dhl.com/, None, PTS Online Services Login
+https://ptsonlinetest.dhl.com:443/, None, PTS Online Services Login
+https://dmac-uat.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+http://cyclone-eu-prod.goce.dhl.com:80/, Apache-Coyote/1.1, Shared Partner Gateway
+https://mysctrackandtrace.dhl.com:443/, Apache, MySupplyChain Track & Trace
+https://dmac-e1.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://dmac-e1.dhl.com/, Apache, DPDHL Enterprise Mobility Portal
+https://aimsecrew-dhx.dhl.com:443/, None
+https://mysctrackandtrace.dhl.com/, Apache, MySupplyChain Track & Trace
+https://digitalassistant.dhl.com:443/, UploadServer, DHL VA Widget
+https://digitalassistant.dhl.com/, UploadServer, DHL VA Widget
+https://cvpn4b8.dhl.com:443/, None
+https://aimsecrew-dhx.dhl.com/, None
+https://idcs-11b744de6a7042a8bd8ce70520bda827.identity.oraclecloud.com/oauth2/v1/authorize?response_mode=form_post&response_type=id_token&scope=openid&state=9dj5n_zCEdpaKJ3hFxT9EFg5OLdHpF-uR6S11_hVFtA&nonce=iiFJcay2yhY7ZvAQixi90WtxBg1ywBRqJ8Ii4lEgLo4&IDCS_IS_CLOUDGATE=true&X-HOST-IDENTIFIER-NAME=smartrocefraprod-smartr.cec.ocp.oraclecloud.com&idcs_app_name=B5296FBFAAA54E7893F8CF8EE9D7D676_APPID&policyAppName=B5296FBFAAA54E7893F8CF8EE9D7D676_APPID&policyAppTenant=idcs-11b744de6a7042a8bd8ce70520bda827&idcs_app_resource_url=https%3A%2F%2Fsmartrocefraprod-smartr.cec.ocp.oraclecloud.com%2Fdocuments&IDCS_CLIENT_TENANT=idcs-cloudservices-eucom-north-1&client_id=3901CB052640461393B10E734C536F6D_APPID&IDCS_CG_ENC=true&enc=upPc0o_VkiTEAgAAigIAABAgigIAAHACAAAQANqFyT6yiEAaqrYxeKwXDDKUjP3AFTiUV78BzuVvoxPRMaFkIicRoN3U8sWmOaktB1ph7xiP0BNFBVLYjXlHuAaZxRNxdM3lZiaprILPQ8zFFMM4WfAB0-rSoj2JkUJr6YEWusaC7dt8HcWB4RwfY00vnt46qzQVhoR_FfiObUePI2dZD5Avs9Q5eX4YUUN57EddAvnfV3QvwhJDQybW4TxpvKq3oG6CMuZM8E6GQAWma9TvdIfQl4-HmvD5eQNH27GKGS13Tz4933cie3DZl0ZPZY7aJXPlePJiRGCPEnsJZMI-soxXw7w3QamTfbyeSDSQNsD6ndZlRTSNbZgI3qSB8dif0bgtCLlATABbRbJ4gYFVUc1hRCR9s6kp0fDkY1AiPMSUxaAhALtk6JLM0TjMMvCvY8IZF1FRhuo4631RqE5sXT47xvkiz47YoHE42pQJQI4YwqRdplx9J_JOFGvTsBFgzwSbFiFRRDi4MjZf8yX2aXTGKu0vM3UMDsHYdbV6dJrMPchEx1TWxEokV0oFKpndyF5diOWKn4INgeZCrCXfQGBD56Ctpc8s8F0Pw362X_gE64qlNrum7o-u_VVUIjQnlvoGfAvfwRFnck4C1AQJH2O3ScT7o1tQzIxsPvxML33qsobkdwCNr3ZXhEYUSiDPvZipMQMTVihD4iuniaety8a7tn0BDKYfzEDFuzY8ENzyu4ao4tNr8AGHj71MIx2ewXSwRXehgdPcDbyYcAVoAtH2kuwi-UlT0_vqLpZFlMUTJn2dXULnOSXzBOpfHYEw_mJk0j4n2Q5JSVaEFKTfaJeZ6gw2yERXN7u32e-g1okTruQpR6Cs00U5i1yC4OUyHr6Vci7Nfp-ZnZl0j0REn9_dShH3ozBqBpyOBBBAY1Ulm2PoapRKIMfwYA0, Oracle Identity Cloud Service
+https://idcs-11b744de6a7042a8bd8ce70520bda827.identity.oraclecloud.com/oauth2/v1/authorize?response_mode=form_post&response_type=id_token&scope=openid&state=2BcOwu-8DJ2LF-5Bc7OCMQ0HAFPWblfDQ9Az0vSel1U&nonce=JZyIfv_LdNHzFq2J8EvSBwz7y-MMTJE93HucetXyCUs&IDCS_IS_CLOUDGATE=true&X-HOST-IDENTIFIER-NAME=smartrocefraprod-smartr.cec.ocp.oraclecloud.com&idcs_app_name=B5296FBFAAA54E7893F8CF8EE9D7D676_APPID&policyAppName=B5296FBFAAA54E7893F8CF8EE9D7D676_APPID&policyAppTenant=idcs-11b744de6a7042a8bd8ce70520bda827&idcs_app_resource_url=https%3A%2F%2Fsmartrocefraprod-smartr.cec.ocp.oraclecloud.com%2Fdocuments&IDCS_CLIENT_TENANT=idcs-cloudservices-eucom-north-1&client_id=3901CB052640461393B10E734C536F6D_APPID&IDCS_CG_ENC=true&enc=z6J5R3AwsvLEAgAAigIAABAgigIAAHACAAAQAG8VsNtcNeJ4JhAArmQwtOaK-f9CQ2QXQz2r_RB8CDLQsRfQCKyc6NXs1m1TIs8AEc_1VNg37-__pKk1t3uK-PYpeSns8baWG7DviKqs02ua6vkcLXKNIabjocGN3UpE-KG3oAvi4L69pNu4eE3LldnHc2ssD6FJT7EW4FD4nOLTKcyyjJJsZdkutb1pKXYFXXB5KI-oeLy4fPQPdW2ynPnsiW7BXFYrwruGNfM2T9n7NvozCgLOJWdMAG7eIECkwP2TIV_nr-5UGXTOvx0ctcrx9Mcc_0ajOgz5eivKPnb2ZYYmHklXSGbcwROpu0XFoCy29Ec9XprV5-IiGDfv6P7XyQhf_59S8uIK-gQDGZuNagYGikwHadqJD5WojVMfXUcaX3eWxIIGgpbDh85d3UnFbX42YObuC_Meuf0h3SQKqDoWmsgPtDlvOrZRR5maN3tDUg713ANCUmLkDbShlmQn5HwbTCb9OUsbZ_x7RS2V3WiusaTcG9BEoxqdmNqu0nlsADOtWjFXM42kjNApjNLgsg0Rz4OI5iZKC8C4HLXKEoRJuQo-6ZO0LozqBjCq6HMPtGnHzlICj3rJ68DJPTR9JxwwaZut3NZ3EF0I6ChV_givNyTmBNInLjzBqzrZWPVJLt2kUC8mQV7QgAV3FjoRRxwAriVnGL8M_T4g2CFB8NRukNLHev5yilpoC2Sjqfa9o4JZDN0Eb75aNWv3-XFzA2Pemzu2lPpKzCJX9inh2kcs42oGECHioIasNkmrhlb6bnYSI63s8FxsF-ySql-b5gS1xzzeyYXs9nNcvrK3TajJv52JgURmk6BiyCnoMs1PDqib6k0ogueOQM7hxIcu8IZA6k-JaihjqacF5E_2NlnJggTB4GUj32irkoXyc2HKjxjIvSjrMXKARu-iMiw, Oracle Identity Cloud Service
+https://fr.tislog-test.dhl.com:8443/frontend2/build/, Microsoft-IIS/8.5, TISLOG Office
+https://fr.tislog-test.dhl.com:443/frontend2/build/, Microsoft-IIS/8.5, TISLOG Office
+https://cvpn2a3.dhl.com:443/, None
+https://cra-api-dmz-dev.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://cz-wgp-aut.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Automotive
+https://cvpn2a3.dhl.com/, None
+https://cz-wgp-aut.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Automotive
+https://demandmanagement.dhl.com:443/, None
+https://demandmanagement.dhl.com/, None
+https://webschneider.dhl.com:443/, Microsoft-IIS/8.5
+https://webschneider.dhl.com/, Microsoft-IIS/8.5
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=code%20id_token&scope=openid&response_mode=form_post&redirect_uri=https://mysupplychain.dhl.com/auth_msc/azure/login&client_id=aed32298-f9ba-4ea1-9656-26b5bd45ba7c&resource=https%3a%2f%2fdpdhl.onmicrosoft.com/c4787553-be87-4144-b296-ba69c6237faa&site_id=500879&nonce=0b06c8a9-66ce-4c16-86f3-2da10ddb5346, None, Sign in to your account
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=code%20id_token&scope=openid&response_mode=form_post&redirect_uri=https://mysupplychain.dhl.com/auth_msc/azure/login&client_id=aed32298-f9ba-4ea1-9656-26b5bd45ba7c&resource=https%3a%2f%2fdpdhl.onmicrosoft.com/c4787553-be87-4144-b296-ba69c6237faa&site_id=500879&nonce=320111b1-b443-4782-95a3-d99ae6418103, None, Sign in to your account
+https://yourself.dhl.com/Account/Login, Microsoft-IIS/10.0, Log in - yourself
+http://dct.dhl.com:80/, None, DCT
+https://dct.dhl.com:443/, None, DCT
+https://api-qa.parceleurope.dhl.com/common/v1/apidoc/, , DHL eCommerce APIs
+https://monitor.plato-zeno.dhl.com:443/Account/Login?ReturnUrl=%2f, None, Mobile Stops
+https://monitor.plato-zeno.dhl.com/Account/Login?ReturnUrl=%2f, None, Mobile Stops
+https://api-qa.parceleurope.dhl.com/common/v1/apidoc/, , DHL eCommerce APIs
+http://app.supplychain.dhl.com:80/, None, Problems occurred when retrieving your information
+https://needcz.dhl.com/, Microsoft-IIS/10.0, 
+https://needcz.dhl.com:443/, Microsoft-IIS/10.0, 
+https://cdn-cj-gaq.dhl.com/, None, DHL CX
+https://metis.dhl.com:443/hubVP/default.asp?category=SuMSwebmenu, Microsoft-IIS/10.0, DHL - DHL Supply Chain
+https://app.supplychain.dhl.com:443/, None
+https://metis.dhl.com/hubVP/default.asp?category=SuMSwebmenu, Microsoft-IIS/10.0, DHL - DHL Supply Chain
+https://aimsecrew-bcs-uat.dhl.com:443/, None
+https://proviewcert-v2.dhl.com/proview/welcome, Apache, DHL ProView:Registration
+https://cdn-cj-gaq.dhl.com:443/, None, DHL CX
+https://se.infodesk-freight.dhl.com:443/frontend2/build/, None, TISLOG Office
+https://dsctransport-confluencedev.dhl.com/login.action?os_destination=%2Findex.action&permissionViolation=true, None, Log In - Confluence
+https://dsctransport-confluencedev.dhl.com:443/login.action?os_destination=%2Findex.action&permissionViolation=true, None, Log In - Confluence
+https://aimsecrew-bcs-uat.dhl.com/, None
+http://com.dhl.com:80/, Microsoft-IIS/10.0, IIS Windows Server
+https://cvpn-exp1a.cn.dhl.com:443/, None
+https://com.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://unsub.dhl.com/, None, On Demand Delivery
+https://dsctopapac01test.dhl.com, None
+https://unsub.dhl.com:443/, None, On Demand Delivery
+https://dsctopapac01test.dhl.com, None
+http://xmlpitest-e2e.dhl.com:80/, None, XML PI
+http://xml-api.test.dhl.com:80/, None, XML PI
+https://lyncdiscover.dhl.com:443/, None
+https://xmlpitest-e2e.dhl.com:443/, None, XML PI
+https://deil.infodesk-freight.dhl.com:443/frontend2/build/, None, TISLOG Office
+https://bpwebordering.dhl.com/, Apache/2.4.6 (Red Hat Enterprise Linux), Nothing to see here, move along.
+https://xml-api.test.dhl.com:443/, None, XML PI
+https://bnl.tislog-test.dhl.com:8443/frontend2/build/, Microsoft-IIS/8.5, TISLOG Office
+https://bnl.tislog-test.dhl.com:443/frontend2/build/, Microsoft-IIS/8.5, TISLOG Office
+https://bpwebordering.dhl.com:443/, Apache/2.4.6 (Red Hat Enterprise Linux), Nothing to see here, move along.
+https://cvpn2v4.dhl.com:443/, None
+https://dgfuscdzcbss.dhl.com/support/home, None, Support : US Customs Services
+https://ecom4you.dhl.com:443/, Apache/2.4.46 (), DHL Ecom4You - Login
+http://supplychain.dhl.com:80/, None, Redirecting...
+https://cvpn2v4.dhl.com/, None
+https://dgfuscdzcbss.dhl.com/support/home, None, Support : US Customs Services
+https://www.delivery.dhl.com/, None, On Demand Delivery
+https://www.delivery.dhl.com:443/, None, On Demand Delivery
+https://monitor-test.plato-test.dhl.com:443/Account/Login?ReturnUrl=%2f, None, Mobile Stops
+https://odd-staging.dhl.com:443/, None, On Demand Delivery
+https://mysctrackandtrace.dhl.com/, Apache, MySupplyChain Track & Trace
+https://odd-staging.dhl.com/, None, On Demand Delivery
+https://dhlapp-a9001-qa.dhl.com/, Apache
+https://extweb.dhl.com/, Microsoft-IIS/8.5, Deutsche Post DHL | External Access
+https://otp-prg-prod.dhl.com:443/vpn/index.html, Apache, Citrix Gateway
+https://swisstime.dhl.com:443/, None
+https://needsk.dhl.com:443/, Microsoft-IIS/10.0, 
+https://needsk.dhl.com/, Microsoft-IIS/10.0, 
+https://cvpn4a1.dhl.com/, None
+https://mysctrackandtrace.dhl.com/, Apache, MySupplyChain Track & Trace
+https://iws.dhl.com:443/, Apache, DHLOrum
+https://cvpn4a1.dhl.com/, None
+https://dgf-elp.dhl.com:443/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://dhlapp-a9001-qa.dhl.com:443/, Apache
+https://iws.dhl.com/, Apache, DHLOrum
+https://cvpn4b3.dhl.com:443/, None
+https://dgf-elp.dhl.com/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://cvpn4a2.dhl.com:443/, None
+https://dsc6stars-aca.dhl.com:443/, None, My webMethods: My webMethods Login Page
+https://cvpn4b3.dhl.com/, None
+http://view.csi.dhl.com:80/Error.aspx, None, Error
+https://cvpn4a2.dhl.com/, None
+https://mobilefleet.dhl.com:443/, Microsoft-IIS/8.5, BizSpeed MobileHub
+https://spdp-test.dhl.com:443/, Apache, MyDHL Service Point Web Application
+https://view.csi.dhl.com:443/Error.aspx, None, Error
+https://ecase-trn.dhl.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffidstaging2.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DjZLNTuswEIVfJfI%252BiRNStbKaSqEVohI%252FEe1lwW6IJ60lxw4ep3Df%252FrppucACxNY%252BM9%252BZOTMn6HTei2rwe%252FOALwOSj946bUicfko2OCMskCJhoEMSvhGb6vZG5AkXvbPeNlazqCJC55U1S2to6NBt0B1Ug38ebkq2974nkabYAGHsnUnkXieN7VIDhx52mEjLolVgKwPHJh8lrZLkYafMLv9fBLKlVFPKoivrGhy9l6wFTcii9apkm7tlW8hJm%252BWTHIsLnk%252Bh4NPieSIRYVYg8CIIqQYidcCPUqIB1ybwjC9ZzvMs5tOYF1vORTYTFzyZZrMnFtXnqS%252BVkcHYzyt6PolIXG%252B3dVzfb7Zjg4OS6O6C%252BrfbeURH42ZCU7aYj%252BmI0bH7HNjPZuA9JbZ4pwYWIpF3u4ROkcXGvh7x8%252FQz5IzsxdH0elVbrZq%252FUaW1fV06BB8G8W7AMZMO%252FPc%252BsiQbX5SM21EqsAOlKyld8MHSxZn79SgX%252FwA%253D%26RelayState%3Dhttps%253A%252F%252Fecase-trn.dhl.com%252Fnavpage.do, ServiceNow, Express Case Management (e-CASE)
+https://ecase-trn.dhl.com:443/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffidstaging2.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DjZLLTsMwEEV%252FJfI%252BiZMWXFlNpdAKUYlHRAsLdm48aS05dvA4Bf4eNy2vBYitfWfOnbkzRdHqvONl73fmHp57QB%252B9ttogP%252F4UpHeGW4EKuREtIPc1X5U31zxPKO%252Bc9ba2mkQlIjivrJlbg30LbgVur2p4uL8uyM77DnmaQi0QYu9MInc6qW2bGrHvxBYSaUm0CGxlxKHJV0mjJHqxVWabfxYJ2WCqMSXRpXU1DN4L0giNQKLloiCr27msG5azczbe5GebbLSRE5o3bDIWjFHKRlkQYiUQ1R6%252BShF7WJrAM74gOc2zmLKYjteU8mzCRzRh2fiJRNVp6gtlZDD294o2RxHyq%252FW6iqu71XposFcS3G1Q%252F3c7j%252BBw2ExoSmbTIR0%252BOHbfA%252FvbjPhIicw%252BqIEFgOjdNsFjZLGxLwf8NP0OOSE7fjC9XFRWq%252FotKrW2L3MHwodBvOthyKQV%252FncfWZINL0rGzSDl0AqlSyld8EHS2Yn78yhn7w%253D%253D%26RelayState%3Dhttps%253A%252F%252Fecase-trn.dhl.com%252Fnavpage.do, ServiceNow, Express Case Management (e-CASE)
+https://cvpn2v1.dhl.com/, None
+https://cvpn2v1.dhl.com/, None
+https://spdp-test.dhl.com/, Apache, MyDHL Service Point Web Application
+https://migfac02test.dhl.com:443/, None, OTM - Oracle Transportation Management
+https://cz-wgp-kontoor.dhl.com:443/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Kontoor
+https://www.everstream.ai/, Sucuri/Cloudproxy, Everstream Analytics End-to-End Supply Chain Risk Management Solutions, WordPress 5.7.2, Powered by Slider Revolution 6.4.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.
+https://cz-wgp-ost.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Automotive Ostrava
+https://vawidget.dhl.com:443/, UploadServer, DHL VA Widget
+https://vawidget.dhl.com/, UploadServer, DHL VA Widget
+http://cyclone2-eu-qa.dhl.com:80/, Apache-Coyote/1.1, Cyclone - DHL Gateway is available
+https://cvpn4b7.dhl.com:443/, None
+https://cz-wgp-ost.dhl.com:443/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Automotive Ostrava
+https://mysctrackandtrace.dhl.com/, Apache, MySupplyChain Track & Trace
+https://sso.mydhl.express.dhl/index.html, Apache, Nevis Security Proxy - Welcome
+https://sso.mydhl.express.dhl/index.html, Apache, Nevis Security Proxy - Welcome
+https://del.dhl.com:443/, None, On Demand Delivery
+https://dgf-san-dev.dhl.com:443/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://mysctrackandtrace.dhl.com/, Apache, MySupplyChain Track & Trace
+https://latameshop.dhl.com/, Apache, DHL LATAM eSHOP  - Latin American Largest Online Shopping Platform
+https://dgf-san-dev.dhl.com/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://del.dhl.com/, None, On Demand Delivery
+https://latameshop.dhl.com/Chrome_checkout/, Apache, DHL LATAM eSHOP
+https://mipt6-ext-test.dhl.com/login.jsp, Manhattan Associates
+https://www.packet.deutschepost.com/webapp/, Apache, Login
+https://deliverit.dhl.com:443/, None, Guest | Welcome | DHL | Deutschland | DELIVER IT
+https://aid.dhl.com:443/, None
+https://www.packet.deutschepost.com/webapp/, Apache, Login
+https://wsactivetracing.dhl.com/ACT3DShipmentTracking/, Apache-Coyote/1.1
+https://aid.dhl.com/, None
+https://wsactivetracing.dhl.com/ACT3DShipmentTracking/, Apache-Coyote/1.1
+https://mysupplychain-meg.dhl.com:443/, Apache, 
+https://novedades.dhl.com:443/, Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.4.11, DHL - Pago de Demoras
+https://mysupplychain-meg.dhl.com/, Apache, 
+https://novedades.dhl.com/, Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.4.11, DHL - Pago de Demoras
+https://cz-wgp-syr.dhl.com/Login.aspx?ReturnUrl=%2f, Microsoft-IIS/10.0, Login
+    -
+    Web Gate Planning - TE Connectivity (Syrovice)
+https://cz-wgp-syr.dhl.com:443/Login.aspx?ReturnUrl=%2f, Microsoft-IIS/10.0, Login
+    -
+    Web Gate Planning - TE Connectivity (Syrovice)
+https://cvpn4t1.dhl.com:443/, None
+https://css.dhl.com:443/, None, Server Login
+https://cvpn4t1.dhl.com/, None
+https://www.r2.tms.dhl.com:443/, None, Request Rejected
+https://dgf-san.dhl.com:443/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://parceirossvp.dhl.com:444/, None, - Service Point Invoices
+https://cdn-cj-gaq-dev.dhl.com:443/, None, DHL CX
+https://cdn-cj-gaq-dev.dhl.com/, None, DHL CX
+https://dgf-san.dhl.com/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://developer.dhl.com/, , DHL Group API Developer Portal | DHL API Developer Portal
+https://esharenew-auth.dhl.com/vpn/tmindex.html, Apache, Citrix Gateway
+https://ewmsi2.dhl.com/webgui, None, Logon - SAP Web Application Server
+https://cvpn4b4.dhl.com:443/, None
+http://campaignsign.dhl.com:80/, Caddy, nginx/1.19.6
+https://dsctransport-jira.dhl.com:443/, None, System Dashboard - Jira DHL
+https://cvpn4b4.dhl.com/, None
+https://ewmsi2.dhl.com:443/webgui, None, Logon - SAP Web Application Server
+https://dsc-tracking.dhl.com:443/, WebSphere Application Server/8.0, Track&Trace
+https://dsc-tracking.dhl.com/, WebSphere Application Server/8.0, Track&Trace
+https://dsctransport-jira.dhl.com/, None, System Dashboard - Jira DHL
+https://aviationcargo.dhl.com:443/, None, Home | Aviationcargo
+https://tgv.dhl.com:443/, None, Total Global Visibility
+https://campaignsign.dhl.com:443/, Caddy, nginx/1.19.6
+https://tgv.dhl.com/, None, Total Global Visibility
+https://aviationcargo.dhl.com/, None, Home | Aviationcargo
+https://deliveryconnect.dhl.com:443/UserArea/Account/LogOn?ReturnUrl=%2f, Microsoft-IIS/8.5, 
+https://woasnew.dhl.com/, Microsoft-IIS/10.0, IIS Windows Server
+https://webapp.cz.dhl.com:443/, nginx, PÅeprava paletovÃ½ch zÃ¡silek | DHL | ÄeskÃ¡ republika
+https://cz-wgp-sky.dhl.com:443/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - SKY
+https://cz-wgp-sky.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - SKY
+https://www.r2.mms.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://analytics.dhl.com/, , Web Analytics - Data. Simply delivered.
+https://analytics.dhl.com:443/, , Web Analytics - Data. Simply delivered.
+https://meet.dhl.com:443/, None, Skype for Business Web App
+https://fr.infodesk-freight.dhl.com:443/frontend2/build/, None, TISLOG Office
+https://mybill.dhl.com:443/login/, Apache, DHL MyBill
+https://www.everstream.ai/, Sucuri/Cloudproxy, Everstream Analytics End-to-End Supply Chain Risk Management Solutions, WordPress 5.7.2, Powered by Slider Revolution 6.4.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.
+https://developer.dhl.com/, , DHL Group API Developer Portal | DHL API Developer Portal
+https://flysmart.dhl.com:8443/, None, Welcome to WildFly 11
+https://mybill.dhl.com/login/, Apache, DHL MyBill
+https://cdzvisibility.dhl.com/ords/f?p=100:LOGIN_DESKTOP:17294514974931:::::, Apache-Coyote/1.1, Visibilidad - Log In
+https://cvpn6a2.dhl.com:443/, None
+https://www.everstream.ai/, Sucuri/Cloudproxy, Everstream Analytics End-to-End Supply Chain Risk Management Solutions, WordPress 5.7.2, Powered by Slider Revolution 6.4.2 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.
+https://woasnew.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://proview.dhl.com/proview/welcome, None, DHL ProView:Registration
+https://fec-carlo-test.dhl.com/s, Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16, FoodLogistics Event Capture
+https://cdzvisibility.dhl.com/ords/f?p=100:LOGIN_DESKTOP:7542441078547:::::, Apache-Coyote/1.1, Visibilidad - Log In
+https://cvpn6a2.dhl.com/, None
+https://cz-wgp-aut.dhl.com:443/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Automotive
+https://cz-wpt-lego.dhl.com:443/Login.aspx, Microsoft-IIS/10.0, LEGO RDC Webplanning
+https://proview.dhl.com/proview/welcome, None, DHL ProView:Registration
+https://cz-wgp-aut.dhl.com/Login.aspx?ReturnUrl=%2f, None, Login
+    -
+    Web Gate Planning - Automotive
+https://cz-wpt-lego.dhl.com/Login.aspx, Microsoft-IIS/10.0, LEGO RDC Webplanning
+https://fec-carlo-test.dhl.com/s, Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16, FoodLogistics Event Capture
+https://supplychainbi.dhl.com/sci/, None
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://developer.dhl.com/, , DHL Group API Developer Portal | DHL API Developer Portal
+https://developer.dhl.com/supplychain, , DHL Supply Chain | DHL API Developer Portal
+https://servicepoint.mydhl.express.dhl/, Apache, MyDHL Service Point Web Application
+https://dev-elogplusap.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://servicepoint.mydhl.express.dhl/, Apache, MyDHL Service Point Web Application
+https://dev-delldn.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://dellem.dhl.com:443/, None, IIS Windows Server
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?client_id=c0604e90-2d4e-4ddb-8ff8-7af55833ea20&redirect_uri=https%3A%2F%2Fid.blackbay.com%2Fids%2Fsignin-DHL-UAT-AzureAD&response_type=code&scope=openid%20profile%20&response_mode=form_post&nonce=637609547864886759.ZTk5MzJmOGEtN2RhZC00NjhlLTk1N2ItZTg1NTRhNjFmZWQwMGQyYWI3NWYtMWVjOC00N2NhLWE2NDEtYzk2MWExOTU3MWIx&state=CfDJ8NiGDLRuD5lOn0oFzRuz48GzReRmVnOwZRy_1ggTTcS-6j_Vt0y4OsyBou9sZHjFK5TQ9J9yH00GJaDtl3eBMQgAFzBng5APdnMmHc8cYQgsxmsKZAoVMqLA5dkbvf_SN_WGIGIbLlP-PXUUWbAT7_qXK7COCSwHWWUAFx7BT484fzYD-Tf0yyUYMpngY6CwoTZgNP4QMya3A4HDuvjdGsELgSRsQBgzGlnHIv4ZvZXIfvunxm_KrE-Xr6hXI-qhi-_2b2J28-ZQ8M1Dak92PPJRSymfdYzr_QhFVvVcYLjfQBeaxSh3wfb8sxZSGgXUBUZtwy7tp7APi03wEgfc_Bp7CgcCLSj_v-REe6wmtnQNxTvwI4YOXJfMHHJdTs_PbaalnSGkM7IGoM7-K4OL4zLEgFwdx9FaV7elbTSqkDuaUGXCs5BlPawbvyQO1BCuNxxQNtkpycIihuI7i4P8gmwkf-x4VueDqDEwweNvIKRS8hm4ekWH_Idmvv48QN19brNpRHmZsRB9G7OGaBPkrc4pyDc2n3EtJdqewC4enW8Px0Zyb9f6zxSuDC4Gzi1IkGY8SdOpmMNWQIztueg-yKOeFeQS8sDckGHWGadquEc9nBoC6fCzUU9AmOV_EZYR-FpWbED8o9USimESREiJ1GaXfz0yBlnuuSlkt0S-cNZbEI1aNR7FCb0sI5B-iesSg4INkmzNbho3bzsUQJXGoR7Jkt3v4s-juN2BpOlGgvmvL4TiM1qWEzY1euPp375KLsRdmDUn5xW62sq_e1-IO8BAW4fDX33vNFLRHUfYweP-BCUn0V8gHKJrT0eChryB5BoeRlAx52FNFlzzkGLq9xcpd5R3SpnAera903FvMJZK4XDDJsByu6eZlTDhza8R40v53o5CLsDr_q3SnOPf4OozRLhlq2wl3H2Ym97uSPRrYi6yN6WTgr65jL3RbtpcH8c0bH0yz63Z6bUpqsJfybH25Q2oACafCGQR5vRUhzRapIb0d47GyCEyI_N15vw7kJVnX8DMeOsUdj59goZYHwdW9LeZftuJ-xybUh-I_acE1f2MazjoTGIMWasG6lj8O9EtePUcSL5cRjZQz9XRTS4G4TPZfew-ztqTlrgLI8wwymuWBGJdgW-V3iH53tiAvXA-Veb2dcNbM5rRNKObG0Zp1dc4mGLfTCQcsK8-fa_6utx20N3kS1o8Z1fR57MdfDuOjKRFJnLm82T6pkg2eaFWsOKYdqlnnsU8igDExSJ6KvFpcOF-OXSgneZ7zemeZQ6PXlgkscwQCM5laKbLnR4b3nYfsUk--qII1mpxFcoBn7klnD6GOoC3GYDsRaiN-w&x-client-SKU=ID_NETSTANDARD1_4&x-client-ver=5.2.0.0, None, Sign in to your account
+https://supplychainbi.dhl.com/sci/, None
+https://dev-delldn.dhl.com/, Microsoft-IIS/10.0, IIS Windows Server
+https://dev-elogplusap.dhl.com/, Microsoft-IIS/10.0, IIS Windows Server
+https://dscotmuk01.dhl.com:443/, None, OTM - Oracle Transportation Management
+https://xcvpn.dhl.com:443/, None
+https://ebilling.dhl.com:443/, Apache, DHL e-billing hub
+https://dellem.dhl.com/, None, IIS Windows Server
+http://cyclone-eu-dev.dhl.com:80/, None, Shared Partner Gateway QA
+https://silcedgf-sv.dhl.com:443/, Microsoft-IIS/10.0, Seleccione una empresa para iniciar - Silce Technologies
+https://xcvpn.dhl.com/, None
+https://ebilling.dhl.com/, Apache, DHL e-billing hub
+https://cyclone-eu-dev.dhl.com:443/, None, Shared Partner Gateway QA
+https://dscotmuk01.dhl.com/, None, OTM - Oracle Transportation Management
+https://o2c-spain.dhl.com:443/, None, jp3
+https://o2c-spain.dhl.com/, None, jp3
+https://silcedgf-sv.dhl.com/, Microsoft-IIS/10.0, Seleccione una empresa para iniciar - Silce Technologies
+https://dctcloud.dhl.com:443/, Kestrel
+https://dqk-bnl.dhl.com:443/LogIn.aspx?ReturnUrl=%2f, Microsoft-IIS/8.5, LogIn
+https://developer.dhl.com:443/, , DHL Group API Developer Portal | DHL API Developer Portal
+https://drh-cert.dhl.com:443/, Apache, DHL Retail Hub
+https://uat-elogplusap.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://uat-elogplusap.dhl.com/, Microsoft-IIS/10.0, IIS Windows Server
+https://developer.dhl.com/, , DHL Group API Developer Portal | DHL API Developer Portal
+https://api.esp.dhl.com:443/, None, 
+https://dqk-bnl.dhl.com/LogIn.aspx?ReturnUrl=%2f, Microsoft-IIS/8.5, LogIn
+https://dctcloud.dhl.com/, Kestrel
+https://gpws-remote-test.dhl.com:443/, Apache, Remote Support Portal | Powered by BOMGAR
+https://globalmaileurope.dhl.com/web/portal-europe/login, Apache-Coyote/1.1, Login - Portal Europe
+https://globalmaileurope.dhl.com/web/portal-europe/login, Apache-Coyote/1.1, Login - Portal Europe
+https://unsubscribe.dhl.com/, None, On Demand Delivery
+https://drh-cert.dhl.com/, Apache, DHL Retail Hub
+https://unsubscribe.dhl.com:443/, None, On Demand Delivery
+https://tas.dhl.com:443/, Apache-Coyote/1.1, TAS
+https://aimsecrew-dhk.dhl.com:443/, None
+https://tas.dhl.com/, Apache-Coyote/1.1, TAS
+https://dscotmeu01dev.dhl.com:443/, None, OTM - Oracle Transportation Management
+https://tmstracking-qa.dhl.com:443/, Microsoft-IIS/8.5, Homepage for TMS Tracking-qa
+https://tmstracking-qa.dhl.com/, Microsoft-IIS/8.5, Homepage for TMS Tracking-qa
+https://ccct.dhl.com:443/, Microsoft-IIS/10.0, Document
+http://tw711.dhl.com:80/, Microsoft-IIS/10.0, IIS Windows Server
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://dgf-lrd-dev.dhl.com/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://dgf-lrd-dev.dhl.com:443/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://kronos-emea-asp2.dhl.com:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://deliverit-uat.dhl.com:443/, None, Guest | Welcome | DHL | Deutschland | DELIVER IT
+https://delivery.dhl.com:443/, None, On Demand Delivery
+https://ecommerceportal.dhl.com/Portal/, None, Login | DHL eCommerce
+https://cvpn6a4.dhl.com:443/, None
+https://waz-dhl-h3-nsf.dhl.com:443/Dispatcher/Login?ReturnUrl=%2f, Microsoft-IIS/8.5, Login | DHL
+https://aimsecrew-dhk.dhl.com/, None
+https://ecommerceportal.dhl.com:443/Portal/, None, Login | DHL eCommerce
+https://dscotmeu01dev.dhl.com/, None, OTM - Oracle Transportation Management
+https://unidocks.dhl.com:443/, Microsoft-IIS/8.5
+https://tw711.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://delivery.dhl.com/, None, On Demand Delivery
+https://unidocks.dhl.com/, Microsoft-IIS/8.5
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+http://xml-api.dhl.com:80/, None, XML PI
+https://xml-api.dhl.com:443/, None, XML PI
+https://cvpn6a4.dhl.com/, None
+https://retail-quote.dhl.com/, None, DHL Retail Hub
+https://retail-quote.dhl.com:443/, None, DHL Retail Hub
+https://sci-tms.dhl.com/, BigIP, SCI TMS Maintenance Page
+https://cisnetops.dhl.com:443/, Apache, DHL EXPRESS NETWORK OPERATIONS MOBILE LEARNING
+https://sci-tms.dhl.com:443/, BigIP, SCI TMS Maintenance Page
+https://fid.dhl.com:443/, Microsoft-HTTPAPI/2.0 Microsoft-HTTPAPI/2.0, FID 2.0 Redirector
+https://cvpn-dgf1.cn.dhl.com:443/, None
+https://cisnetops.dhl.com/, Apache, DHL EXPRESS NETWORK OPERATIONS MOBILE LEARNING
+https://dgfcombolabel.dhl.com:443/, Microsoft-IIS/8.5, Login
+https://aimsecrew-bcs.dhl.com:443/, None
+https://needtestsk.dhl.com:443/, Microsoft-IIS/10.0, 
+https://needtestsk.dhl.com/, Microsoft-IIS/10.0, 
+https://sp.dhl.com:443/, nginx/1.14.0 (Ubuntu), DHL POS System
+https://aptsweb.dhl.com:443/, None, DHL PTS - CZCHOWS6582 Login
+https://aimsecrew-bcs.dhl.com/, None
+https://npa-ext-auth.dhl.com/vpn/tmindex.html, Apache, Citrix Gateway
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://aptsweb.dhl.com/, None, DHL PTS - CZCHOWS6582 Login
+https://dgfcombolabel.dhl.com/, Microsoft-IIS/8.5, Login
+http://ftp-dhllink.dhl.com:80/, None, Request/response was blocked
+https://sp.dhl.com/, nginx/1.14.0 (Ubuntu), DHL POS System
+https://ftp-dhllink.dhl.com:443/, None, Request/response was blocked
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://rcts.dhl.com:443/, None
+https://cvpn6b2.dhl.com:443/, None
+https://dsctoptna01.dhl.com:443/, None, DHL Supply Chain - Transport Portal
+https://rcts.dhl.com/, None
+https://standardforwarding.com/standardforwarding/, Microsoft-IIS/10.0
+https://standardforwarding.com/standardforwarding/, Microsoft-IIS/10.0
+https://cvpn6b2.dhl.com/, None
+https://dscauapps.dhl.com:443/, Microsoft-IIS/8.5, dscauapps.dhl.com
+https://mipt5-ext-test.dhl.com/login.jsp, Manhattan Associates
+https://dsctoptna01.dhl.com/, None, DHL Supply Chain - Transport Portal
+https://careers.dhl.com:443/global/en, None, CAREERS AT DHL | DHL JOBS
+https://careers.dhl.com:443/global/en, None, CAREERS AT DHL | DHL JOBS
+https://qpulseair-test.dhl.com:443/, None, IIS Windows Server
+https://dhlfreightsetest.dhl.com/, Microsoft-IIS/10.0, DHL - ToolboxTest
+https://dscauapps.dhl.com/, Microsoft-IIS/8.5, dscauapps.dhl.com
+https://dhlfreightsetest.dhl.com:443/, Microsoft-IIS/10.0, DHL - ToolboxTest
+https://cms.dhl.com:443/, None, Logged out
+https://qpulseair-test.dhl.com/, None, IIS Windows Server
+https://cms.dhl.com/, None, Logged out
+https://dmac-cn1.dhl.com:443/, Apache
+https://tmsbr.dhl.com:443/Login?ReturnUrl=%2f%3f, Microsoft-IIS/10.0, Autenticação
+https://ecaseproc-dev.dhl.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffidstaging2.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DlZJRb9owFIX%252FSuT3JE6AIiyClIGmIbVdVNge%252Bnaxb8CSY6e%252BTtr%252B%252B4XA1k5TK%252B3VPueez%252Fd4SdCYvBVlF072AZ86pBC9NMaSuNwUrPNWOCBNwkKDJIIUu%252FLuVuQJF613wUlnWFQSoQ%252Fa2bWz1DXod%252Bh7LfHHw23BTiG0JNIUJRAOHhkr7BN1Mol0TWqhb%252BGIiXIs2gz52sJ50Jut1ooCHLU95n9MoGpKDaUs%252Buq8xJG%252FYDUYQhZtNwXb3a%252Bxnkxgkh8wQz6DmsN8MZnm%252FHAjc3UzP8wGIVVApHt8sxJ1uLVDng0Fy3mexXwe8%252Bmec5EtxGyRzKfTRxZV15d%252F0VYNYJ%252Bv6XARkfi231dx9X23Hwf0WqG%252FH9T%252Fs6Gf6GnczjCYrZZjS2Kk9u%252BL%252BxwIfrfFVv8kn4PpUl5s3fMZYJm%252Bj7mGtuKMvt1Uzmj5GpXGuOe1RwjDc4LvcGymgfAxSZZk44lWcT1KBTagTamURyKWrq65f3%252FP1S8%253D%26RelayState%3Dhttps%253A%252F%252Fecaseproc-dev.dhl.com%252Fnavpage.do, ServiceNow, ServiceNow
+https://ecaseproc-dev.dhl.com:443/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffidstaging2.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DlZJLb9swEIT%252FisC7XrQUJ4RlQLVRxEAeQuzm0BtFrmwCFKlwKaX995Fl51EECdArObPzcYcL5K2mHSt7fzAP8NQD%252BuBPqw2y001BemeY5aiQGd4CMi%252FYtry9YTRKWOest8JqEpSI4LyyZmUN9i24LbhBCfj1cFOQg%252FcdsjgGwRFGjwglDJE86EjYNjZ86PgeImlJsB7zleHHQe%252B2Rkn0fK%252FMnr6ZuGww1hiT4Kd1Aib%252BgjRcI5Bgsy7I9m51ITKaX9SXfJ7O82w2y2qaNzIXtJnVspZ0FGLFEdUA71bEHjZmzDO%252BIDShaZjMwyTbJQlLr1h%252BFWXJ5W8SVOeX%252F1BGjmDfr6k%252BiZBd73ZVWN1vd9OAQUlwd6P6fzb0CA6n7YyDyXIxtcQmavexuO%252BB%252BGtbZPkp%252BRiMp%252FJCY5%252BPAIv4Y8w5tGNH9M26slqJv0GptX1eOeB%252BfI53PUzNtNx%252FTZJG6XSiZNhMUgYtV7qU0gEiiZfn3H%252B%252F5%252FIF%26RelayState%3Dhttps%253A%252F%252Fecaseproc-dev.dhl.com%252Fnavpage.do, ServiceNow, ServiceNow
+https://magtw-p1-uat.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://techsupport-stg.express.dhl.com/csm, ServiceNow, CSM Portal Base Page - Customer Support
+https://techsupport-stg.express.dhl.com/csm, ServiceNow, CSM Portal Base Page - Customer Support
+https://myepp.dhl.com:443/, Apache-Coyote/1.1
+https://kronos-emea-asp2-wdm.dhl.com:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://myepp.dhl.com/, Apache-Coyote/1.1
+https://dmac-uat-qas.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://dmac-test.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://apps.dhl.com:443/, None, Server Login
+https://dmac-e1-uat.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://dmac-test.dhl.com/, Apache, DPDHL Enterprise Mobility Portal
+https://calidustms.dhl.com:443/, Apache/2.4.46 (Unix) OpenSSL/1.1.1i, C-TMS
+https://mytalentworld.dhl.com:443/, Apache
+https://xcvpn-ea.dhl.com:443/, None
+https://xcvpn-ea.dhl.com/, None
+https://apps.dhl.com/, None, Server Login
+https://bnl.infodesk-freight.dhl.com:443/frontend2/build/, None, TISLOG office
+https://calidustms.dhl.com/, Apache/2.4.46 (Unix) OpenSSL/1.1.1i, C-TMS
+https://mojhr.dhl.com:443/xpertis/glowna/macrologic-erp-cms, None, Macrologic ERP CMS - Macrologic ERP CMS
+https://qlikview.dhl.com/index.htm, Microsoft-HTTPAPI/2.0, QlikView - AccessPoint
+https://dmac2-test.dhl.com/, Apache, DPDHL Enterprise Mobility Portal
+http://mv.dhl.com:80/, AkamaiGHost, Invalid URL
+http://cyclone2-eu-prod.dhl.com:80/, Apache-Coyote/1.1, EXPRESS DCG CYCLONE
+https://activetracing.dhl.com/DatPublic/datSelection.do, Apache-Coyote/1.1, Active Tracing - Selection
+https://dmac2-test.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://cyclone2-eu-prod.dhl.com:443/, Apache-Coyote/1.1, EXPRESS DCG CYCLONE
+https://activetracing.dhl.com/DatPublic/datSelection.do, Apache-Coyote/1.1, Active Tracing - Selection
+https://facturacionelectronica.dhl.com:443/, Microsoft-IIS/8.5, CFD | DHL
+https://demandmanagementtest.dhl.com:443/, None
+https://facturacionelectronica.dhl.com/, Microsoft-IIS/8.5, CFD | DHL
+https://gsconnectcsm-preprod.dhl.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DnVLJTsMwEP2VyPckjrupVlMptEJUYolo4cDNtSetJccOHqfA3xPSosIBhLjab%252BZtM0NRG9bwog17ew%252FPLWCIXmtjkR9%252FctJ6y51AjdyKGpAHydfFzTVnCeWNd8FJZ0hUIIIP2tmFs9jW4NfgD1rCw%252F11TvYhNMjTdIfSWQsySKzjxkM3rhK1N4l0dWrFoRE7SJQj0bKToa342HeervQZLFSFqcGURJfOS%252Bjl56QSBoFEq2VO1rcLUAPJBkOYSKAMJmMqRluohtMxUxmbsm0HxFIg6gOcRxFbWFkMwoacMMqymE5iOtxQyhnloywZTNkTicqT8Qttlba731PaHkHIrzabMi7v1pt%252BwUEr8Lcd%252Bh8BPYLHPpxuP5nP%252Bq54L95%252Fre93XeKzMzL%252Fi4BZ%252BpXmRNrwDwerZemMlm9RYYx7WXgQoXMVfAt9QbUIPyvJkqx%252F0SqueiiHWmhTKOUBkaTzE%252B%252F3I52%252FAw%253D%253D%26RelayState%3Dhttps%253A%252F%252Fgsconnectcsm-preprod.dhl.com%252Fnavpage.do, ServiceNow, GSConnect
+https://gsconnectcsm-preprod.dhl.com:443/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DnVLLTsMwEPyVyPc8KQWsplJohahUIKKFA7eNvWktOXbwOgX%252BnpAWFQ4ghOSTPbM7D08IGp21vOj81tzjc4fkg9dGG%252BL7l5x1znALpIgbaJC4F3xV3Cx5FiW8ddZbYTULCiJ0Xlkzs4a6Bt0K3U4JfLhf5mzrfUs8jjckrDEovKAmbB32dBnJrY6EbWIDuxY2GEnLgnkvQxn4mHdk1%252BoIBllTrClmwZV1Agf5OatBE7JgMc%252FZ6nZWi9NzgIuTOkNMT2ohoLqAcSWqCrA%252FWQ%252BkEojUDo9Uog4XhjwYn7MsydIwOQuT0TpJeJbw0zQajUdPLCgPxi%252BVkcpsfk%252Bp2oOIX6%252FXZVjerdbDgJ2S6G579D8CekRHQzj9fDadDF3xQbz7Wt%252FvuuCzMzb9i4BJ%252FHXNYWnLPxws5qXVSrwFhdb2ZeYQfO%252FKuw6HghrwPytJo3S4UTKsByjHBpQupHRIxOLpYe%252F3Tzp9Bw%253D%253D%26RelayState%3Dhttps%253A%252F%252Fgsconnectcsm-preprod.dhl.com%252Fnavpage.do, ServiceNow, GSConnect
+https://dsctopna01.dhl.com/, None, DHL Supply Chain - Transport Portal
+https://dsctopna01.dhl.com:443/, None, DHL Supply Chain - Transport Portal
+https://demandmanagementtest.dhl.com/, None
+https://dev-elogplus.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://waz-dhl-h8-nsf.dhl.com:443/Dispatcher/Login?ReturnUrl=%2f, Microsoft-IIS/8.5, Login | DHL
+https://dev-elogplus.dhl.com/, Microsoft-IIS/10.0, IIS Windows Server
+https://dhlapp-qa.dhl.com:443/, Apache
+https://latameshop.dhl.com/, Apache, DHL LATAM eSHOP  - Latin American Largest Online Shopping Platform
+http://origin-xmlpi-ea-cbj.dhl.com:80/, None, XML PI
+https://mydhlfreight-uat.dhl.com/se-sv/home.html, Apache, Freight Customer Portal | Home | Sverige
+https://ewmsi3.dhl.com:443/webgui, None, Logon - SAP Web Application Server
+https://www.dhlparcel.nl/nl, cloudflare, Pakketten versturen en ontvangen | DHL Parcel
+https://mydhlfreight-uat.dhl.com/se-sv/home.html, Apache, Freight Customer Portal | Home | Sverige
+https://dscorder.dhl.com:443/, Apache-Coyote/1.1, Welcome to JBoss AS
+https://cvpn4a1.dhl.com/, None
+https://dhlapp-qa.dhl.com/, Apache
+https://cvpn4a1.dhl.com/, None
+https://ewmsi3.dhl.com/webgui, None, Logon - SAP Web Application Server
+https://dscorder.dhl.com/, Apache-Coyote/1.1, Welcome to JBoss AS
+https://app.mydhli.com/get-a-quote?utm_source=quote.mydhli.com&utm_medium=referral&utm_campaign=redirect, None, myDHLi
+https://app.mydhli.com/get-a-quote?utm_source=quote.mydhli.com&utm_medium=referral&utm_campaign=redirect, None, myDHLi
+https://origin-xmlpi-ea-cbj.dhl.com:443/, None, XML PI
+https://mybill.dhl.com/login/, Apache, DHL MyBill
+https://mybill.dhl.com/login/, Apache, DHL MyBill
+http://xmlpi-ea.dhl.com:80/, None, XML PI
+https://ptsmobilecloud.dhl.com:443/, Microsoft-IIS/10.0
+https://cap.dhl.com:443/, Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips PHP/5.4.16, DHL - Communication and Action Portal
+https://xmlpi-ea.dhl.com:443/, None, XML PI
+https://dmac-de1.dhl.com:443/, Apache
+https://dmac-de1.dhl.com/, Apache
+https://guru-ext-auth.dhl.com:443/vpn/tmindex.html, Apache, Citrix Gateway
+https://selektlabel-nl.dhl.com:443/, Apache, Welkom bij DHL Parcel
+https://selektlabel-nl.dhl.com/, Apache, Welkom bij DHL Parcel
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=code&client_id=88092ebe-9577-40a3-bd94-54b73e31b74d&scope=openid&nonce=cb77f049-5827-4883-929b-552e88b0a470&redirect_uri=https%3a%2f%2fmybi-secure.dhl.com%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmybi-secure.dhl.com%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%224a506dad-81c7-4564-9b7a-82104545640b%22%7d%23EndOfStateParam%23&client-request-id=4a506dad-81c7-4564-9b7a-82104545640b, None, Sign in to your account
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=code&client_id=88092ebe-9577-40a3-bd94-54b73e31b74d&scope=openid&nonce=9bf3e369-2730-4d0c-8e23-69927637c872&redirect_uri=https%3a%2f%2fmybi-secure.dhl.com%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fmybi-secure.dhl.com%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%225fccd4c1-c794-4f79-b43a-528d9ae92e01%22%7d%23EndOfStateParam%23&client-request-id=5fccd4c1-c794-4f79-b43a-528d9ae92e01, None, Sign in to your account
+https://dmac-us1.dhl.com:443/, Apache
+https://dmac-us1.dhl.com/, Apache
+https://cvpn6a3.dhl.com:443/, None
+https://cvpn6a3.dhl.com/, None
+https://fmsdbg.dhl.com/, Microsoft-IIS/8.5, fmsdbg.dhl.com - /
+https://cvpn6a7.dhl.com/, None
+https://fmsdbg.dhl.com:443/, Microsoft-IIS/8.5, fmsdbg.dhl.com - /
+https://www.r3.mms.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://fj.ras.nums.dhl.com:443/, None
+https://chatllpc.dhl.com:443/static/dhl.png, None
+https://cvpn6b6.dhl.com:443/, None
+https://cvpn6b6.dhl.com/, None
+https://dmac2.dhl.com:443/, Apache, DPDHL Enterprise Mobility Portal
+https://dmac2.dhl.com/, Apache, DPDHL Enterprise Mobility Portal
+https://pocsso.dhl.com/index.html, Apache, Nevis Security Proxy - Welcome
+https://pocsso.dhl.com/index.html, Apache, Nevis Security Proxy - Welcome
+https://dhldrivertraining.dhl.com:443/, Apache, DHL Training - DHL Training
+https://gsconnectcsm.dhl.com:443/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DlVLRTsIwFP2Vpe9s3YDgGkYyIUYSxEXQB99KewdNunb2dqh%252F7xgo%252BCCJr%252B2555x7zh0jr3RSs7zxO%252FMEbw2gDz4qbZAdfzLSOMMsR4XM8AqQecFW%252BcOCJSFltbPeCqtJkCOC88qaqTXYVOBW4PZKwPPTIiM772tkUbRFYY0B4QVWodzpUNgqMnxf8y2E0pJg1sorww8856lSyR8wlyVGGiMS3FknoLOdkZJrBBLMZxlZLadlWqajIR3FXAKVG9FP0345EOmwhKRP07gFYsER1R7Oo4gNzA16bnxGEprEPTrq0cGaUpbELEnCweDmlQTFaeFbZaQy2%252BvpbI4gZPfrddErHlfrjmCvJLhli%252F5HMC%252FgsAul5SWTcdcN60y7y7qu%252B%252BHfHZHJNeFxdEl%252FEqvZwfF8VlitxGeQa23fpw64b7fwroGukIr7vx3EYdy9KNkrOyiDiiudS%252BkAkUSTk%252B7vY5x8AQ%253D%253D%26RelayState%3Dhttps%253A%252F%252Fgsconnectcsm.dhl.com%252Fnavpage.do, ServiceNow, GSConnect
+https://gsconnectcsm.dhl.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DlVLRTsIwFP2Vpe9s3RCBhpFMiJEEcQH0wbfS3kGTrp29HerfOwYKPkjia3vuOeeec0fIS51ULKv9zizhrQb0wUepDbLjT0pqZ5jlqJAZXgIyL9gqe5yzJKSsctZbYTUJMkRwXlkzsQbrEtwK3F4JeF7OU7LzvkIWRVsU1hgQXmAZyp0OhS0jw%252FcV30IoLQmmjbwy%252FMBzniqU%252FAFzWWCkMSLBvXUCWtspKbhGIMFsmpLVYkIHAyEpFXw47MbD7qbfk5L2CynjvpC3vU0DxJwjqj2cRxFrmBn03PiUJDSJO7TfoTdrSlkSsyQJe%252FHwlQT5aeE7ZaQy2%252BvpbI4gZA%252Frdd7Jn1brlmCvJLhFg%252F5HMC%252FgsA2l4SXjUdsNa027y7qu%252B%252BHfHZHxNeFRdEl%252FEqvYwfFsmlutxGeQaW3fJw64b7bwroa2kJL7vx3EYdy%252BKNkpWiiDkiudSekAkUTjk%252B7vYxx%252FAQ%253D%253D%26RelayState%3Dhttps%253A%252F%252Fgsconnectcsm.dhl.com%252Fnavpage.do, ServiceNow, GSConnect
+https://diyshipment-test.dhl.com:443/, None, DIY Shipment
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=id_token&client_id=70ba3eda-d009-4674-86a2-1ae66ff63533&scope=openid&nonce=b7fe3e9a-3577-4b3b-a8be-baf4259050d0&response_mode=form_post&redirect_uri=https%3a%2f%2fisharenew.dhl.com%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fisharenew.dhl.com%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%221065e75e-9ddf-488a-81f4-158c0e9ee576%22%7d%23EndOfStateParam%23, None, Sign in to your account
+https://www.oktopost.com, , B2B Social Media Management Platform | Oktopost
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=id_token&client_id=70ba3eda-d009-4674-86a2-1ae66ff63533&scope=openid&nonce=c2d2b8b3-b8cb-498b-8d35-9c790ac3b562&response_mode=form_post&redirect_uri=https%3a%2f%2fisharenew.dhl.com%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fisharenew.dhl.com%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%22a4ab1361-6184-4e25-951e-2266202d8553%22%7d%23EndOfStateParam%23, None, Sign in to your account
+https://yourportal.dhl.co.uk:443/app/login/, nginx, Welcome to Secure Email & Document Delivery
+http://www.bonus.dhl.ru:8080/, None, Bad Request
+https://btkmobile.dhl.com.tr:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://btkmobile.dhl.com.tr/, Microsoft-IIS/10.0, IIS Windows Server
+https://yourportal.dhl.co.uk/app/login/, nginx, Welcome to Secure Email & Document Delivery
+https://wwwcert.dhlsameday.com:443/, Microsoft-IIS/10.0, DHL Same Day
+https://wwwcert.dhlsameday.com/, Microsoft-IIS/10.0, DHL Same Day
+https://express.dhl.ru/calculator/, nginx, DHL Express - Рассчитать стоимость доставки груза, посылки или почтового отправления - онлайн калькулятор расчета стоимости доставки
+https://www.dhlsameday.com:443/, Microsoft-IIS/8.5, DHL Same Day
+https://bonus.dhl.ru:443/, "", СПЕЦИАЛЬНЫЕ АКЦИИ DHL - Добро пожаловать!
+https://bonus.dhl.ru/, "", СПЕЦИАЛЬНЫЕ АКЦИИ DHL - Добро пожаловать!
+https://www.dhlsameday.com/, Microsoft-IIS/8.5, DHL Same Day
+https://express.dhl.ru/calculator/, nginx, DHL Express - Рассчитать стоимость доставки груза, посылки или почтового отправления - онлайн калькулятор расчета стоимости доставки
+http://xmlpitest-ea.dhl.com:80/, None, XML PI
+https://routeopt.dhl.com:443/, Apache, RoutiGo Dashboard
+https://xmlpitest-ea.dhl.com:443/, None, XML PI
+https://routeopt.dhl.com/, Apache, RoutiGo Dashboard
+https://ptsmobiletest.dhl.com:443/(S(vptxi5yfr2on2nc13lw4baol))/default.aspx, Microsoft-IIS/10.0, System Health
+https://esharenew-auth.dhl.com/vpn/tmindex.html, Apache, Citrix Gateway
+https://dgf-nog-dev.dhl.com:443/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://ptsmobiletest.dhl.com/(S(0fpoz1psp0l0isihcqwwc23n))/default.aspx, Microsoft-IIS/10.0, System Health
+https://dgf-nog-dev.dhl.com/, Microsoft-IIS/7.0, DHL Global Forwarding
+https://odeme.dhl.com.tr:443/, None
+https://express.dhl.ru:443/, nginx, DHL Express - Экспресс доставка грузов, документов, посылок и почтовых отправлений курьером по России и за рубежом, логистические услуги
+https://efatura.dhl.com.tr:443/, Microsoft-IIS/10.0, efatura.dhl.com.tr - /
+https://eshopping.dhl.ru:443/, None, DHL - Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÑÐºÐ¸Ð¹ Ð¿Ð¾ÑÑÐ°Ð»
+http://abiturient.dhl.ru:8080/, None, Bad Request
+http://bmw.images.iss.dhl.ru:8080/, None, Bad Request
+http://microsoft.dhl.ru:8080/, None, Bad Request
+https://express.dhl.ru/, nginx, DHL Express - Экспресс доставка грузов, документов, посылок и почтовых отправлений курьером по России и за рубежом, логистические услуги
+http://test.iss.dhl.ru:8080/, None, Bad Request
+http://c2c.dhl.ru:8080/, None, Bad Request
+http://help.dhl.ru:8080/, None, Bad Request
+http://chrysler.images.iss.dhl.ru:8080/, None, Bad Request
+http://ford.images.iss.dhl.ru:8080/, None, Bad Request
+http://sanofi.dhl.ru:8080/, None, Bad Request
+http://extra.dhl.ru:8080/, None, Bad Request
+http://modno.dhl.ru:8080/, None, Bad Request
+https://eshopping.dhl.ru/, None, DHL - Ð¿Ð¾Ð»ÑÐ·Ð¾Ð²Ð°ÑÐµÐ»ÑÑÐºÐ¸Ð¹ Ð¿Ð¾ÑÑÐ°Ð»
+https://zakaz-dev.dhl.ru:443/, None, Walk-Click-Call
+https://zakaz-dev.dhl.ru/, None, Walk-Click-Call
+https://help.dhl.ru:443/, "", HelpDesk
+https://abiturient.dhl.ru:443/, "", ПОСТУПАЙТЕ В ВЕДУЩИЕ ВУЗЫ РОССИИ ВМЕСТЕ С DHL - Добро пожаловать!
+https://sanofi.dhl.ru:443/, "", IIS Windows Server
+https://sanofi.dhl.ru/, "", IIS Windows Server
+https://modno.dhl.ru:443/, "", DHL – ВАШ МОДНЫЙ ВЫБОР - Добро пожаловать!
+https://abiturient.dhl.ru/, "", ПОСТУПАЙТЕ В ВЕДУЩИЕ ВУЗЫ РОССИИ ВМЕСТЕ С DHL - Добро пожаловать!
+https://help.dhl.ru/, "", HelpDesk
+https://sl.dhl.ru:443/, "", Çîëîòàÿ Ëèõîðàäêà
+https://bmw.images.iss.dhl.ru:443/Login.aspx?ReturnUrl=%2fdefault.aspx, "", BMW PTS Scans
+https://bmw.images.iss.dhl.ru/Login.aspx?ReturnUrl=%2fdefault.aspx, "", BMW PTS Scans
+https://microsoft.dhl.ru/, "", SCLIntra Home
+https://microsoft.dhl.ru:443/, "", SCLIntra Home
+http://sl.dhl.ru:8080/, None, Bad Request
+https://gumruk.dhl.com.tr/, Microsoft-IIS/10.0, DHL Express Türkiye Gümrük Müşteri Hizmetleri - Anasayfa
+https://gumruk.dhl.com.tr:443/, Microsoft-IIS/10.0, DHL Express Türkiye Gümrük Müşteri Hizmetleri - Anasayfa
+https://modno.dhl.ru/, "", DHL – ВАШ МОДНЫЙ ВЫБОР - Добро пожаловать!
+https://sl.dhl.ru, "", Çîëîòàÿ Ëèõîðàäêà
+http://iss.dhl.ru:8080/, None, Bad Request
+https://logistics-dev.dhl.ru:443/, AkamaiGHost, Invalid URL
+http://archive.bmw.images.iss.dhl.ru:8080/, None, Bad Request
+https://ford.images.iss.dhl.ru/Login.aspx?ReturnUrl=%2fdefault.aspx, "", Ford PTS Scans
+https://ford.images.iss.dhl.ru:443/Login.aspx?ReturnUrl=%2fdefault.aspx, "", Ford PTS Scans
+http://ecom.dhl.ru:8080/, None, Bad Request
+http://rugby.dhl.ru:8080/, None, Bad Request
+http://iss.dhl.ru:80/Account/LogOn, None, DHL ISS - Log in
+http://logistics-dev.dhl.ru:80/, AkamaiGHost, Invalid URL
+http://promocode.dhl.ru:8080/, None, Bad Request
+http://archive.iss.dhl.ru:8080/, None, Bad Request
+https://chrysler.images.iss.dhl.ru/Login.aspx?ReturnUrl=%2fdefault.aspx, "", Chrysler PTS Scans
+http://gm.images.iss.dhl.ru:8080/, None, Bad Request
+http://research.dhl.ru:8080/, None, Bad Request
+http://archive.gm.images.iss.dhl.ru:8080/, None, Bad Request
+http://vinpts.extranet.dhl.ru:8080/, None, Bad Request
+http://cod.dhl.ru:8080/, None, Bad Request
+https://chrysler.images.iss.dhl.ru:443/Login.aspx?ReturnUrl=%2fdefault.aspx, "", Chrysler PTS Scans
+https://ecom.dhl.ru:443/, "", DHL eCommerce Russia
+https://iss.dhl.ru:443/Account/LogOn, None, DHL ISS - Log in
+https://promocode.dhl.ru:443/, "", Home Page
+https://f1.dhl.ru:443/, "", DHL F1 - Добро пожаловать!
+https://research.dhl.ru:443/, "", Îïðîñ äëÿ DHL
+https://cod.dhl.ru:443/, ""
+https://ecom.dhl.ru/, "", DHL eCommerce Russia
+https://areaclientes.dhl.es/, None
+https://promocode.dhl.ru/, "", Home Page
+https://areaclientes.dhl.es:443/, None
+https://areaclientes-test.dhl.es:443/, Microsoft-IIS/8.5
+https://areaclientes-test.dhl.es/, Microsoft-IIS/8.5
+https://archive.iss.dhl.ru:443/Login, "", DHL ISS Archive - Вход
+https://f1.dhl.ru/, "", DHL F1 - Добро пожаловать!
+https://research.dhl.ru/, "", Îïðîñ äëÿ DHL
+https://cod.dhl.ru/, ""
+http://rugby.dhl.ru:80/, "", Ð ÐµÐ³Ð±Ð¸ - Ð¼Ð¾Ñ Ð¸Ð³ÑÐ°
+https://archive.gm.images.iss.dhl.ru/Login.aspx?ReturnUrl=%2f, "", PTS Scans
+https://gm.images.iss.dhl.ru:443/Login.aspx?ReturnUrl=%2f, "", PTS Scans
+https://gm.images.iss.dhl.ru/Login.aspx?ReturnUrl=%2f, "", PTS Scans
+https://archive.iss.dhl.ru/Login, "", DHL ISS Archive - Вход
+https://archive.gm.images.iss.dhl.ru:443/Login.aspx?ReturnUrl=%2f, "", PTS Scans
+https://mobileapp.dhl.fr/, Apache, DHL Express France | MobileApp, WordPress 5.7.2
+https://rugby.dhl.ru:443/, "", Ð ÐµÐ³Ð±Ð¸ - Ð¼Ð¾Ñ Ð¸Ð³ÑÐ°
+https://archive.bmw.images.iss.dhl.ru:443/Login.aspx?ReturnUrl=%2fdefault.aspx, "", BMW PTS Scans Archive
+https://archive.bmw.images.iss.dhl.ru/Login.aspx?ReturnUrl=%2fdefault.aspx, "", BMW PTS Scans Archive
+http://hkapps.dhl.com.hk:80/, Web
+https://guide.dhl.fr:443/, Apache, DHL Guide des Services
+https://plt.dhl.fr:443/, Apache, Paperless Trade – Oubliez Le Papier, Gagnez Du Temps, WordPress 4.9.15
+https://guide.dhl.fr/, Apache, DHL Guide des Services
+https://plt.dhl.fr/, Apache, Paperless Trade – Oubliez Le Papier, Gagnez Du Temps, WordPress 4.9.15
+https://mobileapp.dhl.fr:443/, Apache, DHL Express France | MobileApp, WordPress 5.7.2
+https://eportal.dhl.com.hk:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://apps.dhl.com.hk:443/, Web
+https://portail.dhl.fr/, Apache, Expédition et livraison en France et à l'international | DHL Express France | Portail, WordPress 5.7.2
+https://dialin.dhl.com:443/, None, Conferencing Dial-In Page - Skype for Business 2015
+https://apps.dhl.com.hk/, Web
+https://portail.dhl.fr:443/, Apache, Expédition et livraison en France et à l'international | DHL Express France | Portail, WordPress 5.7.2
+http://dgfsameday.dhl.com/support/login, None, Sign into : soundgrounddhg
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://mydhl.express.dhl/us/en/shipping_apps_redirect.html, nginx, Exciting News for Our Valued Customers
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/v2.0/authorize?client_id=735a5b12-30ae-43d2-8ebf-b675a639bce2&redirect_uri=https%3A%2F%2Fideahub.dhl.com%2Fidsrv%2Fserver&response_type=id_token&scope=openid%20profile%20email&response_mode=form_post&nonce=637609549272209461.NzUzNTdjNzctNWZlMy00ZGU3LTg5ZDktMmJlY2RkNjI1YTJjODU2ODg5ODgtM2VlNy00OTFiLWI5N2EtZDAxMjlkMmFlZTFm&client_info=1&x-client-brkrver=IDWeb.1.10.0.0&state=CfDJ8Kw60JksBjJEi_WzU2OJmy_i68NX8z87M1WTimIoPy1VYyEFqRvFvUG4tuvysHgbQYTBunMWqEFikK6cb8vLwYgIfcP_w4Nh35hXVbTXM3UBnDsujsxknrEaYRl5u_w9K-g5hi0rjgL69LSta_caj31jM1lkJegC3UXrXaPuPlX8NvGruSK2n-IDoAfbDe5wwZA2h76fVx3LScVi-q_-fY5Ot11elxq210YmVSUP90OVxbrs2CKTia8zP4M_cDviKmgEh6NZ0das3dknim9lr0uffiIjyaxaBx8Xm0-DyvmMXPVlZ5D9YYqHgtKZ2YD2lL2mn3M8qTxvMtAxOynQ5yVRpEnN28Bqjm1rwmwlXQLNVxVGvnkW_fiSUj1qaLY3JOsuJ-YWVxjkI_LjaIAwkEjO2L_qwNniS9HTMSnInhQuepqypXc1tc6zeZgwytbbmymNMT0-lkFyvqR9c7n04YTiBHK3OHoAnLJX3FNeecyGvZTjr5B2Bo3Y_nfnPqzcPQ9k5W6FyCPlaDRxGPFLgxlyHOcoW1bWpFSRxCOEP5WYHQxmJgryEi3QRjKiPHT_9c2sSTK7Wmakn1VG9vT9aOg6IVc2kMaZTfw1r6pocm-heZ1pNWlko96pVJ2fZQUt2vUXkVk-a1Aco7ZN9jvkkgqJsxdU4DojWJ7SKpaRjNBi8Wm33Xv3OKcZVisrLMIAi7SN-9AgVxoIZPzsxV6n4LWKu5Muts2kb2dTAlXlNkG3&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=5.5.0.0, None, Sign in to your account
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/v2.0/authorize?client_id=735a5b12-30ae-43d2-8ebf-b675a639bce2&redirect_uri=https%3A%2F%2Fideahub.dhl.com%2Fidsrv%2Fserver&response_type=id_token&scope=openid%20profile%20email&response_mode=form_post&nonce=637609549272209462.OTUyYTQ0YmUtM2U1OS00NzM0LTk0YzUtNTZhYTg5ODRmMjdmMGE0Y2EzMDgtNmE0OC00ZDdiLThhY2QtZmRiMzI1YjFhYTM1&client_info=1&x-client-brkrver=IDWeb.1.10.0.0&state=CfDJ8Kw60JksBjJEi_WzU2OJmy-iK7aUdYdQmGZMcfQSUgo_MHDNwfcu55Tn46vW1eQDKcfLcFDSZulgXEAyJ-3ErOG3GsfPSv98CulJhEA7s0SJ7KkW9cyf-oWJR81AQStxXKjq6uM7pj-Unxduvi2PqLoSTUR2h_eEDBXmt1XWLu4wSgRogyh0ZNvW4VF8y_7u8DFtXEQIk73XzqHq_mfUYAApRVQSPb9-MSzaNroMog7x2ZIH-PbDLMTkNydvnomNmHEHHj6Fofad-QqojT1uhHYiD4oUNOq7uGm6W-YnoL4YXssvfZaE7wZ_VUACgR2OerWOJlPZXwQFbDjCxrTX7Z7i5SDJAFj7iWvmZORNfX9mwz3OJP-AaYEJoa4OZEOu0D0eZxQ1CbBC8hYmZ70nQaWVccr0SIoTfxFAP3BEfgjPWkCi1qSjudocxUf8d40vLoszt68xcXASAQtYAU9_hnhxco9GMleQaTMnhP3ZnW6_RnW2DImeRGdziQKxkaeb6itI4pgVzpS2Epl-Ecmje9p7nelmhLZIo1A3iEk5Yeer62vtpFiJ6ObD3Aqj0PAf8IZ0SqD-wk77qGcgwZ_nghEbgSUzZBy71ATy2pwm_HRn4BxKWeY0IXM5oyEDX-ijPT4oLmgAGh1g6y-2ocSmdrUUDe3_d8CBw-W_iwGwWq_SsPVWgnDQwG1pl30FY9VXc6DrfzYuH7LB_YFfmcGcHi0pdUnj3jb86pkCHqQurmMQ&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=5.5.0.0, None, Sign in to your account
+https://ltc.prg-dc.dhl.com:443/, Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips, LeadTime calculator, Nette Framework
+https://ltc.prg-dc.dhl.com/, Apache/2.4.6 (Red Hat Enterprise Linux) OpenSSL/1.0.2k-fips, LeadTime calculator, Nette Framework
+http://dgfsameday.dhl.com/support/login, None, Sign into : soundgrounddhg
+https://goodyearmyway.dhl.com:443/, None, Redirecting... :: Document Manager
+https://cafxprod1.dhlcloud.com.br:443/ui/login;jsessionid=FD16569DE8ED8A4F78D50E27A58B25A2, None, CAFX - 1.10.1
+https://myfcm.dhl.com:443/, Apache, AX4
+https://goodyearmyway.dhl.com/, None, Redirecting... :: Document Manager
+https://myfcm.dhl.com/, Apache, AX4
+https://cafxprod1.dhlcloud.com.br/ui/login;jsessionid=0DD7DDF3A883DEAC86C865F2B5F1B403, None, CAFX - 1.10.1
+https://view.mailing.dhl.nl:443/Error.aspx, None, Error
+https://view.mailing.dhl.nl/Error.aspx, None, Error
+https://qa-01.dhlcloud.com.br:443/ui/login;jsessionid=4A50EB4511F028961AF375222985D5C7, None, CAFX - 1.10.1
+https://qa-01.dhlcloud.com.br/ui/login;jsessionid=CF6A2A0F7919FDC9917E3EA6B9523C5D, None, CAFX - 1.10.1
+http://cafxtest.dhlcloud.com.br:80/, None, DHL Express
+https://gsc.dhlcloud.com.br:443/pages/login.faces, None, :: DHL Express Brasil - GSC
+https://gsc.dhlcloud.com.br/pages/login.faces, None, :: DHL Express Brasil - GSC
+http://cafxtest.dhlcloud.com.br:8080/ui/login;jsessionid=4F99925DEBFD8C3F75D747AEAC322A2F, None, CAFX - 1.11.00
+https://dev-elogmobile.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://epass.dhl.co.kr:443/, Microsoft-IIS/10.0
+https://dev-elogmobile.dhl.com/, Microsoft-IIS/10.0, IIS Windows Server
+https://cafxprod2.dhlcloud.com.br:443/ui/login;jsessionid=6FB12295B0ACF1DEA67A4CF51121B6DD, None, CAFX - 1.11.00
+https://www.mydhlfreight.com/se-sv/home.html, Apache, MyDHL Freight  | DHL Freight Sverige Sverige
+https://www.mydhlfreight.com/se-sv/home.html, Apache, MyDHL Freight  | DHL Freight Sverige Sverige
+https://icgs.dhl.com.mx:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://portalap.dhl.com.mx:443/, Microsoft-IIS/8.5, CFD | DHL
+https://cafxprod2.dhlcloud.com.br/ui/login;jsessionid=DECC36F29E8D0DCA1A2B48B75A9B4866, None, CAFX - 1.11.00
+https://facturacionmexico.dhl.com.mx:443/, Apache, Pagina de Inicio ACRE Ver.2.3
+https://ryrexpress.dhl.com.mx:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://ryr-qa.dhl.com.mx:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://icgs-qa.dhl.com.mx:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://portalap.dhl.com.mx/, Microsoft-IIS/8.5, CFD | DHL
+https://icgs.dhl.com.mx/, Microsoft-IIS/10.0, IIS Windows Server
+https://ecportal.dhl.ca:443/, Jetty(6.1.23)
+https://facturacionmexico.dhl.com.mx/, Apache, Pagina de Inicio ACRE Ver.2.3
+https://ryr-qa.dhl.com.mx/, Microsoft-IIS/8.5, IIS Windows Server
+https://ryrexpress.dhl.com.mx/, Microsoft-IIS/8.5, IIS Windows Server
+https://easydoc.dhl.ca:443/Login.aspx, None, DHL Easy Doc (Canada) :: Login
+https://icgscloud.dhl.com.mx/, Microsoft-IIS/10.0, IIS Windows Server
+https://ecportal.dhl.ca/, Jetty(6.1.23)
+https://icgs-qa.dhl.com.mx/, Microsoft-IIS/10.0, IIS Windows Server
+https://portalap-qa.dhl.com.mx:443/, Microsoft-IIS/8.5, IIS Windows Server
+https://easydoc.dhl.ca/Login.aspx, None, DHL Easy Doc (Canada) :: Login
+https://portalap-qa.dhl.com.mx/, Microsoft-IIS/8.5, IIS Windows Server
+https://uatcfetoolsnet-qa.dhl.com.mx:443/, Microsoft-IIS/8.5
+http://reader.dp-dhl.com:80/, Apache, app01-se.readspeaker.com
+http://newnormal.supplychain.dhl:80/, AkamaiGHost, Invalid URL
+https://icgscloud.dhl.com.mx:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://newnormal.supplychain.dhl:443/, AkamaiGHost, Invalid URL
+https://etools.dhl.com.mx:443/, Microsoft-IIS/8.5
+https://mypayment.dhl.ca:443/, Deutsche Post DHL Group, DHL | My Payment | English
+https://middleware.dhl.com.mx:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://mypayment.dhl.ca/, Deutsche Post DHL Group, DHL | My Payment | English
+https://middleware.dhl.com.mx/, Microsoft-IIS/10.0, IIS Windows Server
+https://www.dhl.de/de/privatkunden.html, IPNP, DHL Privatkunden - Paketversand und Paketempfang mit DHL
+http://beta-test.dhl.com:80/, AkamaiGHost, Invalid URL
+http://dhlup56-www.dhl.lt:80/, AkamaiGHost, Invalid URL
+http://www.nl.danzas.com:80/, AkamaiGHost, Invalid URL
+https://app.mydhli.com:443/, None, myDHLi
+https://keycloak.mydhli.com:443/, None
+https://keycloak.mydhli.com/, None
+https://app.mydhli.com/, None, myDHLi
+https://app.mydhli.com/get-a-quote?utm_source=quote.mydhli.com&utm_medium=referral&utm_campaign=redirect, None, myDHLi
+https://soluzioniespresse.dhl.it/spedizioni-per-ecommerce, Apache, DHL Express: corriere espresso per e-commerce, aziende e privati
+http://ebay.dhl.ru:8080/, None, Bad Request
+https://track.mydhli.com:443/login, Apache, MyDHLi Track
+https://track.mydhli.com/login, Apache, MyDHLi Track
+https://ratingportal.dhl-usa.com:443/, MyServer, Redirect to www.dhl-usa.com
+https://supplies.dhl-usa.com:443/, Kestrel, Supply Order
+https://portofexport.dhl-usa.com:443/, Microsoft-IIS/8.5, Port of Export | DHL
+https://soluzioniespresse.dhl.it/spedizioni-per-ecommerce, Apache, DHL Express: corriere espresso per e-commerce, aziende e privati
+https://app.mydhli.com/get-a-quote?utm_source=quote.mydhli.com&utm_medium=referral&utm_campaign=redirect, None, myDHLi
+https://pay.dhl.co.il:443/, Apache, YaadPay - éòã ñìé÷ä åðàîðåú - îîù÷ ðéäåì
+https://ratingportal.dhl-usa.com/, MyServer, Redirect to www.dhl-usa.com
+https://portofexport.dhl-usa.com/, Microsoft-IIS/8.5, Port of Export | DHL
+https://supplies.dhl-usa.com/, Kestrel, Supply Order
+https://xpicktst.dhl.com/login.html, None, Frontline Command Center
+https://heavyweight.dhl-usa.com:443/Login.aspx?ReturnUrl=%2f, Microsoft-IIS/8.5, HITS - Login
+https://heavyweight.dhl-usa.com/Login.aspx?ReturnUrl=%2f, Microsoft-IIS/8.5, HITS - Login
+https://dscapps-dev.dhl.com/PELIKAN_FO/, Microsoft-IIS/10.0
+https://dscapps-dev.dhl.com/PELIKAN_FO/, Microsoft-IIS/10.0
+https://int.woi.dhl.com:443/, nginx/1.21.0, DPDHL - Warehouse Operations Intelligence
+https://tst.woi.dhl.com:443/, nginx/1.21.0, DPDHL - Warehouse Operations Intelligence
+https://dhlconnect.dhl-usa.com:443/, None, DHL Connect Response Msg
+https://tst.woi.dhl.com/, nginx/1.21.0, DPDHL - Warehouse Operations Intelligence
+https://int.woi.dhl.com/, nginx/1.21.0, DPDHL - Warehouse Operations Intelligence
+https://blogecommerce.dhl.it/guida-avanzata-alla-gestione-dellecommerce, cloudflare, Guida avanzata alla gestione dell'ecommerce, HubSpot
+https://api-workflow.dhl.com/camunda/app/tasklist/default/, None, Camunda Tasklist
+https://api-workflow.dhl.com:443/camunda/app/tasklist/default/, None, Camunda Tasklist
+https://tandt-mysupplychain.dhl.com:443/, None, Redirecting... :: Document Manager
+https://mercadoriasperigosas.dhl.com:443/, None, Main Page - DG Portal
+https://blogecommerce.dhl.it/guida-avanzata-alla-gestione-dellecommerce, cloudflare, Guida avanzata alla gestione dell'ecommerce, HubSpot
+https://tandt-mysupplychain.dhl.com/, None, Redirecting... :: Document Manager
+https://dmac.dhl.com/smartr/, Apache, SMARTR Download
+https://dmac.dhl.com/smartr/, Apache, SMARTR Download
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/v2.0/authorize?client_id=bba99bf5-c7c4-44f5-8f3b-44d669af52f2&redirect_uri=https%3A%2F%2Fpublicclouddemo.dhl.com%2Fsignin-oidc&response_type=code&scope=openid%20profile&code_challenge=92eYjXcT1vs_qpapmpVleu5KdhTy2JKChapHSz8Gvgc&code_challenge_method=S256&response_mode=form_post&nonce=637609550533556054.MzdiNmM3YmYtMzcyOC00M2FlLTk4N2EtM2VkMGY1OWIwNzY5MjM4NGJmNzQtN2JhZC00MDNjLWI2NDktNjliMGYzYTZhMWZk&state=CfDJ8HNoFLAzgqFHpH79dYYX08YtU5sV27ThRMLPa9e8w3RbOfcvdctUEW5Trj8Fsg18U1DbhZJ5xU13Us3o0OUbooAKVYaqSwfwpbU8id0x4MXU0C8kmtGsFzPhXZ36sEYt1mr7g_O4pQKwjbnO8vz_ohNC7d5fRViNrzkp7ZnKzE7jIc5SJoayXT__GXYJEWdkrJShjB2MV6unf8JxWmQn7teiz_hfZ3XaHRr74r3PWkf1NHFQPZJjQUDrcNlfOU_o8fvqgwsgdhZnnbjCrIme3H2syCxVul9o4kL8KAMsFku1btCQ7DmHQ_FHqGX0ZpbxqBZgmptV8qy_6Ofs6EwmYW20oDrefVnJLmBZtu1CcFsy-kcWcyxnQQNfP0ij_RKNMg&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.7.1.0, None, Sign in to your account
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/v2.0/authorize?client_id=bba99bf5-c7c4-44f5-8f3b-44d669af52f2&redirect_uri=https%3A%2F%2Fpublicclouddemo.dhl.com%2Fsignin-oidc&response_type=code&scope=openid%20profile&code_challenge=wYB61s7HsbIHM2CCoeqQDVMhjXCmVcoX7LbSEj3VMAU&code_challenge_method=S256&response_mode=form_post&nonce=637609550532863980.YzJlZTA2ZjAtM2NiYS00NzczLThhMGUtOGIxYjJhZjAyNzdmMjcyZjdhYmMtYTc0NS00ZWIxLTk0MzItYjMxZWQ1Mzc4NWRj&state=CfDJ8HNoFLAzgqFHpH79dYYX08b_vG_VDd9IS5ZfbgnyBewTmCoc33ZDgODQSq4G8kWMUAktVDEBSDzgfP-py21brVYqfgMVE77u3eVxK_euHnQ-EEF53ioQpXKpPDxBzQ6opa7mZ-bSGZSnKGcSG_NbOa2nfHDSZgSKB_EUL4KvzvuNZ65zYbeTllz1TXeCsrcNXNcxAvLpetXd4IAwGn_AUdtgHOXI8rj9P0RdrnyFs6fA4S2T7w_d_8wC_NVW3jodVRGvTF9sHrv6jfeGKL_KwVADPT21P-d9il70zXz18C0syNX7KK9MeI9Q7QkGHDv7VnF-Yf4sd4_wvImYVsrBa7gC2ny3fcD9B87_S88MtKxbrehLba2b_MnChJVWVqmIXg&x-client-SKU=ID_NETSTANDARD2_0&x-client-ver=6.7.1.0, None, Sign in to your account
+https://ecase-stg.dhl.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffidstaging2.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DjZJPU8IwEMW%252FSif3tmlBhQxlBmEcmVHsAHrwFpItZCZNajZF%252FfaWAP456HhN3u7v7b4dIa913rBJ63dmCS8toI%252Feam2QHX8K0jrDLEeFzPAakHnBVpP7O5YnlDXOeiusJtEEEZxX1kytwbYGtwK3VwIel3cF2XnfIEtTEBwhRr9N5E4nwtap4fuGbyGRlkSzjq0MPzT5KqmURM%252B3ymzzzyIuK0w1piS6sU5A8F6QimsEEs1nBVktppJzCZtBL7ushhWlvUEm8%252BxqU9ELIaUcZJ0QS46o9vBVitjC3HQ84wuS0zyL6VVM%252B2tKWd5nWS%252FpXw6fSVSepr5WRnbG%252Fl7R5ihCdrtel3H5sFqHBnslwS069X%252B38wQOw2a6pmQ8Cumw4Nh9D%252BxvM%252FycEhmfqdjBIKATPEYWG%252Ft6wI%252FS75ATsmEH0%252FNZabUS79FEa%252Fs6dcB9N4h3LYRMau5%252F95ElWXhRMq6ClLUGGxCqUiBJOj5hf97k%252BAM%253D%26RelayState%3Dhttps%253A%252F%252Fecase-stg.dhl.com%252Fnavpage.do, ServiceNow, Express Case Management (e-CASE)
+https://woi.dhl.com/, nginx/1.21.0, DPDHL - Warehouse Operations Intelligence
+https://tst.conditionmonitoring.iot.dhl.com:443/, None, Condition Monitoring
+https://int.conditionmonitoring.iot.dhl.com:443/, None, Condition Monitoring
+https://dscotmuk01test.dhl.com:443/, None, OTM - Oracle Transportation Management
+https://int.conditionmonitoring.iot.dhl.com/, None, Condition Monitoring
+https://tst.conditionmonitoring.iot.dhl.com/, None, Condition Monitoring
+https://dscotmuk01test.dhl.com/, None, OTM - Oracle Transportation Management
+https://woi.dhl.com:443/, nginx/1.21.0, DPDHL - Warehouse Operations Intelligence
+https://dmac.dhl.com/smartr/, Apache, SMARTR Download
+https://dev.warehouseintelligence.iot.dhl.com:443/, nginx/1.21.0, DPDHL - Warehouse Operations Intelligence
+https://dev.woi.dhl.com:443/, nginx/1.21.0, DPDHL - Warehouse Operations Intelligence
+https://dmac.dhl.com/smartr/, Apache, SMARTR Download
+https://dev.woi.dhl.com/, nginx/1.21.0, DPDHL - Warehouse Operations Intelligence
+https://dev.warehouseintelligence.iot.dhl.com/, nginx/1.21.0, DPDHL - Warehouse Operations Intelligence
+https://xpickprd.dhl.com/login.html, None, Frontline Command Center
+http://cdn-cj-assets-staging.dhl.com:80/, None
+https://dev.conditionmonitoring.iot.dhl.com/, None, Condition Monitoring
+https://dev.conditionmonitoring.iot.dhl.com:443/, None, Condition Monitoring
+https://cdn-cj-assets-staging.dhl.com:443/, Microsoft-HTTPAPI/2.0
+https://ecase.dhl.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DjZLLTsMwEEV%252FJfI%252BL1NCazWVQitEpVKiJrBgZ5wJteTYweO08PekaXktqFjavjPnzlxPkTeKtizr3FZv4LUDdN5bozSy40tKOquZ4SiRad4AMidYkd2tGA0i1lrjjDCKeBkiWCeNnhuNXQO2ALuTAh42q5RsnWuRhSEIjhBUWxUI04Sa71r%252B0p8N8RY9V2p%252BaPAtr2X1JeZVjaHCkHg3xgoY%252FKak5gqBeMtFSor1fBxfxvR5zOuLiyQWdDK6ohAnk8u6pkIA1L0Qc44od%252FBditjBUqPj2qWERjT2oys%252FGpVRxOiIxUmQjOgT8fLTpNdSV1K%252FnF%252FL81GE7LYscz%252B%252FL8qhwU5WYNe9%252Bj8beQSLwzb6hmQ2HdJgg1v7M6DzRvhnKmT2SexZcKTiMSFfm%252F2BPg1%252FMk7Elh38Lhe5UVK8e5lSZj%252B3wF0%252Fg7MdDHE03P1tIw7i4UZWfj1IGTRcqqyqLCCScHbi%252Fv6Dsw8%253D%26RelayState%3Dhttps%253A%252F%252Fecase.dhl.com%252Fnavpage.do, ServiceNow, Express Case Management (e-CASE)
+https://ecase.dhl.com:443/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DjZJJT8MwEIX%252FSuR71i4oVlMptEJUYolo4cBtak%252BoJccOHqfAvydNy3YAcbT9Zr438zwjaHTW8rLzO3OHzx2SD14bbYgfXwrWOcMtkCJuoEHiXvB1eX3FsyjhrbPeCqtZUBKh88qahTXUNejW6PZK4P3dVcF23rfE4xgFEEZypyNhm9jAvoWn%252FmxZsOy5ysChwZe8VvJTDLKmWFPMggvrBA5%252BC1aDJmTBalmw9c2irqeA4xQkjjKRCLmtJ9OJzLM8T3Oo81EvpAqI1B6%252FSok6XBnyYHzBsiRLw%252BQsTMabJOHZmKfTaHKWPbKgOk16roxU5unvtWyPIuKXm00VVrfrzdBgryS6m179n408oKNhG31DNp8NafDBrfse0N9G4CMVNv8g9iw8UumYUGjsy4E%252Bi78zTsSWH%252FyulpXVSrwFpdb2ZeEQfD%252BDdx0OcTTgf7eRRulwo2RYD1KODShdSumQiMXzE%252FfnH5y%252FAw%253D%253D%26RelayState%3Dhttps%253A%252F%252Fecase.dhl.com%252Fnavpage.do, ServiceNow, Express Case Management (e-CASE)
+https://link-ccng.dhl.com/, Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0, DHL LINK Control Center
+https://link-ccng.dhl.com:443/, Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0, DHL LINK Control Center
+https://ecaseproc.dhl.com:443/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DjVLLTsMwEPyVyPckzqMPrKZSaIWoxCNqAwduJt5QS44dvE6BvydNCwUhEFd7Zmd2ZmfIGxW3LO%252FcVq%252FhuQN03mujNLLDT0Y6q5nhKJFp3gAyV7FNfn3F4oCy1hpnKqOIlyOCddLohdHYNWA3YHeygrv1VUa2zrXIwhAqjtBzqkBsVVCZJtR81%252FInCIQh3rLXlprvh5wotRSfYC5qDBWGxLswtoLBc0ZqrhCIt1pmZHOz4PSxPkunVExG42RUJ2k0PUumI0jSOhlNBO2BWHBEuYMTFbGDlUbHtctITOPIpxOfpiWlLE5ZNA4m4%252BiBeMVx23OphdRPf0fzeAAhuyzLwi9uN%252BUwYCcF2Jse%252Fd9U7sHikEg%252FlMxnQytscGy%252FFvW3Gf7RDpn%252FVMVDU742L3v1WfhV46jYsr3n1bIwSlZvXq6UeVlY4K7fw9kOhkoa7n63EQXR8CKFXw9QBg2XKhfCAiIJ50fd77c4fwc%253D%26RelayState%3Dhttps%253A%252F%252Fecaseproc.dhl.com%252Fnavpage.do, ServiceNow, ServiceNow
+http://dscapps.dhl.com:80/, Microsoft-IIS/10.0, 
+https://idp-gait-back.dhl.com:443/my.logout.php3?errorcode=19, None, BIG-IP logout page
+https://smartconnect.uat.dhl.com:443/, None, Smart Connect
+https://ebca-tst.dhl.com/PELIKAN_FO/, Microsoft-IIS/10.0
+https://smartconnect.uat.dhl.com/, None, Smart Connect
+https://ebca-tst.dhl.com/PELIKAN_FO/, Microsoft-IIS/10.0
+https://idp-gait-back.dhl.com/my.logout.php3?errorcode=19, None, BIG-IP logout page
+https://selonc.spl-test.dhl.com:443/, None, Apache Tomcat/9.0.46
+https://ecaseproc.dhl.com/auth_redirect.do?sysparm_stack=no&sysparm_url=https%3A%2F%2Ffid.dhl.com%2Fadfs%2Fls%2F%3FSAMLRequest%3DjVJdT8IwFP0rS9%252F36QbYMJIJMZIoLoA%252B%252BFbaO2nStbO3A%252F33joGKMRpf23PuOfecO0ZWq6ShReu2egkvLaDzXmulkR5%252FctJaTQ1DiVSzGpA6TlfF3S1Ngog21jjDjSJegQjWSaOnRmNbg12B3UkOD8vbnGyda5CGIXCG0HF4ILYq4KYONds17BkCYYg367SlZochX5RKik8wExWGCkPiXRvLofeck4opBOLNZzlZLaYDGMXxJYdsmGRikI4YbDZplcZVJrLBxSjpgFgyRLmDLypiC3ONjmmXkyRKYj8a%252BlG6jiKapDQeBnGaPRGvPG17JbWQ%252BvnvaDZHENKb9br0y%252FvVuh%252BwkwLsokP%252FN5VHsNgn0g0lk3HfCu0d2%252FOi%252FjbDPtohk5%252BqeGzK12Z%252FUB%252BH5xonxYYePM9npVGSv3mFUmY%252FtcBct4ezLfSV1Mz9biMO4v5FCr%252FqoRRqJlUhhAVEEk5Out9vcfIO%26RelayState%3Dhttps%253A%252F%252Fecaseproc.dhl.com%252Fnavpage.do, ServiceNow, ServiceNow
+https://selonc.spl-test.dhl.com/, None, Apache Tomcat/9.0.46
+https://cdn-gci.dhl.com:443/, 
+https://coi.dhl.com:443/, None, Smart Connect | Conflict of Interest
+http://cdn-cj-assets.dhl.com:80/, None
+https://tst.airquality.dhl.com:443/, None, Error
+https://airquality.dhl.com:443/, None, Error
+https://keycloak-ppa.dhl.com/, None
+https://coi.dhl.com/, None, Smart Connect | Conflict of Interest
+https://conditionmonitoring.iot.dhl.com:443/, None, Condition Monitoring
+https://deliver-it.dhl.com:443/, None, Guest | Welcome | DHL | Deutschland | DELIVER IT
+https://airquality.dhl.com/, None, Error
+https://conditionmonitoring.iot.dhl.com/, None, Condition Monitoring
+https://gci.metadeploy.com/, 
+https://tst.airquality.dhl.com/, None, Error
+https://dscapps-tst.dhl.com/PELIKAN_FO/, Microsoft-IIS/10.0
+https://dgfmeaoasysmapp.dhl.com:443/, Microsoft-IIS/10.0, IIS Windows Server
+https://dgfmeaoasysmapp.dhl.com/, Microsoft-IIS/10.0, IIS Windows Server
+https://keycloak-ppa.dhl.com:443/, None
+https://dscapps-tst.dhl.com/PELIKAN_FO/, Microsoft-IIS/10.0
+http://cdn-cj-assets-development.dhl.com:80/, None
+https://mydhli-ppa.dhl.com:443/, None, myDHLi
+https://login.microsoftonline.com/cd99fef8-1cd3-4a2a-9bdf-15531181d65e/oauth2/authorize?response_type=code&client_id=2c2d3d36-72cd-49ca-82b7-09307889a5c3&scope=openid&nonce=f54ea624-4949-4a86-a9e6-ec4deae8557f&redirect_uri=https%3a%2f%2fgcpt.dhl.com%2f&state=AppProxyState%3a%7b%22InvalidTokenRetry%22%3anull%2c%22IsMsofba%22%3afalse%2c%22OriginalRawUrl%22%3a%22https%3a%5c%2f%5c%2fgcpt.dhl.com%5c%2f%22%2c%22RequestProfileId%22%3anull%2c%22SessionId%22%3a%22bf3cce65-60bb-4d2f-bc21-e301944f6329%22%7d%23EndOfStateParam%23&client-request-id=bf3cce65-60bb-4d2f-bc21-e301944f6329, None, Sign in to your account
+https://ebca-dev.dhl.com/PELIKAN_FO/, Microsoft-IIS/10.0
+https://cdn-cj-assets.dhl.com:443/, Microsoft-HTTPAPI/2.0
+https://supplierinnovation.dhl.com:443/, , Trailblazer – Supplier-innovation portal, WordPress 5.7.2, WPML ver:4.4.10 stt:1,3;
+https://www.dscimagegallery.dhl.com/site/login, nginx, DSC Image Gallery - Login Site
+https://cdn-cj-assets-development.dhl.com:443/, Microsoft-HTTPAPI/2.0
+https://supplierinnovation.dhl.com/, , Trailblazer – Supplier-innovation portal, WordPress 5.7.2, WPML ver:4.4.10 stt:1,3;
+https://ebca-dev.dhl.com/PELIKAN_FO/, Microsoft-IIS/10.0
+https://www.dscimagegallery.dhl.com/site/login, nginx, DSC Image Gallery - Login Site
+https://link-ccng-qa.dhl.com:443/, Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0, DHL LINK Control Center
+https://link-ccng-qa.dhl.com/, Windows-Azure-Web/1.0 Microsoft-HTTPAPI/2.0, DHL LINK Control Center
+https://myapollo.dhl.com:443/, None, Apollo
+https://techsupport.express.dhl.com/csm, ServiceNow, Customer Service Portal - Customer Support
+https://techsupport.express.dhl.com/csm, ServiceNow, Customer Service Portal - Customer Support
+https://bootcamp.dhl.com.ar:443/, cloudflare, Home | DHL Bootcamp 2020, HubSpot

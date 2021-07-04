@@ -1,0 +1,113 @@
+09:28:58.123107 ZoomEye: check callback failed for the configuration
+09:28:58.123108 AlienVault: API key data was not provided
+09:28:58.123116 BinaryEdge: check callback failed for the configuration
+09:28:58.123122 DNSDB: API key data was not provided
+09:28:58.123553 DNSDB: check callback failed for the configuration
+09:28:58.123132 FacebookCT: check callback failed for the configuration
+09:28:58.123138 GitHub: check callback failed for the configuration
+09:28:58.123161 NetworksDB: API key data was not provided
+09:28:58.123191 Chaos: check callback failed for the configuration
+09:28:58.123213 C99: check callback failed for the configuration
+09:28:58.123215 Cloudflare: API key data was not provided
+09:28:58.123217 PassiveTotal: check callback failed for the configuration
+09:28:58.123219 CIRCL: check callback failed for the configuration
+09:28:58.123225 Umbrella: API key data was not provided
+09:28:58.123664 Umbrella: check callback failed for the configuration
+09:28:58.123241 ThreatBook: check callback failed for the configuration
+09:28:58.123245 Twitter: API key data was not provided
+09:28:58.123681 Twitter: check callback failed for the configuration
+09:28:58.123253 URLScan: API key data was not provided
+09:28:58.123260 ReconDev: check callback failed for the configuration
+09:28:58.123271 Spyse: check callback failed for the configuration
+09:28:58.123277 SecurityTrails: check callback failed for the configuration
+09:28:58.123297 WhoisXMLAPI: check callback failed for the configuration
+09:28:58.123309 Shodan: check callback failed for the configuration
+09:28:58.123317 ZETAlytics: check callback failed for the configuration
+09:29:03.518970 Querying AlienVault for apple.com subdomains
+09:29:03.519010 Querying Anubis for apple.com subdomains
+09:29:03.519016 Querying Baidu for apple.com subdomains
+09:29:03.519022 Querying ArchiveToday for apple.com subdomains
+09:29:03.519027 Querying Bing for apple.com subdomains
+09:29:03.519032 Querying Ask for apple.com subdomains
+09:29:03.519037 Querying Robtex for apple.com subdomains
+09:29:03.519041 Querying SiteDossier for apple.com subdomains
+09:29:03.519045 Querying ArchiveIt for apple.com subdomains
+09:29:03.519049 Querying Brute Forcing for apple.com subdomains
+09:29:03.519054 Querying SonarSearch for apple.com subdomains
+09:29:03.519058 Querying Sublist3rAPI for apple.com subdomains
+09:29:03.519062 Querying GoogleCT for apple.com subdomains
+09:29:03.519066 Querying ThreatCrowd for apple.com subdomains
+09:29:03.519070 Querying Wayback for apple.com subdomains
+09:29:03.519076 Querying ThreatMiner for apple.com subdomains
+09:29:03.519080 Querying URLScan for apple.com subdomains
+09:29:03.519083 Querying Yahoo for apple.com subdomains
+09:29:03.519090 Querying VirusTotal for apple.com subdomains
+09:29:03.519095 Querying BuiltWith for apple.com subdomains
+09:29:03.519099 Querying CommonCrawl for apple.com subdomains
+09:29:03.519102 Querying BufferOver for apple.com subdomains
+09:29:03.519106 Querying Crtsh for apple.com subdomains
+09:29:03.519110 Querying DNSDumpster for apple.com subdomains
+09:29:03.519114 Querying CertSpotter for apple.com subdomains
+09:29:03.519118 Querying HackerOne for apple.com subdomains
+09:29:03.519123 Querying HackerTarget for apple.com subdomains
+09:29:03.519126 Querying IPv4Info for apple.com subdomains
+09:29:03.519131 Querying RapidDNS for apple.com subdomains
+09:29:03.519134 Querying Riddler for apple.com subdomains
+09:29:03.519139 Querying Censys for apple.com subdomains
+09:29:03.519143 Querying Mnemonic for apple.com subdomains
+09:29:08.519041 DNSDumpster: https://dnsdumpster.com/: Get "https://dnsdumpster.com/": net/http: TLS handshake timeout
+09:29:33.518617 URLScan: https://urlscan.io/api/v1/result/0eb4ab0a-1a7b-4d9c-9687-6b30a0a78ea6/: 429 Too Many Requests
+09:29:58.518531 RADb: https://rdap.arin.net/registry/autnum/16509: Get "https://rdap.arin.net/registry/autnum/16509": net/http: TLS handshake timeout
+09:30:08.518845 RADb: dial tcp 198.108.0.18:43: connect: connection refused
+09:30:18.518704 RADb: dial tcp 198.108.0.18:43: connect: connection refused
+09:30:18.519505 RADb: https://rdap.arin.net/registry/ip/216.70.97.25: Get "https://rdap.arin.net/registry/ip/216.70.97.25": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:56629->1.1.1.1:53: read: connection refused
+09:30:23.519424 RADb: https://rdap.arin.net/registry/ip/60.29.205.102: Get "https://rdap.arin.net/registry/ip/60.29.205.102": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:57954->1.1.1.1:53: read: connection refused
+09:30:33.519199 NetworksDB: https://networksdb.io/ip/198.32.176.190: Failed to extract the autonomous system href
+09:30:43.519985 ShadowServer: 25.97.70.216.origin.asn.shadowserver.org: DNS TXT record query returned zero answers
+09:30:53.519846 RADb: https://rdap.arin.net/registry/ip/198.32.176.190: Get "https://rdap.arin.net/registry/ip/198.32.176.190": dial tcp 199.71.0.160:443: connect: connection refused
+09:30:53.519911 RADb: https://rdap.arin.net/registry/ip/104.111.238.165: Get "https://rdap.arin.net/registry/ip/104.111.238.165": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:62435->1.1.1.1:53: read: connection refused
+09:30:58.520963 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:6c00:2b5::3005: Get "https://rdap.arin.net/registry/ip/2a02:26f0:6c00:2b5::3005": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:50515->1.1.1.1:53: read: connection refused
+09:31:03.520999 RADb: https://rdap.arin.net/registry/ip/120.78.32.73: Get "https://rdap.arin.net/registry/ip/120.78.32.73": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:52649->1.1.1.1:53: read: connection refused
+09:31:18.522041 RADb: dial tcp 198.108.0.18:43: connect: connection refused
+09:31:28.522391 ShadowServer: 102.205.29.60.origin.asn.shadowserver.org: DNS TXT record query returned zero answers
+09:31:38.522755 TeamCymru: 190.176.32.198.origin.asn.cymru.com: DNS TXT record query error: Query on resolver 154.32.109.18:53, for 190.176.32.198.origin.asn.cymru.com type 16 returned error NXDOMAIN
+09:32:13.522618 ShadowServer: dial tcp 154.9.2.14:43: connect: connection refused
+09:32:23.522754 ShadowServer: dial tcp 154.9.2.14:43: connect: connection refused
+09:32:28.522709 ShadowServer: 148.250.12.216.origin.asn.shadowserver.org: DNS TXT record query returned zero answers
+09:32:38.522595 RADb: https://rdap.arin.net/registry/autnum/8075: Get "https://rdap.arin.net/registry/autnum/8075": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:59329->1.1.1.1:53: read: connection refused
+09:32:43.523476 RADb: https://rdap.arin.net/registry/ip/216.12.250.148: Get "https://rdap.arin.net/registry/ip/216.12.250.148": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:55538->1.1.1.1:53: read: connection refused
+09:32:43.523536 RADb: https://rdap.arin.net/registry/ip/140.205.31.68: Get "https://rdap.arin.net/registry/ip/140.205.31.68": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:54748->1.1.1.1:53: read: connection refused
+09:32:48.523756 RADb: https://rdap.arin.net/registry/ip/104.111.242.88: Get "https://rdap.arin.net/registry/ip/104.111.242.88": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:53022->1.1.1.1:53: read: connection refused
+09:32:48.524774 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:1700:14::b856:fb47: Get "https://rdap.arin.net/registry/ip/2a02:26f0:1700:14::b856:fb47": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:51619->1.1.1.1:53: read: connection refused
+09:32:48.524806 RADb: https://rdap.arin.net/registry/ip/59.56.26.16: Get "https://rdap.arin.net/registry/ip/59.56.26.16": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:58900->1.1.1.1:53: read: connection refused
+09:32:53.525308 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:6b:2a3::20b6: Get "https://rdap.arin.net/registry/ip/2a02:26f0:6b:2a3::20b6": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:63426->1.1.1.1:53: read: connection refused
+09:32:53.525340 RADb: https://rdap.arin.net/registry/ip/184.86.251.217: Get "https://rdap.arin.net/registry/ip/184.86.251.217": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:64317->1.1.1.1:53: read: connection refused
+09:32:58.525238 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:64::215:f2e3: Get "https://rdap.arin.net/registry/ip/2a02:26f0:64::215:f2e3": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:64438->1.1.1.1:53: read: connection refused
+09:33:08.525226 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:fe00:2ac::21b9: Get "https://rdap.arin.net/registry/ip/2a02:26f0:fe00:2ac::21b9": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:52746->1.1.1.1:53: read: connection refused
+09:34:03.512570 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:7100:3bc::11bd: Get "https://rdap.arin.net/registry/ip/2a02:26f0:7100:3bc::11bd": net/http: TLS handshake timeout
+09:34:33.506655 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:3100::1732:3718: Get "https://rdap.db.ripe.net/ip/2a02:26f0:3100::1732:3718": context deadline exceeded (Client.Timeout exceeded while awaiting headers)
+09:34:38.506502 RADb: https://rdap.arin.net/registry/ip/92.123.77.35: Get "https://rdap.arin.net/registry/ip/92.123.77.35": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:60116->1.1.1.1:53: read: connection refused
+09:34:43.508136 RADb: https://rdap.arin.net/registry/ip/52.23.40.155: Get "https://rdap.arin.net/registry/ip/52.23.40.155": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:61695->1.1.1.1:53: read: connection refused
+09:34:43.509300 RADb: https://rdap.arin.net/registry/ip/134.24.9.200: Get "https://rdap.arin.net/registry/ip/134.24.9.200": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:61985->1.1.1.1:53: read: connection refused
+09:34:43.509341 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:b200::5435:af18: Get "https://rdap.arin.net/registry/ip/2a02:26f0:b200::5435:af18": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:51560->1.1.1.1:53: read: connection refused
+09:34:58.518489 RADb: dial tcp 198.108.0.18:43: connect: connection refused
+09:35:08.524577 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:120:2a5::1054: Get "https://rdap.arin.net/registry/ip/2a02:26f0:120:2a5::1054": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:62176->1.1.1.1:53: read: connection refused
+09:36:28.524171 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:f2::48f7:b8b8: Get "https://rdap.db.ripe.net/ip/2a02:26f0:f2::48f7:b8b8": net/http: TLS handshake timeout
+09:36:53.524613 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:10:2a7::1c50: Get "https://rdap.arin.net/registry/ip/2a02:26f0:10:2a7::1c50": net/http: TLS handshake timeout
+09:36:58.524946 ShadowServer: 217.251.86.184.origin.asn.shadowserver.org: DNS TXT record query returned zero answers
+09:37:08.524675 RADb: https://rdap.arin.net/registry/ip/95.101.80.26: Get "https://rdap.db.ripe.net/ip/95.101.80.26": dial tcp: lookup rdap.db.ripe.net on 1.1.1.1:53: read udp 192.168.2.142:58245->1.1.1.1:53: read: connection refused
+09:37:13.525282 RADb: https://rdap.arin.net/registry/ip/95.101.81.59: Get "https://rdap.db.ripe.net/ip/95.101.81.59": dial tcp: lookup rdap.db.ripe.net on 1.1.1.1:53: read udp 192.168.2.142:63610->1.1.1.1:53: read: connection refused
+09:39:38.522681 ShadowServer: dial tcp 154.9.2.14:43: connect: connection refused
+09:39:43.522972 RADb: https://rdap.arin.net/registry/ip/163.171.245.200: Get "https://rdap.arin.net/registry/ip/163.171.245.200": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:60687->1.1.1.1:53: read: connection refused
+09:39:43.522985 RADb: https://rdap.arin.net/registry/ip/2a01:53c0:ff08:ffff:c873:794f:b3d7:245e: Get "https://rdap.arin.net/registry/ip/2a01:53c0:ff08:ffff:c873:794f:b3d7:245e": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:60583->1.1.1.1:53: read: connection refused
+09:39:48.522891 RADb: https://rdap.arin.net/registry/ip/163.171.243.222: Get "https://rdap.arin.net/registry/ip/163.171.243.222": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:55824->1.1.1.1:53: read: connection refused
+09:39:58.523662 RADb: https://rdap.arin.net/registry/ip/2a01:53c0:ff03:ffff:40e1:9b85:cf4a:628f: Get "https://rdap.arin.net/registry/ip/2a01:53c0:ff03:ffff:40e1:9b85:cf4a:628f": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:62106->1.1.1.1:53: read: connection refused
+09:39:58.523673 ShadowServer: dial tcp 154.9.2.14:43: connect: connection refused
+09:40:03.524355 ShadowServer: dial tcp 154.9.2.14:43: connect: connection refused
+09:40:08.524242 RADb: https://rdap.arin.net/registry/ip/2a01:53c0:ff02:ffff:f285:c4a6:b619:fe7: Get "https://rdap.arin.net/registry/ip/2a01:53c0:ff02:ffff:f285:c4a6:b619:fe7": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:63097->1.1.1.1:53: read: connection refused
+09:40:18.523871 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:f7::5c7b:e061: Get "https://rdap.arin.net/registry/ip/2a02:26f0:f7::5c7b:e061": dial tcp: lookup rdap.arin.net on 1.1.1.1:53: read udp 192.168.2.142:51276->1.1.1.1:53: read: connection refused
+09:42:08.531423 RADb: https://rdap.arin.net/registry/ip/2a02:26f0:e9:392::1c50: The request returned zero results
+09:43:23.530485 RADb: https://rdap.arin.net/registry/arin_originas0_networksbyoriginas/4837: 404 
+09:43:33.530195 RADb: https://rdap.arin.net/registry/arin_originas0_networksbyoriginas/17816: 404 
+09:43:43.529964 RADb: https://rdap.arin.net/registry/arin_originas0_networksbyoriginas/9808: 404 
+09:46:45.908195 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/apple.com/url_list?page=996: Get "https://otx.alienvault.com/api/v1/indicators/domain/apple.com/url_list?page=996": context canceled

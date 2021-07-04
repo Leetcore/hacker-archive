@@ -1,0 +1,77 @@
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <title>Internet-Safari</title>
+  <style>
+  body {
+    background-color: #333;
+    color: white;
+  }
+  a:visited {
+    color: #CCC;
+  }
+  a, a:hover {
+    color: white;
+  }
+  iframe {
+    width: 100%;
+    min-height: 600px;
+  }
+  button {
+    padding: 20px;
+  }
+  #menue {
+    margin-bottom: 10px;
+  }
+  </style>
+  <script>
+  timer = undefined
+  websites = ["https://tickets-museum.fcbayern.com:443/", "https://tickets-museum.fcbayern.com/", "https://login.fcbayern.com:443/", "http://login.fcbayern.com:80/", "https://tickets-q.fcbayern.com:443/", "http://content.fcbayern.com:80/", "https://tickets-q.fcbayern.com/", "https://login-q.fcbayern.com:443/", "https://login-q.fcbayern.com/", "https://asiastore.fcbayern.com:443/stores/fcb/en", "https://fanclub.fcbayern.com/fanclubs/index.jsp", "https://tickets-bb.fcbayern.com:443/", "https://strack.asiastore.fcbayern.com:443/", "https://tickets-bb.fcbayern.com/", "http://usshop.fcbayern.com:80/", "https://usshop.fcbayern.com:443/", "https://strack.asiastore.fcbayern.com/", "https://ticketportal.fcbayern.com:443/", "https://m.asiastore.fcbayern.com:443/stores/fcb/mobile/en", "https://cloudinary.com/", "https://ticketportal.fcbayern.com:443/", "https://myfcb-q.fcbayern.com/de", "https://fanclub.fcbayern.com/fanclubs/index.jsp", "https://cloudinary.com/", "https://m.asiastore.fcbayern.com/stores/fcb/mobile/en", "https://forum.fcbayern.com:443/", "https://fcbayern.com/en", "https://asiastore.fcbayern.com/stores/fcb/en", "https://cloudinary.com/", "https://forum.fcbayern.com/", "https://cloudinary.com/", "https://content.fcbayern.com:443/", "https://fcbayern.com/en", "https://fcbayern.com/en", "https://dam-q.fcbayern.com/", "https://dam-q.fcbayern.com:443/", "https://fcbayern.com/en", "https://emagazine-pdf-delivery.fcbayern.com:443/", "http://payments.asiastore.fcbayern.com:80/", "https://emagazine-pdf-delivery.fcbayern.com/", "https://dlportal.fcbayern.com:443/", "https://dlportal.fcbayern.com:443/"]
+  current = parseInt(localStorage.getItem("current")) || 0
+  if (websites.length - 1 < parseInt(current)) {
+    current = 0
+  }
+  
+  function next() {
+    clearTimeout(timer)
+    document.querySelector("#frame").setAttribute("src", "about:blank")
+    current++
+    localStorage.setItem("current", current)
+    document.querySelector("#url").setAttribute("href", websites[current])
+    document.querySelector("#url").innerText = websites[current]
+    document.querySelector("#frame").setAttribute("src", websites[current])
+    document.querySelector("#stat").innerText = current + " of " + (websites.length - 1) + " Websites"
+    timer = setTimeout(next, 5 * 1000)
+  }
+  function stop() {
+    clearTimeout(timer)
+  }
+  function back() {
+    clearTimeout(timer)
+    document.querySelector("#frame").setAttribute("src", "about:blank")
+    current--
+    localStorage.setItem("current", current)
+    document.querySelector("#url").setAttribute("href", websites[current])
+    document.querySelector("#url").innerText = websites[current]
+    document.querySelector("#frame").setAttribute("src", websites[current])
+    document.querySelector("#stat").innerText = current + " of " + (websites.length - 1) + " Websites"
+    timer = setTimeout(next, 5 * 1000)
+  }
+  </script>
+</head>
+<body>
+<div id="menue">
+  <button onclick="back()">Back</button> <button onclick="stop()">Stop autoload</button> 
+  <button onclick="next()">Next</button> URL: <a id="url" href="" target="_blank"></a>, <span id="stat"></span>, 
+  <a href="#" onclick="current=0;next();back()">Back to start.</a>
+</div>
+<div id="main">
+  <iframe id="frame" referrerpolicy="no-referrer" sandbox="allow-scripts, allow-forms"></iframe>
+</div>
+<script>
+  next()
+  back()
+</script>
+</body>
+</html>

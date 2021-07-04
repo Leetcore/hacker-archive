@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="de">
 
 <head>
 	<meta charset="UTF-8">
-	<link rel="me" href="https://twitter.com/1337core">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>🏄‍♂️🌍 1337observer - Hacker Archive</title>
-	<link rel="alternate" type="application/rss+xml" title="RSS Feed for 1337observer" href="/feed.xml" />
+	<title>🌍🏄🏻‍♂️👁 1337observer</title>
+	<link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed.xml" />
 	<link rel="stylesheet" type="text/css" href="/style.css" />
 	<!--
 
@@ -19,9 +19,21 @@
 
 <body>
 	<div id="main">
-		<h1>1337observer</h1>
-		<p>This is very work in progress. Nothing to see here...</p>
-		<h3>new</h2>
+		<pre>
+█▀ ██▀▄▄ █▀▄▄ █▄▄▄ ████▀▀███▀▀███▀▀██▀▀██▀██▀██▀██▀▀██▀██
+██ ████▄▀███▄▀███ ████ ██ █ ▀▀▄█ ▀██ ▀▀█ █ █ ██ █ ▀▀█ █ █
+██ ██▄▀▀ █▄▀▀ ██▌▐██▀█▄▀▀▄█ ▀▀▄█▀▀▄█ ▀▀█ ▄▀█▄▀▄██ ▀▀█ ▄▀█
+		</pre>
+		<h1 style="text-align: center">Internet-Safari 🦎🦉🦒</h1>
+		<p>
+			Herzlich Willkommen im Internet. Die wilde Fahrt beginnt gleich!
+		</p>
+		<p>
+			Wir suchen im Web nach interessanten, vergessen Webseiten. In diesem Repo sind einige Scripte, 
+			Anleitungen und Wortlisten, um sich an der Suche zu beteiligen.
+		</p>
+
+		<h3>feed</h2>
 		<ul>
 			{% for post in site.posts limit:3 %}
 			<li>
@@ -29,18 +41,21 @@
 			</li>
 			{% endfor %}
 		</ul>
-		
-		<h3>lists</h2>
+
+		<h2>anleitungen</h2>
 		<ul>
-			<li><a href="https://raw.githubusercontent.com/Leetcore/hacker-archive/master/lists/dir-folder.txt">dir-folder.txt - Folder discovery</a></li>
-			<li><a href="https://raw.githubusercontent.com/Leetcore/hacker-archive/master/lists/forced-browsing.txt">forced-browsing.txt - Folder discovery</a></li>
-			<li><a href="https://raw.githubusercontent.com/Leetcore/hacker-archive/master/lists/small-fuzzing.txt">small-fuzzing.txt - Small fuzzing list</a></li>
-			<li><a href="https://raw.githubusercontent.com/Leetcore/hacker-archive/master/lists/xss.txt">xss.txt - Small xss list</a></li>
+			<li><a href="readme.md">Allgemein</a></li>
+			<li><a href="howto/amass">Amass</a></li>
 		</ul>
-		
-		<h3>bug bounty programs</h3>
-		<p>Test your skills legally in a bug bountry program:
-			<a href="https://github.com/Leetcore/hacker-archive/blob/master/bugbounty/list.md">List of bug bounty programs</a>.</p>
+
+		<h2>listen</h2>
+		<ul>
+			<li><a href="https://raw.githubusercontent.com/Leetcore/1337-observer/master/lists/subdomains.txt">subdomains.txt - Subdomain Brute Force</a></li>
+			<li><a href="https://raw.githubusercontent.com/Leetcore/1337-observer/master/lists/exts.txt">exts.txt - Dateinamenerweiterungen: zip, log, txt</a></li>
+			<li><a href="https://raw.githubusercontent.com/Leetcore/1337-observer/master/lists/leaky-urls.txt">leaky-urls.txt - Leaky Pfade</a></li>
+			<li><a href="https://raw.githubusercontent.com/Leetcore/1337-observer/master/lists/leaky_filenames.txt">leaky_filenames.txt - Interessante Dateinamen</a></li>
+			<li><a href="https://raw.githubusercontent.com/Leetcore/1337-observer/master/lists/forced-browsing.txt">forced-browsing.txt - Forced browsing Liste</a></li>
+		</ul>
 	</div>
 </body>
 

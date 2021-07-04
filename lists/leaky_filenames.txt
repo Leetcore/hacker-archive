@@ -1,0 +1,17 @@
+adminer
+admin
+backup
+back
+temp
+tmp
+upload
+uploads
+db
+database
+datenbank
+data
+daten
+version
+readme
+read
+anleitung

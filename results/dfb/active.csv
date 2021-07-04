@@ -1,0 +1,187 @@
+https://presse.dfb.de/pr-start/, Apache, Start :: Presse :: Der DFB :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://presse.dfb.de/pr-start/, Apache, Start :: Presse :: Der DFB :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+http://fanshop.dfb.de:80/, AkamaiGHost, Invalid URL
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+http://toolbox-doku.dfb.de:80/, Apache, DFB Toolbox
+https://toolbox-doku.dfb.de:443/, Apache, DFB Toolbox
+https://tickets.dfb.de/, nginx, Ticketshop
+https://tickets.dfb.de:443/, nginx, Ticketshop
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://services.dfb.de/de/users/sign_in, None, mein.DFB
+https://services.dfb.de/de/users/sign_in, None, mein.DFB
+https://www.dfb.de/mein-fussball/, Apache, Training & Service :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://datencenter-tua.dfb.de/datencenter?action=dashboard&controller=datacenter, None, DFB Datencenter
+https://tickets.dfb.de/, nginx, Ticketshop
+https://tickets.dfb.de/, nginx, Ticketshop
+https://steuerhandbuch.dfb.de:443/, None, Willkommen im DFB Steuerhandbuch - dfb
+https://datencenter-tua.dfb.de/datencenter?action=dashboard&controller=datacenter, None, DFB Datencenter
+https://akkreditierungsportal.dfb.de/akk/de/index.html, Apache/2.4.6 (CentOS) mod_cluster/1.3.10.Final mod_jk/1.2.46, 
+https://www.dfb.de/die-mannschaft/start/, Apache, Start :: Die Mannschaft :: Männer-Nationalmannschaften :: Mannschaften :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://www.dfb.de/die-mannschaft/start/, Apache, Start :: Die Mannschaft :: Männer-Nationalmannschaften :: Mannschaften :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://assets03-kampagne.dfb.de:443/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://spieler.dfb.de:443/, None, Junioren- und Männermannschaften - DFB.de
+https://assets03-kampagne.dfb.de/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://akkreditierungsportal.dfb.de/akk/de/index.html, Apache/2.4.6 (CentOS) mod_cluster/1.3.10.Final mod_jk/1.2.46, 
+https://spieler.dfb.de/, None, Junioren- und Männermannschaften - DFB.de
+https://www.dfb.de/hospitality/start/, Apache, Start :: Hospitality :: Shops :: Erlebniswelt :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://login.microsoftonline.com/80fab529-91da-4991-a55b-b8195f9a5bfa/oauth2/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fmy.dfb.de%2F.auth%2Flogin%2Faad%2Fcallback&client_id=9d03bbc9-b2f1-4b38-82ed-0cbc6a5a2e4d&scope=openid+profile+email&response_mode=form_post&nonce=c40b4a5e03664477b8e7d6b040877f2d_20210626205142&state=redir%3D%252F, None, Sign in to your account
+https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&msaredir=0&client-request-id=17971db7-3a88-2bf2-22c6-cc97dc85473d&protectedtoken=true&claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&domain_hint=dfb.de&nonce=637603372031521059.f9c11396-6892-41fa-a1f8-b1db16f31ba4&state=Dcs9DsMgDEBhaG-SIRsJxokJQ9SzmBhLlVoh5a_XL8P3tmeNMc_m0VjfYiJhJI8Yg0eYA_g5DZo2AEzkaEnBTaDsGHRxGSQDKULmyba3G-uPx9de-PNdRfMgpb9l5eus8j62epf9Dw, None, Sign in to Outlook
+https://login.microsoftonline.com/80fab529-91da-4991-a55b-b8195f9a5bfa/oauth2/authorize?response_type=code+id_token&redirect_uri=https%3A%2F%2Fmy.dfb.de%2F.auth%2Flogin%2Faad%2Fcallback&client_id=9d03bbc9-b2f1-4b38-82ed-0cbc6a5a2e4d&scope=openid+profile+email&response_mode=form_post&nonce=2eeb972d7ded4ab9b4af2e94054b6031_20210626205142&state=redir%3D%252F, None, Sign in to your account
+https://www.dfb.de/hospitality/start/, Apache, Start :: Hospitality :: Shops :: Erlebniswelt :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://newsletter.dfb.de:443/anmelden, Apache/2.4.29 (Ubuntu), DFB.de Newsletter
+https://eventportal.dfb.de:443/, Apache/2.4.10 (Debian), DFB Manual Manager
+https://newsletter.dfb.de/anmelden, Apache/2.4.29 (Ubuntu), DFB.de Newsletter
+https://api-markenportal.dfb.de:443/, None
+https://fanclub-service.dfb.de:443/, Apache/2.4.25 (Win32) OpenSSL/1.0.2k PHP/5.6.30
+https://eventportal.dfb.de/, Apache/2.4.10 (Debian), DFB Manual Manager
+https://assets01-kampagne.dfb.de:443/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://assets01-kampagne.dfb.de/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://fanclub-service.dfb.de/, Apache/2.4.25 (Win32) OpenSSL/1.0.2k PHP/5.6.30
+https://api-markenportal.dfb.de/, None
+https://refz-dfb-pokal.dfb.de:443/, None, DFB Pokal Saison Report
+https://intg-dfb-pokal.dfb.de:443/, None, DFB Pokal Saison Report
+https://refz-dfb-pokal.dfb.de/, None, DFB Pokal Saison Report
+https://spielervermittler-intg.dfb.de:443/, None, React App
+https://intg-dfb-pokal.dfb.de/, None, DFB Pokal Saison Report
+https://spielervermittler-intg.dfb.de/, None, React App
+https://trainer.dfb.de:443/, None, Trainerbörse - DFB.de
+https://satbooking.dfb.de:443/, Microsoft-IIS/10.0, Customer Service Tool, Sportcast GmbHÂ©
+https://trainer.dfb.de/, None, Trainerbörse - DFB.de
+https://services-tua.dfb.de/de/users/sign_in, None, mein.DFB
+https://tv.dfb.de:443/, Apache, DFB-TV
+https://cms.dfb.de/typo3/index.php, Apache, TYPO3 CMS Login: DFB, TYPO3 CMS, https://typo3.org/, © Kasper Skårhøj 1998-2018, extensions are copyright of their respective owners.
+https://tv.dfb.de/, Apache, DFB-TV
+https://www.ehrenamtistunbezahlbar.dfb.de:443/, Pepyaka/1.19.0, Der wertvollste Kader der Welt - DFB Aktion Ehrenamt, Wix.com Website Builder
+https://services-tua.dfb.de/de/users/sign_in, None, mein.DFB
+https://satbooking.dfb.de/, Microsoft-IIS/10.0, Customer Service Tool, Sportcast GmbHÂ©
+https://www.ehrenamtistunbezahlbar.dfb.de/, Pepyaka/1.19.0, Der wertvollste Kader der Welt - DFB Aktion Ehrenamt, Wix.com Website Builder
+https://www.dfb.de/mein-fussball/, Apache, Training & Service :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://www.dfb.de/dfb-fussball-abzeichen/start/, Apache, Start :: DFB-Fußball-Abzeichen :: Sportlich :: Projekte & Programme :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://cms.dfb.de/typo3/index.php, Apache, TYPO3 CMS Login: DFB, TYPO3 CMS, https://typo3.org/, © Kasper Skårhøj 1998-2018, extensions are copyright of their respective owners.
+https://handicapteams.dfb.de:443/, None, Handicap-Teams - DFB.de
+https://markenportal.dfb.de/, None, Das Herz der DFB-Markenwelten | Markenportal des Deutschen FuÃball-Bundes | markenportal.dfb.de
+https://termine-tua.dfb.de:443/, None, Termine
+:: DFB - Deutscher Fußball-Bund e.V.
+https://termine-tua.dfb.de/, None, Termine
+:: DFB - Deutscher Fußball-Bund e.V.
+https://www.dfb.de/mein-fussball/, Apache, Training & Service :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://markenportal.dfb.de:443/, None, Das Herz der DFB-Markenwelten | Markenportal des Deutschen FuÃball-Bundes | markenportal.dfb.de
+https://akkbackoffice.dfb.de:443/, Apache/2.4.6 (CentOS), DFB Akkreditierung Admin
+http://lyncdiscover.dfb.de:80/, None
+https://handicapteams.dfb.de/, None, Handicap-Teams - DFB.de
+https://assets06-kampagne.dfb.de/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://assets06-kampagne.dfb.de:443/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://api-refz-markenportal.dfb.de:443/, None
+https://akkbackoffice.dfb.de/, Apache/2.4.6 (CentOS), DFB Akkreditierung Admin
+https://spielervermittler.dfb.de:443/, None, React App
+https://spielervermittler.dfb.de/, None, React App
+https://api-refz-markenportal.dfb.de/, None
+https://www.dfb.de/dfb-fussball-abzeichen/start/, Apache, Start :: DFB-Fußball-Abzeichen :: Sportlich :: Projekte & Programme :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://spielervermittler-refz.dfb.de:443/, None, React App
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://assets04-kampagne.dfb.de:443/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://tickets.dfb.de/, nginx, Ticketshop
+https://refz-markenportal.dfb.de:443/, None, Das Herz der DFB-Markenwelten | Markenportal des Deutschen FuÃball-Bundes | markenportal.dfb.de
+https://refz-markenportal.dfb.de/, None, Das Herz der DFB-Markenwelten | Markenportal des Deutschen FuÃball-Bundes | markenportal.dfb.de
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://search-tua.dfb.de:443/, None, Suche - DFB.de
+https://www.ehrenamtistunbezahlbar.dfb.de/, Pepyaka/1.19.0, Der wertvollste Kader der Welt - DFB Aktion Ehrenamt, Wix.com Website Builder
+https://vpn-mpls-gw.dfb.de:443/, None
+https://spielervermittler-refz.dfb.de/, None, React App
+https://assets04-kampagne.dfb.de/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://knowport.dfb.de:443/, Apache, KNOWPORT
+https://search-tua.dfb.de/, None, Suche - DFB.de
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://knowport.dfb.de/, Apache, KNOWPORT
+https://www.ehrenamtistunbezahlbar.dfb.de/, Pepyaka/1.19.0, Der wertvollste Kader der Welt - DFB Aktion Ehrenamt, Wix.com Website Builder
+https://assets05-kampagne.dfb.de:443/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://assets08-kampagne.dfb.de:443/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://search-live.dfb.de:443/, None, Suche - DFB.de
+https://mein.dfb.de/forum, None, DFB Fan Club Nationalmannschaft - Community
+https://sql.dfb.de:443/, Apache, phpMyAdmin
+https://assets08-kampagne.dfb.de/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://search-live.dfb.de/, None, Suche - DFB.de
+https://sql.dfb.de/, Apache, phpMyAdmin
+https://live.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://mein.dfb.de/forum, None, DFB Fan Club Nationalmannschaft - Community
+https://assets05-kampagne.dfb.de/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://live.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://tickets.dfb.de/, nginx, Ticketshop
+https://turnierboerse.dfb.de:443/, None, Turnierbörse - DFB.de
+https://assets-admin.dfb.de/users/sign_in, None, - Digital Asset Management | Version: Horus 0.5
+https://turnierboerse.dfb.de/, None, Turnierbörse - DFB.de
+https://tickets.dfb.de/, nginx, Ticketshop
+https://assets-admin.dfb.de/users/sign_in, None, - Digital Asset Management | Version: Horus 0.5
+https://it-support.dfb.de/support/home, None, Support : DFB GmbH
+https://ferienfussballschulen.dfb.de/, None, Ferienfußballschulen - DFB.de
+https://ferienfussballschulen.dfb.de:443/, None, Ferienfußballschulen - DFB.de
+https://fussballtraining.com/home/, Apache/2.4.46 () OpenSSL/1.0.2k-fips, Fußballtraining | Übungen, Bücher, Apps & Videos – Fußballtraining, TYPO3 CMS
+http://liveticker.dfb.de:80/, AkamaiGHost, Invalid URL
+https://tickets.dfb.de/, nginx, Ticketshop
+https://tickets.dfb.de/, nginx, Ticketshop
+https://fanclub.dfb.de/fcn-start/, Apache, Start :: Fan Club Nationalmannschaft :: Clubs & Kids :: Mannschaften :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://tickets.dfb.de/, nginx, Ticketshop
+https://tickets.dfb.de/, nginx, Ticketshop
+https://tickets.dfb.de/, nginx, Ticketshop
+https://tv.dfb.de/, Apache, DFB-TV
+https://it-support.dfb.de/support/home, None, Support : DFB GmbH
+https://tickets.dfb.de/, nginx, Ticketshop
+https://assets02-kampagne.dfb.de:443/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://intg-schiedsrichter-toolbox.dfb.de:443/, None, Home | DFB Schiedsrichter Toolbox
+https://search.dfb.de:443/, None, Suche - DFB.de
+https://assets02-kampagne.dfb.de/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://www.dfb.de/mein-fussball/, Apache, Training & Service :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://www.dfb.de/mein-fussball/, Apache, Training & Service :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://www.dfb.de/trainer/, Apache, Trainer*in :: Training & Service :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://search.dfb.de/, None, Suche - DFB.de
+https://intg-schiedsrichter-toolbox.dfb.de/, None, Home | DFB Schiedsrichter Toolbox
+https://www.dfb.de/trainer/, Apache, Trainer*in :: Training & Service :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://tv.dfb.de/, Apache, DFB-TV
+https://laptops.dfb.de:443/, None, 
+https://laptops.dfb.de/, None, 
+https://fotos.dfb.de/dfb, None, Private Library
+https://maedchenteams.dfb.de:443/, None
+https://www.dfb.de/datencenter?action=dashboard&controller=datacenter, None, DFB Datencenter
+http://www.fanshop.dfb.de:80/, AkamaiGHost, Invalid URL
+https://www.dfb.de/datencenter?action=dashboard&controller=datacenter, None, DFB Datencenter
+https://fotos.dfb.de/dfb, None, Private Library
+https://www.dfb.de/die-mannschaft/start/, Apache, Start :: Die Mannschaft :: Männer-Nationalmannschaften :: Mannschaften :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://www.dfb.de/die-mannschaft/start/, Apache, Start :: Die Mannschaft :: Männer-Nationalmannschaften :: Mannschaften :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://maedchenteams.dfb.de/, None
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://assets-admin.dfb.de/users/sign_in, None, - Digital Asset Management | Version: Horus 0.5
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://assets-admin.dfb.de/users/sign_in, None, - Digital Asset Management | Version: Horus 0.5
+https://minispielfelder.dfb.de:443/, None, Minispielfelder - DFB.de
+https://assets07-kampagne.dfb.de/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://minispielfelder.dfb.de/, None, Minispielfelder - DFB.de
+https://assets07-kampagne.dfb.de:443/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://fanclub.dfb.de/fcn-start/, Apache, Start :: Fan Club Nationalmannschaft :: Clubs & Kids :: Mannschaften :: DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://dfb-pokal.dfb.de:443/, None, DFB Pokal Saison Report
+https://kampagne.dfb.de:443/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+https://dfb-pokal.dfb.de/, None, DFB Pokal Saison Report
+https://intg-wirfuereuch.dfb.de:443/, None, Wir fÃ¼r euch - Die Stiftung der deutschen Nationalmannschaft | Die Mannschaft | wirfuereuch.com
+https://kampagne.dfb.de/, Apache, DFB | Ehrenrunde. Gänsehaut pur. Zugabe!
+http://e.mein.dfb.de:80/, Apache
+https://termine.dfb.de:443/, None, Termine
+:: DFB - Deutscher Fußball-Bund e.V.
+https://intg-wirfuereuch.dfb.de/, None, Wir fÃ¼r euch - Die Stiftung der deutschen Nationalmannschaft | Die Mannschaft | wirfuereuch.com
+https://termine.dfb.de/, None, Termine
+:: DFB - Deutscher Fußball-Bund e.V.
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://cms-live.dfb.de/typo3/index.php, Apache, TYPO3 CMS Login: DFB, TYPO3 CMS, https://typo3.org/, © Kasper Skårhøj 1998-2018, extensions are copyright of their respective owners.
+https://cms-live.dfb.de/typo3/index.php, Apache, TYPO3 CMS Login: DFB, TYPO3 CMS, https://typo3.org/, © Kasper Skårhøj 1998-2018, extensions are copyright of their respective owners.
+https://www.dfb.de/index/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://akkreditierungsportal.dfb.de/akk/de/index.html, Apache/2.4.6 (CentOS) mod_cluster/1.3.10.Final mod_jk/1.2.46, 
+https://fanclub-app.dfb.de:443/, None, DFB Fan Club Nationalmannschaft
+https://akkreditierungsportal.dfb.de/akk/de/index.html, Apache/2.4.6 (CentOS) mod_cluster/1.3.10.Final mod_jk/1.2.46, 
+https://www.dfb.de/start/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://fanclub-app.dfb.de/, None, DFB Fan Club Nationalmannschaft
+https://www.dfb.de/start/, Apache, DFB - Deutscher Fußball-Bund e.V., TYPO3 CMS
+https://www.dfbnet.org/dfbnetapi/sso/oauth/authenticate, Apache/2.4.6 (CentOS) mod_cluster/1.3.10.Final mod_jk/1.2.46, SpielPLUS mobil
+https://www.dfbnet.org/dfbnetapi/sso/oauth/authenticate, Apache/2.4.6 (CentOS) mod_cluster/1.3.10.Final mod_jk/1.2.46, SpielPLUS mobil
+https://assets-admin-tua.dfb.de/users/sign_in, None, - Digital Asset Management | Version: Horus 0.5
+https://assets-admin-tua.dfb.de/users/sign_in, None, - Digital Asset Management | Version: Horus 0.5

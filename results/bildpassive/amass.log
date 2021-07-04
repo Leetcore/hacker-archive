@@ -1,0 +1,58 @@
+20:04:30.358271 AlienVault: API key data was not provided
+20:04:30.358342 ZoomEye: check callback failed for the configuration
+20:04:30.358380 SecurityTrails: check callback failed for the configuration
+20:04:30.358391 BinaryEdge: check callback failed for the configuration
+20:04:30.358401 Chaos: check callback failed for the configuration
+20:04:30.358413 PassiveTotal: check callback failed for the configuration
+20:04:30.358434 NetworksDB: API key data was not provided
+20:04:30.358436 C99: check callback failed for the configuration
+20:04:30.358445 Cloudflare: API key data was not provided
+20:04:30.358446 CIRCL: check callback failed for the configuration
+20:04:30.358456 ReconDev: check callback failed for the configuration
+20:04:30.358461 DNSDB: API key data was not provided
+20:04:30.358765 DNSDB: check callback failed for the configuration
+20:04:30.358474 FacebookCT: check callback failed for the configuration
+20:04:30.358511 GitHub: check callback failed for the configuration
+20:04:30.358517 Twitter: API key data was not provided
+20:04:30.358802 Twitter: check callback failed for the configuration
+20:04:30.358523 Umbrella: API key data was not provided
+20:04:30.358817 Umbrella: check callback failed for the configuration
+20:04:30.358527 WhoisXMLAPI: check callback failed for the configuration
+20:04:30.358531 URLScan: API key data was not provided
+20:04:30.358555 ZETAlytics: check callback failed for the configuration
+20:04:30.358556 Shodan: check callback failed for the configuration
+20:04:30.358557 Spyse: check callback failed for the configuration
+20:04:30.358563 ThreatBook: check callback failed for the configuration
+20:04:35.730402 Querying AlienVault for bild.de subdomains
+20:04:35.730460 Querying CertSpotter for bild.de subdomains
+20:04:35.730477 Querying Ask for bild.de subdomains
+20:04:35.730496 Querying Baidu for bild.de subdomains
+20:04:35.730513 Querying Anubis for bild.de subdomains
+20:04:35.730529 Querying CommonCrawl for bild.de subdomains
+20:04:35.730545 Querying Crtsh for bild.de subdomains
+20:04:35.730561 Querying DNSDumpster for bild.de subdomains
+20:04:35.730577 Querying SiteDossier for bild.de subdomains
+20:04:35.730593 Querying ArchiveIt for bild.de subdomains
+20:04:35.730605 Querying Bing for bild.de subdomains
+20:04:35.730618 Querying Wayback for bild.de subdomains
+20:04:35.730632 Querying VirusTotal for bild.de subdomains
+20:04:35.730647 Querying Censys for bild.de subdomains
+20:04:35.730660 Querying Yahoo for bild.de subdomains
+20:04:35.730674 Querying SonarSearch for bild.de subdomains
+20:04:35.730687 Querying Brute Forcing for bild.de subdomains
+20:04:35.730699 Querying ArchiveToday for bild.de subdomains
+20:04:35.730712 Querying BufferOver for bild.de subdomains
+20:04:35.730724 Querying Sublist3rAPI for bild.de subdomains
+20:04:35.730736 Querying ThreatCrowd for bild.de subdomains
+20:04:35.730750 Querying ThreatMiner for bild.de subdomains
+20:04:35.730763 Querying URLScan for bild.de subdomains
+20:04:35.730775 Querying GoogleCT for bild.de subdomains
+20:04:35.730787 Querying HackerOne for bild.de subdomains
+20:04:35.730832 Querying HackerTarget for bild.de subdomains
+20:04:35.730858 Querying IPv4Info for bild.de subdomains
+20:04:35.730873 Querying Mnemonic for bild.de subdomains
+20:04:35.730888 Querying RapidDNS for bild.de subdomains
+20:04:35.730901 Querying Riddler for bild.de subdomains
+20:04:35.730913 Querying BuiltWith for bild.de subdomains
+20:04:35.730925 Querying Robtex for bild.de subdomains
+20:04:55.733417 URLScan: https://urlscan.io/api/v1/result/7e79f74c-3fe5-478e-bca6-3542b9ae6fe3/: 429 Too Many Requests

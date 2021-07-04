@@ -1,0 +1,120 @@
+http://zentrum-transformation.bundeswehr.de:80/, None
+https://expestb4.bundeswehr.de:8443/, CE_E, Bad Request
+https://webrtc.ic.bundeswehr.de:8443/, CE_E, Bad Request
+https://expestb1.ic.bundeswehr.de:8443/, CE_E, Bad Request
+https://expestb4.bundeswehr.de:443/, CE_E, Bad Request
+https://expestb6.bundeswehr.de:8443/, CE_E, Bad Request
+https://expestb1.ic.bundeswehr.de:443/, CE_E, Bad Request
+https://usg-online.bundeswehr.de:443/, Apache, USG-Online - Einfach. Sicher. Immer und überall.
+https://expestb2.bundeswehr.de:8443/, CE_E, Bad Request
+https://expestb6.bundeswehr.de:443/, CE_E, Bad Request
+https://expestb2.bundeswehr.de:443/, CE_E, Bad Request
+https://usg-online.bundeswehr.de/, Apache, USG-Online - Einfach. Sicher. Immer und überall.
+https://webrtc.ic.bundeswehr.de:443/, nginx, Cisco Meeting Server web app
+https://expestb1.bundeswehr.de:8443/, CE_E, Bad Request
+https://expestb1.bundeswehr.de:443/, CE_E, Bad Request
+https://www.bundeswehr.de/en/organization/army/organization/army-training-command/german-armed-forces-united-nations-training-centre, None, Bundeswehr United Nations Training Centre, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/sanitaetsdienst, None, Sanitätsdienst, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen, None, Infrastruktur, Umweltschutz und Dienstleistungen, CoreMedia CMS
+https://www.bundeswehr.de/de/, None, Startseite - Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/katholische-militaerseelsorge, None, Katholische Militärseelsorge in der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/planungsamt-der-bundeswehr-, None, Planungsamt der Bundeswehr, CoreMedia CMS
+https://tawds.bundeswehr.de:443/, None, Object moved
+https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/zentrum-innere-fuehrung, None, Zentrum Innere Führung, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/planungsamt-der-bundeswehr-, None, Planungsamt der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/sanitaetsdienst, None, Sanitätsdienst, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/das-luftfahrtamt-der-bundeswehr, None, Das Luftfahrtamt der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/ueber-die-bundeswehr/die-reserve-der-bundeswehr, None, Die Reserve der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge, None, Militärseelsorge, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-informationsarbeit-bundeswehr, None, Zentrum Informationsarbeit Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/sportschule-der-bundeswehr, None, Sportschule der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/betreuung-fuersorge/radio-andernach-und-bwtv-die-betreuungsmedien-der-bundeswehr, None, Radio Andernach und BWTV - Die Betreuungsmedien der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/betreuung-fuersorge/radio-andernach-und-bwtv-die-betreuungsmedien-der-bundeswehr, None, Radio Andernach und BWTV - Die Betreuungsmedien der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/, None, Startseite - Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/einsaetze-bundeswehr, None, Die Einsätze der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/ueber-die-bundeswehr/die-reserve-der-bundeswehr, None, Die Reserve der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis, None, Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum, None, Cyber- und Informationsraum - CIR Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge, None, Militärseelsorge, CoreMedia CMS
+https://www.bundeswehr.de/de/, None, Startseite - Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/, None, Startseite - Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/personal/organisation-/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr, None, Auslandsschulen der Bundeswehr, CoreMedia CMS
+https://webex4bw.ic.bundeswehr.de:443/webappng/sites/webex4bw/dashboard/home?siteurl=webex4bw&rnd=0.6313771880885958, Apache, Cisco Webex Meetings
+https://ssl.bundeswehr.de:443/, None
+http://www.zentrum-transformation.bundeswehr.de:80/, None
+http://webstatistik.bundeswehr.de/403.php, Off, Zugriff nicht möglich
+https://bahnfahren.bundeswehr.de:443/, Apache, BW-eTOKEN
+https://externermeetingserver.bundeswehr.de:8443/, CE_E, Bad Request
+https://expestb5.bundeswehr.de:8443/, CE_E, Bad Request
+http://webstatistik.bundeswehr.de/403.php, Off, Zugriff nicht möglich
+https://expestb2.ic.bundeswehr.de:8443/, CE_E, Bad Request
+https://expestb2.ic.bundeswehr.de:443/, CE_E, Bad Request
+https://externermeetingserver.bundeswehr.de:443/, nginx, Cisco Meeting Server web app
+https://bahnfahren.bundeswehr.de/, Apache, BW-eTOKEN
+https://expestb5.bundeswehr.de:443/, CE_E, Bad Request
+https://awds.bundeswehr.de:443/, None, Object moved
+https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen, None, Infrastruktur, Umweltschutz und Dienstleistungen, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://iawds.bundeswehr.de:443/, None, Object moved
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/logistikkommando-der-bundeswehr/logistikschule-der-bundeswehr, None, Logistikschule der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum, None, Cyber- und Informationsraum - CIR Bundeswehr, CoreMedia CMS
+https://anw.bfd.bundeswehr.de/internetWeb/app/, Apache, BFD Startseite
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt, None, Streitkräfteamt, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/personal/organisation-/bildungszentrum-der-bundeswehr-, None, Bildungszentrum der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/einsaetze-bundeswehr, None, Die Einsätze der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/auftrag-iud/das-kontinuierliche-verbesserungsprogramm-kvp, None, Das Kontinuierliche Verbesserungsprogramm (KVP), CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/personal, None, Organisationsbereich Personal, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/betreuung-fuersorge/der-berufsfoerderungsdienst-der-bundeswehr-bfd, None, Berufsförderungsdienst (BFD) der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/das-luftfahrtamt-der-bundeswehr, None, Das Luftfahrtamt der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/zentrum-innere-fuehrung, None, Zentrum Innere Führung, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/multinationales-kommando-operative-fuehrung, None, Multinationales Kommando Operative Führung, CoreMedia CMS
+https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/evangelische-militaerseelsorge, None, Evangelische Militärseelsorge, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/ueber-die-bundeswehr/die-reserve-der-bundeswehr, None, Die Reserve der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-feldjaeger-der-bundeswehr/schule-fuer-feldjaeger-und-stabsdienst-der-bundeswehr, None, Schule für Feldjäger und Stabsdienst der Bundeswehr, CoreMedia CMS
+https://anw.bfd.bundeswehr.de/internetWeb/app/, Apache, BFD Startseite
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-militaermusik-der-bundeswehr, None, Zentrum Militärmusik der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-militaermusik-der-bundeswehr, None, Zentrum Militärmusik der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/katholische-militaerseelsorge, None, Katholische Militärseelsorge in der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/mad-bundesamt-fuer-den-militaerischen-abschirmdienst, None, Der Militärische Abschirmdienst (MAD), CoreMedia CMS
+https://www.bundeswehr.de/de/ueber-die-bundeswehr/die-reserve-der-bundeswehr, None, Die Reserve der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/, None, Startseite - Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/, None, Startseite - Bundeswehr, CoreMedia CMS
+http://bundeswehrverwaltungsschule.bundeswehr.de:80/, None
+http://iudbw.bundeswehr.de:80/, None
+http://www.iudbw.bundeswehr.de:80/, None
+http://ee09.bundeswehr.de:80/, None
+http://www.bundeswehrverwaltungsschule.bundeswehr.de:80/, None
+http://www.ee09.bundeswehr.de:80/, None
+http://www.bundeswehrverwaltungsschulen.bundeswehr.de:80/, None
+https://expestb3.bundeswehr.de:8443/, CE_E, Bad Request
+https://expestb3.bundeswehr.de:443/, CE_E, Bad Request
+https://www.bundeswehr.de/de/organisation/infrastruktur-umweltschutz-und-dienstleistungen/auftrag-iud/das-kontinuierliche-verbesserungsprogramm-kvp, None, Das Kontinuierliche Verbesserungsprogramm (KVP), CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/logistikkommando-der-bundeswehr/logistikschule-der-bundeswehr, None, Logistikschule der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/personal/organisation-/bildungszentrum-der-bundeswehr-, None, Bildungszentrum der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/sportschule-der-bundeswehr, None, Sportschule der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/personal/organisation-/bildungszentrum-der-bundeswehr-/auslandsschulen-der-bundeswehr, None, Auslandsschulen der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/betreuung-fuersorge/der-berufsfoerderungsdienst-der-bundeswehr-bfd, None, Berufsförderungsdienst (BFD) der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum, None, Cyber- und Informationsraum - CIR Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-territoriale-aufgaben-der-bundeswehr/wachbataillon-beim-bundesministerium-der-verteidigung, None, Wachbataillon beim Bundesministerium der Verteidigung, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/logistikkommando-der-bundeswehr/logistikzentrum-der-bundeswehr, None, Logistikzentrum der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/kommando-streitkraeftebasis, None, Kommando Streitkräftebasis, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum/kommando-und-organisation-cir/kommando-informationstechnik-der-bundeswehr/schule-informationstechnik-der-bundeswehr, None, Schule Informationstechnik der Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/cyber-und-informationsraum, None, Cyber- und Informationsraum - CIR Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/weitere-bmvg-dienststellen/mad-bundesamt-fuer-den-militaerischen-abschirmdienst, None, Der Militärische Abschirmdienst (MAD), CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/streitkraeftebasis/organisation/streitkraefteamt/zentrum-informationsarbeit-bundeswehr, None, Zentrum Informationsarbeit Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/betreuung-fuersorge/militaerseelsorge/evangelische-militaerseelsorge, None, Evangelische Militärseelsorge, CoreMedia CMS
+https://www.bundeswehr.de/de/organisation/luftwaffe, None, Luftwaffe, CoreMedia CMS
+https://www.bundeswehr.de/de/, None, Startseite - Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/, None, Startseite - Bundeswehr, CoreMedia CMS
+https://www.bundeswehr.de/de/, None, Startseite - Bundeswehr, CoreMedia CMS

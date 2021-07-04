@@ -1,0 +1,88 @@
+13:22:42.754655 Twitter: API key data was not provided
+13:22:42.754782 Twitter: check callback failed for the configuration
+13:22:42.754870 ThreatBook: check callback failed for the configuration
+13:22:42.754881 WhoisXMLAPI: check callback failed for the configuration
+13:22:42.754898 BinaryEdge: check callback failed for the configuration
+13:22:42.754903 AlienVault: API key data was not provided
+13:22:42.754905 URLScan: API key data was not provided
+13:22:42.754908 SecurityTrails: check callback failed for the configuration
+13:22:42.754910 Cloudflare: API key data was not provided
+13:22:42.755001 Spyse: check callback failed for the configuration
+13:22:42.755026 ZETAlytics: check callback failed for the configuration
+13:22:42.755040 ZoomEye: check callback failed for the configuration
+13:22:42.755043 Umbrella: API key data was not provided
+13:22:42.755042 Chaos: check callback failed for the configuration
+13:22:42.755064 NetworksDB: API key data was not provided
+13:22:42.755066 PassiveTotal: check callback failed for the configuration
+13:22:42.755055 C99: check callback failed for the configuration
+13:22:42.755057 GitHub: check callback failed for the configuration
+13:22:42.755057 DNSDB: API key data was not provided
+13:22:42.755098 DNSDB: check callback failed for the configuration
+13:22:42.755061 FacebookCT: check callback failed for the configuration
+13:22:42.755063 Shodan: check callback failed for the configuration
+13:22:42.755067 ReconDev: check callback failed for the configuration
+13:22:42.755068 Umbrella: check callback failed for the configuration
+13:22:42.755053 CIRCL: check callback failed for the configuration
+13:22:46.055152 DNS wildcard detected: Resolver 8.8.8.8:53: *.schufa.de: type: 1
+13:22:47.455434 DNS wildcard detected: Resolver 8.8.8.8:53: *.meine.schufa.de: type: 1
+13:22:50.343944 Querying Anubis for schufa.de subdomains
+13:22:50.344029 Querying Riddler for schufa.de subdomains
+13:22:50.345076 Querying RapidDNS for schufa.de subdomains
+13:22:50.345087 Querying GoogleCT for schufa.de subdomains
+13:22:50.345093 Querying Censys for schufa.de subdomains
+13:22:50.345099 Querying ArchiveToday for schufa.de subdomains
+13:22:50.345103 Querying Bing for schufa.de subdomains
+13:22:50.345109 Querying Mnemonic for schufa.de subdomains
+13:22:50.345113 Querying Sublist3rAPI for schufa.de subdomains
+13:22:50.345118 Querying CommonCrawl for schufa.de subdomains
+13:22:50.345124 Querying CertSpotter for schufa.de subdomains
+13:22:50.345128 Querying DNSDumpster for schufa.de subdomains
+13:22:50.345132 Querying Crtsh for schufa.de subdomains
+13:22:50.345138 Querying ThreatMiner for schufa.de subdomains
+13:22:50.345142 Querying Yahoo for schufa.de subdomains
+13:22:50.346108 Querying Baidu for schufa.de subdomains
+13:22:50.346115 Querying VirusTotal for schufa.de subdomains
+13:22:50.346121 Querying URLScan for schufa.de subdomains
+13:22:50.346126 Querying Robtex for schufa.de subdomains
+13:22:50.346131 Querying Wayback for schufa.de subdomains
+13:22:50.346136 Querying ArchiveIt for schufa.de subdomains
+13:22:50.346141 Querying IPv4Info for schufa.de subdomains
+13:22:50.346145 Querying BufferOver for schufa.de subdomains
+13:22:50.346149 Querying SiteDossier for schufa.de subdomains
+13:22:50.346156 Querying HackerTarget for schufa.de subdomains
+13:22:50.348008 Querying SonarSearch for schufa.de subdomains
+13:22:50.348197 Querying AlienVault for schufa.de subdomains
+13:22:50.348226 Querying HackerOne for schufa.de subdomains
+13:22:50.348241 Querying Ask for schufa.de subdomains
+13:22:50.348261 Querying Brute Forcing for schufa.de subdomains
+13:22:50.348275 Querying BuiltWith for schufa.de subdomains
+13:22:50.348330 Querying ThreatCrowd for schufa.de subdomains
+13:22:55.146715 DNS wildcard detected: Resolver 8.8.8.8:53: *.direkt.schufa.de: type: 1
+13:22:55.256009 DNS wildcard detected: Resolver 8.8.8.8:53: *.swsvptest.schufa.de: type: 1
+13:22:55.332247 DNS wildcard detected: Resolver 8.8.8.8:53: *.ww2.schufa.de: type: 1
+13:22:55.348467 ShadowServer: asn.shadowserver.org: Query on resolver 185.121.177.177:53, for asn.shadowserver.org type 1 returned error NXDOMAIN
+13:22:55.348518 RADb: https://rdap.arin.net/registry/ip/85.220.170.37: The request returned zero results
+13:22:55.380699 DNS wildcard detected: Resolver 8.8.8.8:53: *.cbdeprod.schufa.de: type: 1
+13:22:55.914962 DNS wildcard detected: Resolver 8.8.8.8:53: *.mx1.schufa.de: type: 1
+13:22:55.963924 DNS wildcard detected: Resolver 8.8.8.8:53: *.mx2.schufa.de: type: 1
+13:22:57.377981 DNS wildcard detected: Resolver 8.8.8.8:53: *.test-siml2-port.schufa.de: type: 1
+13:22:57.633920 DNS wildcard detected: Resolver 8.8.8.8:53: *.xml-gateway.schufa.de: type: 1
+13:22:58.535497 DNS wildcard detected: Resolver 8.8.8.8:53: *.xml-gateway-test.schufa.de: type: 1
+13:22:58.621668 DNS wildcard detected: Resolver 8.8.8.8:53: *.test-port.schufa.de: type: 1
+13:22:58.719138 DNS wildcard detected: Resolver 8.8.8.8:53: *.webvpadmin.schufa.de: type: 1
+13:22:58.744544 DNS wildcard detected: Resolver 8.8.8.8:53: *.xml-mass-test.schufa.de: type: 1
+13:22:58.804669 DNS wildcard detected: Resolver 8.8.8.8:53: *.websystems.schufa.de: type: 1
+13:22:58.817004 DNS wildcard detected: Resolver 8.8.8.8:53: *.webvptest.schufa.de: type: 1
+13:22:58.866933 DNS wildcard detected: Resolver 8.8.8.8:53: *.web.schufa.de: type: 1
+13:22:58.889798 DNS wildcard detected: Resolver 8.8.8.8:53: *.xml2-gateway.schufa.de: type: 1
+13:22:58.916751 DNS wildcard detected: Resolver 8.8.8.8:53: *.xml2-gateway-test.schufa.de: type: 1
+13:22:58.963731 DNS wildcard detected: Resolver 8.8.8.8:53: *.cbdetest.schufa.de: type: 1
+13:22:58.988649 DNS wildcard detected: Resolver 8.8.8.8:53: *.difin.schufa.de: type: 1
+13:22:59.253610 DNS wildcard detected: Resolver 8.8.8.8:53: *.www.mail.schufa.de: type: 1
+13:22:59.304069 DNS wildcard detected: Resolver 8.8.8.8:53: *.securemail.schufa.de: type: 1
+13:22:59.962536 DNS wildcard detected: Resolver 8.8.8.8:53: *.xml-mass.schufa.de: type: 1
+13:23:00.047361 DNS wildcard detected: Resolver 8.8.8.8:53: *.uszvptest.schufa.de: type: 1
+13:23:05.348539 TeamCymru: 171.236.101.46.origin.asn.cymru.com: DNS TXT record query error: Query on resolver 64.6.64.6:53, for 171.236.101.46.origin.asn.cymru.com type 16 returned error REFUSED
+13:23:05.348777 RADb: https://rdap.arin.net/registry/ip/46.101.236.171: The request returned zero results
+13:23:15.351684 ShadowServer: 230.23.83.213.origin.asn.shadowserver.org: DNS TXT record query error: Query on resolver 64.6.64.6:53, for 230.23.83.213.origin.asn.shadowserver.org type 16 returned error REFUSED
+13:23:15.351713 RADb: https://rdap.arin.net/registry/ip/213.83.23.230: The request returned zero results

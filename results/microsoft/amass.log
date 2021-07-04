@@ -1,0 +1,58 @@
+23:29:06.494427 AlienVault: API key data was not provided
+23:29:06.494460 ZoomEye: check callback failed for the configuration
+23:29:06.494468 BinaryEdge: check callback failed for the configuration
+23:29:06.494471 Chaos: check callback failed for the configuration
+23:29:06.494472 Cloudflare: API key data was not provided
+23:29:06.494473 DNSDB: API key data was not provided
+23:29:06.494682 DNSDB: check callback failed for the configuration
+23:29:06.494474 C99: check callback failed for the configuration
+23:29:06.494478 FacebookCT: check callback failed for the configuration
+23:29:06.494481 CIRCL: check callback failed for the configuration
+23:29:06.494483 GitHub: check callback failed for the configuration
+23:29:06.494485 ThreatBook: check callback failed for the configuration
+23:29:06.494486 NetworksDB: API key data was not provided
+23:29:06.494487 Twitter: API key data was not provided
+23:29:06.494890 Twitter: check callback failed for the configuration
+23:29:06.494495 PassiveTotal: check callback failed for the configuration
+23:29:06.494497 ZETAlytics: check callback failed for the configuration
+23:29:06.494498 WhoisXMLAPI: check callback failed for the configuration
+23:29:06.494500 SecurityTrails: check callback failed for the configuration
+23:29:06.494518 URLScan: API key data was not provided
+23:29:06.494518 Umbrella: API key data was not provided
+23:29:06.494935 Umbrella: check callback failed for the configuration
+23:29:06.494520 Spyse: check callback failed for the configuration
+23:29:06.494522 Shodan: check callback failed for the configuration
+23:29:06.494523 ReconDev: check callback failed for the configuration
+23:29:11.976304 Querying DNSDumpster for microsoft.com subdomains
+23:29:11.976397 Querying IPv4Info for microsoft.com subdomains
+23:29:11.976632 Querying GoogleCT for microsoft.com subdomains
+23:29:11.976661 Querying Sublist3rAPI for microsoft.com subdomains
+23:29:11.976692 Querying Ask for microsoft.com subdomains
+23:29:11.976735 Querying ThreatCrowd for microsoft.com subdomains
+23:29:11.976775 Querying AlienVault for microsoft.com subdomains
+23:29:11.976799 Querying HackerTarget for microsoft.com subdomains
+23:29:11.976816 Querying BuiltWith for microsoft.com subdomains
+23:29:11.976845 Querying HackerOne for microsoft.com subdomains
+23:29:11.976864 Querying Anubis for microsoft.com subdomains
+23:29:11.976882 Querying Baidu for microsoft.com subdomains
+23:29:11.976901 Querying Bing for microsoft.com subdomains
+23:29:11.976919 Querying ArchiveIt for microsoft.com subdomains
+23:29:11.976946 Querying Brute Forcing for microsoft.com subdomains
+23:29:11.976980 Querying BufferOver for microsoft.com subdomains
+23:29:11.977023 Querying ArchiveToday for microsoft.com subdomains
+23:29:11.977043 Querying Mnemonic for microsoft.com subdomains
+23:29:11.977060 Querying Robtex for microsoft.com subdomains
+23:29:11.977076 Querying SiteDossier for microsoft.com subdomains
+23:29:11.977091 Querying SonarSearch for microsoft.com subdomains
+23:29:11.977105 Querying Yahoo for microsoft.com subdomains
+23:29:11.977120 Querying ThreatMiner for microsoft.com subdomains
+23:29:11.977132 Querying URLScan for microsoft.com subdomains
+23:29:11.977144 Querying VirusTotal for microsoft.com subdomains
+23:29:11.977157 Querying Censys for microsoft.com subdomains
+23:29:11.977172 Querying Wayback for microsoft.com subdomains
+23:29:11.977191 Querying CertSpotter for microsoft.com subdomains
+23:29:11.977206 Querying RapidDNS for microsoft.com subdomains
+23:29:11.977220 Querying CommonCrawl for microsoft.com subdomains
+23:29:11.977232 Querying Riddler for microsoft.com subdomains
+23:29:11.977244 Querying Crtsh for microsoft.com subdomains
+23:29:31.989505 URLScan: https://urlscan.io/api/v1/result/26c087c8-e526-4ed2-a5c9-7bb54f9f66ed/: 429 Too Many Requests

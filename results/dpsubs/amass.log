@@ -1,0 +1,209 @@
+03:11:53.529910 ZoomEye: check callback failed for the configuration
+03:11:53.529921 DNSDB: API key data was not provided
+03:11:53.530505 DNSDB: check callback failed for the configuration
+03:11:53.529924 AlienVault: API key data was not provided
+03:11:53.529927 NetworksDB: API key data was not provided
+03:11:53.529942 C99: check callback failed for the configuration
+03:11:53.529945 BinaryEdge: check callback failed for the configuration
+03:11:53.529947 CIRCL: check callback failed for the configuration
+03:11:53.529953 ThreatBook: check callback failed for the configuration
+03:11:53.530016 GitHub: check callback failed for the configuration
+03:11:53.530047 ReconDev: check callback failed for the configuration
+03:11:53.530047 FacebookCT: check callback failed for the configuration
+03:11:53.530052 WhoisXMLAPI: check callback failed for the configuration
+03:11:53.530054 Chaos: check callback failed for the configuration
+03:11:53.530061 Cloudflare: API key data was not provided
+03:11:53.530063 Spyse: check callback failed for the configuration
+03:11:53.530065 Shodan: check callback failed for the configuration
+03:11:53.530066 URLScan: API key data was not provided
+03:11:53.530067 Twitter: API key data was not provided
+03:11:53.530681 Twitter: check callback failed for the configuration
+03:11:53.530068 Umbrella: API key data was not provided
+03:11:53.530693 Umbrella: check callback failed for the configuration
+03:11:53.530070 PassiveTotal: check callback failed for the configuration
+03:11:53.530072 ZETAlytics: check callback failed for the configuration
+03:11:53.530076 SecurityTrails: check callback failed for the configuration
+03:11:59.000154 Querying AlienVault for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000313 Querying DNSDumpster for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000375 Querying CommonCrawl for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000418 Querying Crtsh for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000456 Querying SiteDossier for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000491 Querying IPv4Info for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000522 Querying Anubis for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000553 Querying Ask for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000580 Querying Mnemonic for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000607 Querying CertSpotter for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000649 Querying GoogleCT for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000705 Querying Baidu for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000740 Querying ArchiveIt for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000770 Querying HackerOne for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000799 Querying Bing for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000828 Querying HackerTarget for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000857 Querying Brute Forcing for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000884 Querying BuiltWith for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000913 Querying BufferOver for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000941 Querying ThreatMiner for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.000968 Querying Brute Forcing for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.000995 Querying ArchiveToday for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001022 Querying Sublist3rAPI for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001050 Querying ThreatCrowd for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001076 Querying Yahoo for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001103 Querying Wayback for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001138 Querying RapidDNS for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001263 Querying VirusTotal for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001287 Querying Riddler for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001310 Querying Censys for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001343 Querying SonarSearch for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001377 Querying Robtex for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001400 Querying URLScan for print-mailing-api-test-intern.deutschepost.de subdomains
+03:11:59.001422 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/print-mailing-api-test-intern.deutschepost.de/passive_dns: The query returned zero results
+03:11:59.001444 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/print-mailing-api-test-intern.deutschepost.de/url_list: The query returned zero results
+03:11:59.001467 Querying HackerTarget for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001489 Querying HackerOne for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001509 Querying GoogleCT for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001570 Querying CertSpotter for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001630 Querying Mnemonic for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001658 Querying BufferOver for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001679 Querying Sublist3rAPI for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001702 Querying Anubis for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001749 Querying Brute Forcing for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.001791 Querying SonarSearch for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001815 Querying Robtex for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001846 Querying Riddler for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001871 Querying AlienVault for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001892 Querying DNSDumpster for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001918 Querying Brute Forcing for postident-rc-be.deutschepost.de subdomains
+03:11:59.001940 Querying URLScan for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.001967 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/int02.epp-test.test.azure.deutschepost.de/passive_dns: The query returned zero results
+03:11:59.001991 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/int02.epp-test.test.azure.deutschepost.de/url_list: The query returned zero results
+03:11:59.002017 Querying Crtsh for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.002039 Querying ArchiveToday for int02.epp-test.test.azure.deutschepost.de subdomains
+03:11:59.002064 Querying Mnemonic for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002086 Querying Robtex for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002107 Querying HackerOne for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002126 Querying Anubis for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002157 Querying Sublist3rAPI for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002179 Querying HackerTarget for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002200 Querying Brute Forcing for www.service-uat.efi.deutschepost.de subdomains
+03:11:59.002220 Querying GoogleCT for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002241 Querying CertSpotter for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002261 Querying SonarSearch for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002282 Querying BufferOver for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002308 Querying Riddler for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002331 Querying AlienVault for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002356 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/dhlapp-a9019.tcb.deutschepost.de/passive_dns: The query returned zero results
+03:11:59.002411 Querying Brute Forcing for lcm-its-tools.deutschepost.de subdomains
+03:11:59.002434 Querying URLScan for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:11:59.002458 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/dhlapp-a9019.tcb.deutschepost.de/url_list: The query returned zero results
+03:11:59.002478 Querying Anubis for postident-rc-be.deutschepost.de subdomains
+03:11:59.002502 Querying CertSpotter for postident-rc-be.deutschepost.de subdomains
+03:11:59.002524 Querying GoogleCT for postident-rc-be.deutschepost.de subdomains
+03:11:59.002544 Querying Mnemonic for postident-rc-be.deutschepost.de subdomains
+03:11:59.002564 Querying HackerTarget for postident-rc-be.deutschepost.de subdomains
+03:11:59.002589 Querying BufferOver for postident-rc-be.deutschepost.de subdomains
+03:11:59.002612 Querying HackerOne for postident-rc-be.deutschepost.de subdomains
+03:11:59.002634 Querying Brute Forcing for lcm-maint-jira2.deutschepost.de subdomains
+03:11:59.002654 Querying Robtex for postident-rc-be.deutschepost.de subdomains
+03:11:59.002679 Querying SonarSearch for postident-rc-be.deutschepost.de subdomains
+03:11:59.002699 Querying Sublist3rAPI for postident-rc-be.deutschepost.de subdomains
+03:11:59.002720 Querying Riddler for postident-rc-be.deutschepost.de subdomains
+03:12:04.002887 Querying Censys for int02.epp-test.test.azure.deutschepost.de subdomains
+03:12:04.002896 Querying AlienVault for postident-rc-be.deutschepost.de subdomains
+03:12:04.002922 Querying URLScan for postident-rc-be.deutschepost.de subdomains
+03:12:04.002928 Querying Brute Forcing for mkp.deutschepost.de subdomains
+03:12:04.002932 Querying DNSDumpster for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:12:04.002937 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/postident-rc-be.deutschepost.de/url_list: The query returned zero results
+03:12:04.002941 Querying GoogleCT for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002945 Querying Crtsh for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:12:04.002948 Querying CertSpotter for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002952 Querying ArchiveToday for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:12:04.002955 Querying Anubis for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002959 Querying BufferOver for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002963 Querying Brute Forcing for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:04.002966 Querying Sublist3rAPI for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002969 Querying Mnemonic for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002972 Querying HackerTarget for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002975 Querying HackerOne for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002979 Querying SonarSearch for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002982 Querying Robtex for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002985 Querying Riddler for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002988 Querying AlienVault for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.002991 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/www.service-uat.efi.deutschepost.de/passive_dns: The query returned zero results
+03:12:04.002995 Querying Brute Forcing for maint-ofi.deutschepost.de subdomains
+03:12:04.002998 Querying URLScan for www.service-uat.efi.deutschepost.de subdomains
+03:12:04.003002 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/www.service-uat.efi.deutschepost.de/url_list: The query returned zero results
+03:12:04.003005 Querying BufferOver for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003009 Querying Mnemonic for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003012 Querying CertSpotter for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003015 Querying Anubis for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003017 Querying SonarSearch for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003032 Querying GoogleCT for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003036 Querying HackerOne for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003038 Querying HackerTarget for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003041 Querying Robtex for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003044 Querying Sublist3rAPI for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003047 Querying Brute Forcing for mfs-at-ofi.deutschepost.de subdomains
+03:12:04.003050 Querying Riddler for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003053 Querying Wayback for int02.epp-test.test.azure.deutschepost.de subdomains
+03:12:04.003067 Querying RapidDNS for int02.epp-test.test.azure.deutschepost.de subdomains
+03:12:04.003072 Querying AlienVault for lcm-its-tools.deutschepost.de subdomains
+03:12:04.003082 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/lcm-its-tools.deutschepost.de/passive_dns: The query returned zero results
+03:12:04.003085 Querying Brute Forcing for monafe.dev.monabe-ontrack.test.azure.deutschepost.de subdomains
+03:12:04.003089 Querying URLScan for lcm-its-tools.deutschepost.de subdomains
+03:12:09.003533 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/lcm-its-tools.deutschepost.de/url_list: The query returned zero results
+03:12:09.003566 Querying SiteDossier for int02.epp-test.test.azure.deutschepost.de subdomains
+03:12:09.003672 Querying ArchiveIt for int02.epp-test.test.azure.deutschepost.de subdomains
+03:12:09.003693 Querying Mnemonic for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003710 Querying Anubis for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003729 Querying Sublist3rAPI for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003748 Querying ArchiveToday for postident-rc-be.deutschepost.de subdomains
+03:12:09.003765 Querying Crtsh for postident-rc-be.deutschepost.de subdomains
+03:12:09.003780 Querying CertSpotter for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003796 Querying HackerOne for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003811 Querying GoogleCT for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003827 Querying Brute Forcing for optiopay1.deutschepost.de subdomains
+03:12:09.003841 Querying HackerTarget for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003857 Querying BufferOver for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003875 Querying SonarSearch for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003890 Querying Robtex for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003905 Querying Riddler for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003920 Querying AlienVault for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003935 Querying Censys for dhlapp-a9019.tcb.deutschepost.de subdomains
+03:12:09.003950 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/lcm-maint-jira2.deutschepost.de/passive_dns: The query returned zero results
+03:12:09.003965 Querying Brute Forcing for am-p-w00c3.deutschepost.de subdomains
+03:12:09.003981 Querying URLScan for lcm-maint-jira2.deutschepost.de subdomains
+03:12:09.003997 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/lcm-maint-jira2.deutschepost.de/url_list: The query returned zero results
+03:12:09.004014 Querying DNSDumpster for postident-rc-be.deutschepost.de subdomains
+03:12:09.004034 Querying Sublist3rAPI for mkp.deutschepost.de subdomains
+03:12:09.004052 Querying Brute Forcing for dhlapp-a9015.tcb.deutschepost.de subdomains
+03:12:09.004072 Querying CertSpotter for mkp.deutschepost.de subdomains
+03:12:09.004094 Querying SonarSearch for mkp.deutschepost.de subdomains
+03:12:09.004111 Querying HackerOne for mkp.deutschepost.de subdomains
+03:12:09.004127 Querying Robtex for mkp.deutschepost.de subdomains
+03:12:09.004146 Querying HackerTarget for mkp.deutschepost.de subdomains
+03:12:09.004169 Querying BufferOver for mkp.deutschepost.de subdomains
+03:12:09.004187 Querying Mnemonic for mkp.deutschepost.de subdomains
+03:12:09.004209 Querying GoogleCT for mkp.deutschepost.de subdomains
+03:12:09.004289 Querying Anubis for mkp.deutschepost.de subdomains
+03:12:09.004308 Querying Riddler for mkp.deutschepost.de subdomains
+03:12:09.004327 Querying AlienVault for mkp.deutschepost.de subdomains
+03:12:09.004347 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/mkp.deutschepost.de/passive_dns: The query returned zero results
+03:12:09.004367 Querying Brute Forcing for int.epp-test.test.azure.deutschepost.de subdomains
+03:12:09.004383 Querying URLScan for mkp.deutschepost.de subdomains
+03:12:09.004398 AlienVault: https://otx.alienvault.com/api/v1/indicators/domain/mkp.deutschepost.de/url_list: The query returned zero results
+03:12:09.004413 Querying Crtsh for www.service-uat.efi.deutschepost.de subdomains
+03:12:09.004431 Querying Anubis for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:09.004450 Querying CertSpotter for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:09.004469 Querying Mnemonic for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:09.004488 Querying GoogleCT for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:09.004506 Querying HackerTarget for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:09.004524 Querying BufferOver for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:09.004543 Querying HackerOne for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:09.004561 Querying Brute Forcing for lcm-dhl-github-test.deutschepost.de subdomains
+03:12:09.004580 Querying ArchiveToday for www.service-uat.efi.deutschepost.de subdomains
+03:12:09.004600 Querying ThreatMiner for int02.epp-test.test.azure.deutschepost.de subdomains
+03:12:09.004618 Querying Sublist3rAPI for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:09.004636 Querying Robtex for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:09.004655 Querying SonarSearch for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:09.004676 Querying Riddler for fmo-ref-ofi-lb-de.deutschepost.de subdomains
+03:12:09.414978 Querying AlienVault for fmo-ref-ofi-lb-de.deutschepost.de subdomains

@@ -1,0 +1,32 @@
+http://direkt.schufa.de:80/, UD Forwarding 3.0, schufa.de
+https://securemail.schufa.de:443/responsiveUI/, Apache, WebMail login: SCHUFA Holding AG SecureMail
+https://plattform.schufa.de:443/index.html, Apache, Schufa/WEB
+http://meine.schufa.de:80/, nginx
+https://zertifikate.schufa.de:443/, Apache, SCHUFA Zertifikatsportal
+https://portal.difin.schufa.de:443/login, None, Digitaler Finanzbericht Download Portal - Kundenbereich
+https://meine.schufa.de:443/, nginx
+https://cbdeprod.schufa.de/WebApp/Cis.CB4.Plugins.WebParts.MasterPages.Body.Login.aspx?ReturnUrl=%2fwebapp%2f, Microsoft-IIS/7.5, CBDE - Online
+https://webvptest.schufa.de:443/index.html, Apache, Schufa/WEB
+https://cbdeprod.schufa.de/WebApp/Cis.CB4.Plugins.WebParts.MasterPages.Body.Login.aspx?ReturnUrl=%2fwebapp%2f, Microsoft-IIS/7.5, CBDE - Online
+https://test-plattform.schufa.de:443/index.html, Apache, Schufa/WEB
+https://dialin.schufa.de:443/, Apache, Conferencing Dial-In Page - Skype for Business 2015
+https://portal.test-difin.schufa.de:443/login, None, Digitaler Finanzbericht Download Portal - Kundenbereich
+https://web.schufa.de:443/index.html, Apache, Schufa/WEB
+https://karriere.schufa.de:443/, None, Die SCHUFA. Überraschend anders.
+https://karriere.schufa.de/, None, Die SCHUFA. Überraschend anders.
+https://cbdetest.schufa.de/WebApp/Cis.CB4.Plugins.WebParts.MasterPages.Body.Login.aspx?ReturnUrl=%2fWebApp%2f, Microsoft-IIS/7.5, CBDE - Online TEST
+https://cbdetest.schufa.de/WebApp/Cis.CB4.Plugins.WebParts.MasterPages.Body.Login.aspx?ReturnUrl=%2fWebApp%2f, Microsoft-IIS/7.5, CBDE - Online TEST
+https://www.schufa.de/, None, SCHUFA - Wir schaffen Vertrauen
+https://www.schufa.de/, None, SCHUFA - Wir schaffen Vertrauen
+https://lyncdiscover.schufa.de:443/, Apache
+https://www.schufa.de:443/, None, SCHUFA - Wir schaffen Vertrauen
+http://ja.schufa.de:80/, UD Forwarding 3.0, Domain im Kundenauftrag registriert
+https://meet.schufa.de:443/, Apache, Skype for Business Web App
+https://www.schufa.de/, None, SCHUFA - Wir schaffen Vertrauen
+https://www.web.schufa.de:443/index.html, Apache, Schufa/WEB
+https://www.schufa.de/, None, SCHUFA - Wir schaffen Vertrauen
+https://digital.schufa.de/login, nginx, SCHUFA – Live
+https://digital.schufa.de/login, nginx, SCHUFA – Live
+https://www.schufa.de/, None, SCHUFA - Wir schaffen Vertrauen
+https://schufa.de:443/, None, SCHUFA - Wir schaffen Vertrauen
+https://www.meineschufa.de/index.php, Symantec Websecurity, SCHUFA-Auskunft das Original online auf meineSCHUFA.de bestellen

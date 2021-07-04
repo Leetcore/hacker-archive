@@ -1,0 +1,78 @@
+
+  <!DOCTYPE html>
+  <html lang="de">
+  <head>
+    <title>Internet-Safari</title>
+    <style>
+    body {
+      background-color: #333;
+      color: white;
+    }
+    a:visited {
+      color: #CCC;
+    }
+    a, a:hover {
+      color: white;
+    }
+    iframe {
+      width: 100%;
+      min-height: 600px;
+    }
+    button {
+      padding: 20px;
+    }
+    #menue {
+      margin-bottom: 10px;
+    }
+    </style>
+    <script>
+    timer = undefined
+    websites = ["https://www.bild.de/corporate/site/bild-de/bild-impressum-61563986.bild.html", "https://www.bild.de/corporate/site/bild-de/bild-impressum-61563986.bild.html", "https://www.bild.de/partner/aktuelle-partnerthemen-1/asmi/aktuelle-partnerthemen-1-24976318.bild.html", "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html", "https://www.bild.de/partner/lifestyle/gesundheit/fitbase-65436586.bild.html", "https://www.bild.de/partner/lifestyle/gesundheit/fitbase-65436586.bild.html", "https://m.wetter.bild.de:443/", "http://homeday.bild.de:80/", "http://m.wetter.bild.de:80/", "https://fabrik.kanzlit.com/online_raetsel/bild_channelizer_superraetsel.php", "https://fabrik.kanzlit.com/online_raetsel/bild_channelizer_superraetsel.php", "https://m.bild.de/", "https://www.bild.de", "https://www.bild.de/gutscheine/", "http://fotobuch.bild.de:80/", "https://fotobuch.bild.de:443/", "https://m.bild.de/", "https://www.bild.de/regional/bremen/bremen-regional/home-16292312.bild.html", "https://sportbild.bild.de/", "https://www.bild.de/regional/dresden/dresden-regional/home-16327670.bild.html", "https://www.bild.de/gewinnspiele/bildplus-aktion/eins-von-sechs-e-autos-von-renault-zu-gewinnen-bild-rettet-ihr-osterfest-69893958.bild.html", "https://www.bild.de/sport/fussball/soenke-wortmanns-em-film-teil-3-5137402.bild.html", "https://www.bild.de/gewinnspiele/bildplus-aktion/news-inland/bild-zahlt-alles-60669734.bild.html", "https://www.bild.de/gewinnspiele/bildplus-aktion/eins-von-sechs-e-autos-von-renault-zu-gewinnen-bild-rettet-ihr-osterfest-69893958.bild.html", "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html", "https://www.bild.de/regional/leipzig/leipzig-regional/startseite-16675698.bild.html", "https://www.bild.de/gewinnspiele/bildplus-aktion/news-inland/bild-zahlt-alles-60669734.bild.html", "https://www.lesershop24.de/sommergewinnspiel-2021/", "https://fahrschule.bild.de:443/", "https://restaurants.bild.de:443/", "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html", "https://coupons.bild.de:443/", "https://m.bild.de/", "https://www.bild.de/regional/leipzig/leipzig-regional/startseite-16675698.bild.html", "https://sportbild.bild.de/", "https://coupons.bild.de/", "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html", "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html", "https://fahrschule.bild.de:443/", "https://www.bild.de/regional/dresden/dresden-regional/home-16327670.bild.html", "https://www.bild.de/regional/duesseldorf/duesseldorf-regional/home-16337628.bild.html", "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html", "https://www.bild.de/", "https://tv.bild.de/", "https://tv.bild.de/", "https://onlinegames.bild.de:443/", "https://sportwetten.bild.de:443/", "https://www.bild.de/sport/fussball/kieler-sv-holstein/startseite-kiel-52363046.bild.html", "https://em-tippspiel.bild.de:443/", "https://www.bild.de/sport/fussball/kieler-sv-holstein/startseite-kiel-52363046.bild.html", "https://onlinegames.bild.de/", "https://m.audibene.bild.de/", "https://mics.bild.de/", "https://www.bild.de/storytelling/startseite/infografik/info-bild-seite-36143378.bild.html", "https://m.audibene.bild.de:443/", "https://mics.bild.de:443/", "https://www.bild.de/storytelling/startseite/infografik/info-bild-seite-36143378.bild.html", "https://em-tippspiel.bild.de:443/", "https://m.filmundfun.bild.de:443/", "https://m.filmundfun.bild.de/", "https://www.bild.de/partner/unterhaltung/serien/die-top-10-serientipps-fuer-den-sommer-52421702.bild.html", "https://sportwetten.bild.de/", "https://m.sport.bild.de/", "https://www.bild.de/vergleich/digitalkamera-test/", "https://www.bild.de/vergleich/digitalkamera-test/", "https://www.bild.de/gutscheine/thalia", "http://horoskop.bild.de:80/", "https://www.bild.de/gutscheine/thalia", "http://nettv.bild.de:80/", "https://nettv.bild.de:443/", "https://m.fussball-quiz.bild.de:443/", "https://www.bild.de/news/inland/dokumentation/clans-von-berlin-57921302.bild.html", "https://tv.bild.de/", "https://www.bild.de/ratgeber/gesundheit/gesundheit/pulsus-von-bams-und-tk-verleihung-17748208.bild.html", "https://m.bild.de/auto/startseite/auto/auto-home-15478182.bildMobile.html", "https://www.bild.de/regional/frankfurt/frankfurt-regional/home-16342404.bild.html", "https://www.bild.de/ratgeber/gesundheit/gesundheit/pulsus-von-bams-und-tk-verleihung-17748208.bild.html", "http://m.homeday.bild.de:80/", "https://mics.bild.de/", "https://m.homeday.bild.de:443/", "http://arztsuche.bild.de:80/", "https://notifications.bild.de:443/", "https://arztsuche.bild.de:443/", "https://notifications.bild.de/", "https://m.hoergeraete.bild.de:443/", "https://m.hoergeraete.bild.de/", "https://umfragen.bild.de:443/", "https://www.bild.de/bild-mobil/audio/podcast/startseite-podcast-65035322.bild.html", "https://www.bild.de/news/inland/65-jahre-bild/bild-kommt-zu-ihnen-deutschlandtour-durch-65-staedte-52847944.bild.html", "https://as.bild.de:443/", "https://iqtest.bild.de:443/", "https://m.strom.bild.de:443/", "https://www.bild.de/reise/startseite/aktivurlaub/reise-15478744.bild.html", "https://umfragen.bild.de/", "https://as.bild.de/", "https://m.strom.bild.de/", "https://www.bild.de/reise/startseite/aktivurlaub/reise-15478744.bild.html", "https://www.bild.de/bild-mobil/audio/podcast/startseite-podcast-65035322.bild.html", "https://iqtest.bild.de:443/", "https://m.wissenstest.bild.de:443/", "https://www.bild.de/", "https://as-wiki.axelspringer.de/login.action?os_destination=%2Fpages%2Fviewpage.action%3FspaceKey%3DFREEF%26title%3DBILDbook%2B-%2BStartseite&permissionViolation=true", "https://www.bild.de/", "https://www.bild.de/gutscheine/shops", "https://www.bild.de/gutscheine/shops", "https://www.coolgames.com/", "http://ww.bild.de:80/", "https://ww.bild.de:443/", "https://www.bild.de/", "https://www.bild.de/vergleich/", "https://m.bild.de/", "http://kandidaten-check.bild.de:8080/", "https://www.bild.de:443/", "http://wwww.bild.de:80/", "https://data-861bbf2127.bild.de:443/", "https://wwww.bild.de:443/", "https://www.bild.de/sport/fussball/sv-sandhausen/startseite-sandhausen-31148710.bild.html", "https://m.sport-quiz.bild.de:443/", "https://www.bild.de/partner/geld/finanzen/hier-finden-sie-den-besten-kredit-70364684.bild.html", "https://www.bild.de/sport/fussball/sv-sandhausen/startseite-sandhausen-31148710.bild.html", "https://www.bild.de/auto/startseite/auto/auto-home-15478182.bild.html", "https://www.bild.de/auto/startseite/auto/auto-home-15478182.bild.html", "https://userprofile-wrapper.prod.ps.bild.de:443/", "https://www.bild.de/video/clip/dokumentation/dokumentationen-59014692.bild.html", "https://m.sport-quiz.bild.de:443/", "https://www.bild.de/themen/specials/apple-apps/top-apps-beste-app-apple-app-store-16854678.bild.html", "https://www.bild.de/regional/hamburg/hamburg-regional/home-16344102.bild.html", "https://www.bild.de/ratgeber/gesundheit/gesundheit/pulsus-von-bams-und-tk-verleihung-17748208.bild.html", "https://userprofile-wrapper.prod.ps.bild.de/", "https://www.bild.de/news/mystery-themen/mystery/home-15682164.bild.html", "https://jobs.bild.de:443/", "https://m.bild.de/", "https://www.bild.de/regional/chemnitz/chemnitz-regional/home-chemnitz-22539154.bild.html", "https://www.bild.de/sport/fussball/fc-kaiserslautern/startseite-kaiserslautern-31148622.bild.html", "https://www.bild.de/sport/fussball/1-fc-heidenheim/startseite-heidenheim-31148890.bild.html", "https://www.bild.de/news/mystery-themen/mystery/home-15682164.bild.html", "https://data-861bbf2127.bild.de/", "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html", "https://m.bild.de/", "https://m.bild.de/", "https://spiele.bild.de/", "https://www.bild.de/ratgeber/kaufberater/black-friday/deals-schnaeppchen-angebote-alle-infos-zum-black-friday-2020-71943548.bild.html", "https://m.bild.de/", "https://www.bild.de/", "https://www.bild.de/unterhaltung/leute/now-united/vier-maedchen-und-ein-grosser-traum-52726908.bild.html", "https://voucher.bild.de/?successUrl=https%3A%2F%2Fdon.bild.de%2Fupdate%2Fnull", "https://www.bild.de/unterhaltung/leute/now-united/vier-maedchen-und-ein-grosser-traum-52726908.bild.html", "https://spiele.bild.de/", "https://www.bild.de/regional/hamburg/hamburg-regional/home-16344102.bild.html", "https://www.bild.de/partner/geld/finanzen/hier-finden-sie-den-besten-kredit-70364684.bild.html", "https://www.bild.de/themen/specials/apple-apps/top-apps-beste-app-apple-app-store-16854678.bild.html", "https://www.bild.de/ratgeber/kaufberater/black-friday/deals-schnaeppchen-angebote-alle-infos-zum-black-friday-2020-71943548.bild.html", "https://www.bild.de/", "https://jobs.bild.de/", "https://www.bild.de/gutscheine/expedia", "https://www.bild.de/gutscheine/expedia", "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html", "https://offers.bild.de/", "https://hoergeraete.bild.de:443/", "https://www.lesershop24.de/fruehjahrsgewinnspiele-2021/", "https://puls.bild.de:443/", "https://hoergeraete.bild.de/", "https://puls.bild.de/", "https://www.lesershop24.de/fruehjahrsgewinnspiele-2021/", "https://kundenservice.auth.axelspringer.de/?layout=bild", "https://kundenservice.auth.axelspringer.de/?layout=bild", "https://shop.bild.de/", "https://www.bild.de/gutscheine/number26"]
+    current = parseInt(localStorage.getItem("current")) || 0
+    if (websites.length - 1 < parseInt(current)) {
+      current = 0
+    }
+    
+    function next() {
+      clearTimeout(timer)
+      document.querySelector("#frame").setAttribute("src", "about:blank")
+      current++
+      localStorage.setItem("current", current)
+      document.querySelector("#url").setAttribute("href", websites[current])
+      document.querySelector("#url").innerText = websites[current]
+      document.querySelector("#frame").setAttribute("src", websites[current])
+      document.querySelector("#stat").innerText = current + " of " + (websites.length - 1) + " Websites"
+      timer = setTimeout(next, 5 * 1000)
+    }
+    function stop() {
+      clearTimeout(timer)
+    }
+    function back() {
+      clearTimeout(timer)
+      document.querySelector("#frame").setAttribute("src", "about:blank")
+      current--
+      localStorage.setItem("current", current)
+      document.querySelector("#url").setAttribute("href", websites[current])
+      document.querySelector("#url").innerText = websites[current]
+      document.querySelector("#frame").setAttribute("src", websites[current])
+      document.querySelector("#stat").innerText = current + " of " + (websites.length - 1) + " Websites"
+      timer = setTimeout(next, 5 * 1000)
+    }
+    </script>
+  </head>
+  <body>
+  <div id="menue">
+    <button onclick="back()">Back</button> <button onclick="stop()">Stop autoload</button> 
+    <button onclick="next()">Next</button> URL: <a id="url" href="" target="_blank"></a>, <span id="stat"></span>, 
+    <a href="#" onclick="current=0;next();back()">Back to start.</a>
+  </div>
+  <div id="main">
+    <iframe id="frame" referrerpolicy="no-referrer" sandbox="allow-scripts, allow-forms"></iframe>
+  </div>
+  <script>
+    next()
+    back()
+  </script>
+  </body>
+  </html>
+  

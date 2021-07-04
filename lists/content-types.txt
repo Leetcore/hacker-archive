@@ -1,0 +1,12 @@
+text/css
+text/csv
+text/plain
+image/png
+image/jpeg
+image/gif
+audio/mp4
+audio/mpeg
+audio/ogg
+application/rss+xml
+application/json
+application/javascript
