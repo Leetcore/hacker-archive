@@ -12,6 +12,7 @@ import argparse
 
 folder = os.path.dirname(__file__)
 visited_pages = []
+output_strings = []
 
 lock1 = FileLock("thread_1.lock", timeout=1)
 lock2 = FileLock("thread_2.lock", timeout=1)
@@ -30,7 +31,7 @@ def main():
   with open(input_file, "r") as myfile:
     content = myfile.readlines()
 
-    with ThreadPoolExecutor(max_workers = 5) as executor:
+    with ThreadPoolExecutor(max_workers = 50) as executor:
       for line in content:
         for port in ports:
           http = "https://"
@@ -50,7 +51,7 @@ def request_url(url):
   try:
     session = requests.session()
     session.headers['User-Agent'] = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
-    response = session.get(url=url, timeout=10)
+    response = session.get(url=url, timeout=5)
     session.close()
 
     if response.status_code >= 400:
@@ -77,12 +78,13 @@ def get_banner(request, soup):
       print(e)
 
     fullstring = ', '.join(str(item) for item in banner_array)
-    print(Fore.GREEN + fullstring)
-
-    with lock1:
-      open(output_file + '_banner.txt', "a").write(fullstring +'\n')
-    with lock2:
-      open(output_file, "a").write(request.url +'\n')
+    if fullstring not in output_strings:
+      output_strings.append(fullstring)
+      print(Fore.GREEN + fullstring)
+      with lock1:
+        open(output_file + '_banner.txt', "a").write(fullstring +'\n')
+      with lock2:
+        open(output_file, "a").write(request.url +'\n')
 
 if __name__ == "__main__":
   parser = argparse.ArgumentParser(description='Crawl websites from subdomain/domain list')

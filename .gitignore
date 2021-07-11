@@ -2,3 +2,4 @@ results/.DS_Store
 results/*/*.bolt
 *.lock
 .vscode/*
+.DS_Store

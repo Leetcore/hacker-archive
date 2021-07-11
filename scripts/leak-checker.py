@@ -33,7 +33,7 @@ def main():
   with open(leak_file_path, "r") as myfile:
     leaky_filenames = myfile.readlines()
 
-  with ThreadPoolExecutor(max_workers = 5) as executor:
+  with ThreadPoolExecutor(max_workers = 50) as executor:
     for line in content:
       if line.startswith("http"):
         executor.submit(start_crawler, line.strip())
