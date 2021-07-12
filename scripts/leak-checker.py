@@ -23,7 +23,6 @@ ports = [
 def main():
   global leaky_filenames, exts
 
-
   with open(input_file, "r") as myfile:
     content = myfile.readlines()
 
